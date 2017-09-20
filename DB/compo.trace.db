@@ -1,0 +1,59 @@
+2017-08-20 17:34:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Column "RESOLVED" not found; SQL statement:
+select * from history where prev=resolved [42122-195]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.expression.ExpressionColumn.optimize(ExpressionColumn.java:147)
+	at org.h2.expression.Comparison.optimize(Comparison.java:180)
+	at org.h2.command.dml.Select.prepare(Select.java:842)
+	at org.h2.command.Parser.prepareCommand(Parser.java:262)
+	at org.h2.engine.Session.prepareLocal(Session.java:573)
+	at org.h2.engine.Session.prepareCommand(Session.java:514)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1204)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:177)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:165)
+	at org.h2.server.web.WebApp.getResult(WebApp.java:1380)
+	at org.h2.server.web.WebApp.query(WebApp.java:1053)
+	at org.h2.server.web.WebApp$1.next(WebApp.java:1015)
+	at org.h2.server.web.WebApp$1.next(WebApp.java:1002)
+	at org.h2.server.web.WebThread.process(WebThread.java:164)
+	at org.h2.server.web.WebThread.run(WebThread.java:89)
+	at java.lang.Thread.run(Unknown Source)
+2017-08-20 17:36:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TABLE" not found; SQL statement:
+delete table history [42102-195]
+08-20 18:08:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Column "CORE" not found; SQL statement:
+SELECT count(*) as count FROM history where component=core [42122-184]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.expression.ExpressionColumn.optimize(ExpressionColumn.java:147)
+	at org.h2.expression.Comparison.optimize(Comparison.java:180)
+	at org.h2.command.dml.Select.prepare(Select.java:837)
+	at org.h2.command.Parser.prepareCommand(Parser.java:247)
+	at org.h2.engine.Session.prepareLocal(Session.java:446)
+	at org.h2.engine.Session.prepareCommand(Session.java:388)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1189)
+	at org.h2.jdbc.JdbcStatement.executeQuery(JdbcStatement.java:73)
+	at sample.BugDBConnection.main(BugDBConnection.java:91)
+08-20 18:10:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "META_FIELD" not found; SQL statement:
+SELECT field, avg(time), min(time),max(time) FROM (SELECT field, PARSEDATETIME(date,'yyyy-MM-dd hh:mm:ss')-PARSEDATETIME(open_date,'yyyy-MM-dd hh:mm:ss') as time FROM (SELECT h.bug_id, open_date, date, field FROM history as h, META_FIELD as m WHERE h.bug_id=m.bug_id)  group by field, time) group by field [42102-184]
+08-20 18:10:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-184]
+08-20 18:11:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The object is already closed [90007-184]
+08-21 13:43:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT FIELD, RECOUNT, COUNT(RECOUNT) FROM (SELECT FIELD, CASE WHEN RE_COUNT<4 THEN RE_COUNT ELSE '4' END AS RECOUNT FROM (SELECT BUG_ID, FIELD, COUNT(FIELD) AS RE_COUNT FROM HISTORY AND COMPONENT[*]='core' GROUP BY BUG_ID, FIELD)) GROUP BY FIELD,RECOUNT ORDER BY FIELD,RECOUNT "; expected "RIGHT, LEFT, FULL, INNER, JOIN, CROSS, NATURAL, ,, WHERE, GROUP, HAVING, UNION, MINUS, EXCEPT, INTERSECT, ORDER, OFFSET, FETCH, LIMIT, FOR, )"; SQL statement:
+SELECT field, recount, count(recount) FROM (SELECT field, case when re_count<4 then re_count else '4' end as recount FROM (SELECT bug_id, field, count(field) as re_count FROM history and component='core' group by bug_id, field)) group by field,recount order by field,recount [42001-184]
+08-21 13:43:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT FIELD, RECOUNT, COUNT(RECOUNT) FROM (SELECT FIELD, CASE WHEN RE_COUNT<4 THEN RE_COUNT ELSE '4' END AS RECOUNT FROM (SELECT BUG_ID, FIELD, COUNT(FIELD) AS RE_COUNT FROM HISTORY AND COMPONENT[*]='californium' GROUP BY BUG_ID, FIELD)) GROUP BY FIELD,RECOUNT ORDER BY FIELD,RECOUNT "; expected "RIGHT, LEFT, FULL, INNER, JOIN, CROSS, NATURAL, ,, WHERE, GROUP, HAVING, UNION, MINUS, EXCEPT, INTERSECT, ORDER, OFFSET, FETCH, LIMIT, FOR, )"; SQL statement:
+SELECT field, recount, count(recount) FROM (SELECT field, case when re_count<4 then re_count else '4' end as recount FROM (SELECT bug_id, field, count(field) as re_count FROM history and component='californium' group by bug_id, field)) group by field,recount order by field,recount [42001-184]
+08-21 13:43:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT FIELD, RECOUNT, COUNT(RECOUNT) FROM (SELECT FIELD, CASE WHEN RE_COUNT<4 THEN RE_COUNT ELSE '4' END AS RECOUNT FROM (SELECT BUG_ID, FIELD, COUNT(FIELD) AS RE_COUNT FROM HISTORY AND COMPONENT[*]='tools' GROUP BY BUG_ID, FIELD)) GROUP BY FIELD,RECOUNT ORDER BY FIELD,RECOUNT "; expected "RIGHT, LEFT, FULL, INNER, JOIN, CROSS, NATURAL, ,, WHERE, GROUP, HAVING, UNION, MINUS, EXCEPT, INTERSECT, ORDER, OFFSET, FETCH, LIMIT, FOR, )"; SQL statement:
+SELECT field, recount, count(recount) FROM (SELECT field, case when re_count<4 then re_count else '4' end as recount FROM (SELECT bug_id, field, count(field) as re_count FROM history and component='tools' group by bug_id, field)) group by field,recount order by field,recount [42001-184]
+08-21 13:44:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT FIELD, RECOUNT, COUNT(RECOUNT) FROM (SELECT FIELD, CASE WHEN RE_COUNT<4 THEN RE_COUNT ELSE '4' END AS RECOUNT FROM (SELECT BUG_ID, FIELD, COUNT(FIELD) AS RE_COUNT FROM HISTORY AND COMPONENT[*]='scandium' GROUP BY BUG_ID, FIELD)) GROUP BY FIELD,RECOUNT ORDER BY FIELD,RECOUNT "; expected "RIGHT, LEFT, FULL, INNER, JOIN, CROSS, NATURAL, ,, WHERE, GROUP, HAVING, UNION, MINUS, EXCEPT, INTERSECT, ORDER, OFFSET, FETCH, LIMIT, FOR, )"; SQL statement:
+SELECT field, recount, count(recount) FROM (SELECT field, case when re_count<4 then re_count else '4' end as recount FROM (SELECT bug_id, field, count(field) as re_count FROM history and component='scandium' group by bug_id, field)) group by field,recount order by field,recount [42001-184]

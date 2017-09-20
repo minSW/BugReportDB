@@ -1,0 +1,5812 @@
+component,field,1,2,3,4,total
+accservice,assignee,0,0,0,0,599
+accservice,component,0,0,0,0,599
+accservice,hardware,1,0,0,0,599
+accservice,os,0,0,0,0,599
+accservice,priority,0,0,0,0,599
+accservice,product,0,0,0,0,599
+accservice,severity,0,0,0,0,599
+accservice,status,0,0,0,0,599
+accservice,version,1,0,0,0,599
+accservice 요약,,2,0,0,0,5391
+ace,assignee,0,0,0,0,8
+ace,component,0,0,0,0,8
+ace,hardware,0,0,0,0,8
+ace,os,0,0,0,0,8
+ace,priority,0,0,0,0,8
+ace,product,0,0,0,0,8
+ace,severity,0,0,0,0,8
+ace,status,0,0,0,0,8
+ace,version,0,1,0,0,8
+ace 요약,,0,1,0,0,72
+actiontrackingsystem(ats),assignee,0,0,0,0,146
+actiontrackingsystem(ats),component,0,0,0,0,146
+actiontrackingsystem(ats),hardware,10,0,0,0,146
+actiontrackingsystem(ats),os,10,0,0,0,146
+actiontrackingsystem(ats),priority,0,0,0,0,146
+actiontrackingsystem(ats),product,0,0,0,0,146
+actiontrackingsystem(ats),severity,2,0,0,0,146
+actiontrackingsystem(ats),status,0,0,0,0,146
+actiontrackingsystem(ats),version,4,0,0,0,146
+actiontrackingsystem(ats) 요약,,26,0,0,0,1314
+addons,assignee,0,0,0,0,7
+addons,component,0,0,0,0,7
+addons,hardware,0,0,0,0,7
+addons,os,0,0,0,0,7
+addons,priority,0,0,0,0,7
+addons,product,0,0,0,0,7
+addons,severity,0,0,0,0,7
+addons,status,0,0,0,0,7
+addons,version,1,0,0,0,7
+addons 요약,,1,0,0,0,63
+adl,assignee,0,0,0,0,4
+adl,component,0,0,0,0,4
+adl,hardware,1,0,0,0,4
+adl,os,1,0,0,0,4
+adl,priority,0,0,0,0,4
+adl,product,0,0,0,0,4
+adl,severity,0,0,0,0,4
+adl,status,0,0,0,0,4
+adl,version,0,0,0,0,4
+adl 요약,,2,0,0,0,36
+admin,assignee,0,0,0,0,93
+admin,component,3,0,0,0,93
+admin,hardware,1,0,0,0,93
+admin,os,1,0,0,0,93
+admin,priority,0,0,0,0,93
+admin,product,0,0,0,0,93
+admin,severity,13,0,0,0,93
+admin,status,0,0,0,0,93
+admin,version,2,0,0,0,93
+admin 요약,,20,0,0,0,837
+agent,assignee,0,0,0,0,1062
+agent,component,1,0,0,0,1062
+agent,hardware,7,0,0,0,1062
+agent,os,8,0,0,0,1062
+agent,priority,44,10,2,1,1062
+agent,product,0,0,0,0,1062
+agent,severity,28,1,0,0,1062
+agent,status,0,0,0,0,1062
+agent,version,5,0,0,0,1062
+agent 요약,,93,11,2,1,9558
+agf,assignee,0,0,0,0,5
+agf,component,0,0,0,0,5
+agf,hardware,1,0,0,0,5
+agf,os,1,0,0,0,5
+agf,priority,0,0,0,0,5
+agf,product,0,0,0,0,5
+agf,severity,1,0,0,0,5
+agf,status,0,0,0,0,5
+agf,version,0,0,0,0,5
+agf 요약,,3,0,0,0,45
+agfchart,assignee,0,0,0,0,5
+agfchart,component,0,0,0,0,5
+agfchart,hardware,0,0,0,0,5
+agfchart,os,0,0,0,0,5
+agfchart,priority,0,0,0,0,5
+agfchart,product,0,0,0,0,5
+agfchart,severity,0,0,0,0,5
+agfchart,status,0,0,0,0,5
+agfchart,version,1,0,0,0,5
+agfchart 요약,,1,0,0,0,45
+aggregator,assignee,0,0,0,0,100
+aggregator,component,1,0,0,0,100
+aggregator,hardware,0,0,0,0,100
+aggregator,os,0,0,0,0,100
+aggregator,priority,0,0,0,0,100
+aggregator,product,0,0,0,0,100
+aggregator,severity,3,0,0,0,100
+aggregator,status,0,0,0,0,100
+aggregator,version,0,0,0,0,100
+aggregator 요약,,4,0,0,0,900
+ai,assignee,0,0,0,0,804
+ai,component,0,0,0,0,804
+ai,hardware,0,0,0,0,804
+ai,os,1,0,0,0,804
+ai,priority,0,0,0,0,804
+ai,product,0,0,0,0,804
+ai,severity,3,0,0,0,804
+ai,status,0,0,0,0,804
+ai,version,1,0,0,0,804
+ai 요약,,5,0,0,0,7236
+ajbrowser,assignee,0,0,0,0,37
+ajbrowser,component,0,0,0,0,37
+ajbrowser,hardware,0,0,0,0,37
+ajbrowser,os,0,0,0,0,37
+ajbrowser,priority,3,0,0,0,37
+ajbrowser,product,0,0,0,0,37
+ajbrowser,severity,1,0,0,0,37
+ajbrowser,status,0,0,0,0,37
+ajbrowser,version,0,0,0,0,37
+ajbrowser 요약,,4,0,0,0,333
+ajdoc,assignee,0,0,0,0,67
+ajdoc,component,0,0,0,0,67
+ajdoc,hardware,0,0,0,0,67
+ajdoc,os,0,0,0,0,67
+ajdoc,priority,1,0,0,0,67
+ajdoc,product,0,0,0,0,67
+ajdoc,severity,2,0,0,0,67
+ajdoc,status,0,0,0,0,67
+ajdoc,version,2,0,0,0,67
+ajdoc 요약,,5,0,0,0,603
+am3,assignee,0,0,0,0,13
+am3,component,3,0,0,0,13
+am3,hardware,0,0,0,0,13
+am3,os,0,0,0,0,13
+am3,priority,0,0,0,0,13
+am3,product,2,0,0,0,13
+am3,severity,0,0,0,0,13
+am3,status,0,0,0,0,13
+am3,version,0,0,0,0,13
+am3 요약,,5,0,0,0,117
+amf,assignee,0,0,0,0,57
+amf,component,1,0,0,0,57
+amf,hardware,3,0,0,0,57
+amf,os,3,0,0,0,57
+amf,priority,3,0,0,0,57
+amf,product,0,0,0,0,57
+amf,severity,5,0,0,0,57
+amf,status,0,0,0,0,57
+amf,version,3,1,0,0,57
+amf 요약,,18,1,0,0,513
+amfui,assignee,0,0,0,0,38
+amfui,component,1,0,0,0,38
+amfui,hardware,2,0,0,0,38
+amfui,os,2,0,0,0,38
+amfui,priority,1,1,1,0,38
+amfui,product,0,0,0,0,38
+amfui,severity,1,1,0,0,38
+amfui,status,0,0,0,0,38
+amfui,version,4,0,0,0,38
+amfui 요약,,11,2,1,0,342
+aml,assignee,0,0,0,0,2
+aml,component,2,0,0,0,2
+aml,hardware,0,0,0,0,2
+aml,os,0,0,0,0,2
+aml,priority,0,0,0,0,2
+aml,product,0,0,0,0,2
+aml,severity,0,0,0,0,2
+aml,status,0,0,0,0,2
+aml,version,0,0,0,0,2
+aml 요약,,2,0,0,0,18
+analysis,assignee,0,0,0,0,9
+analysis,component,0,0,0,0,9
+analysis,hardware,0,0,0,0,9
+analysis,os,1,0,0,0,9
+analysis,priority,0,0,0,0,9
+analysis,product,0,0,0,0,9
+analysis,severity,0,0,0,0,9
+analysis,status,0,0,0,0,9
+analysis,version,0,0,0,0,9
+analysis 요약,,1,0,0,0,81
+android,assignee,0,0,0,0,82
+android,component,1,0,0,0,82
+android,hardware,0,0,0,0,82
+android,os,1,0,0,0,82
+android,priority,0,0,0,0,82
+android,product,0,0,0,0,82
+android,severity,2,0,0,0,82
+android,status,0,0,0,0,82
+android,version,0,0,0,0,82
+android 요약,,4,0,0,0,738
+annotations,assignee,0,0,0,0,325
+annotations,component,3,0,0,0,325
+annotations,hardware,0,0,0,0,325
+annotations,os,0,0,0,0,325
+annotations,priority,7,0,0,0,325
+annotations,product,0,0,0,0,325
+annotations,severity,7,0,0,0,325
+annotations,status,0,0,0,0,325
+annotations,version,0,0,0,0,325
+annotations 요약,,17,0,0,0,2925
+ant,assignee,0,0,0,0,3944
+ant,component,73,4,0,0,3944
+ant,hardware,25,0,0,0,3944
+ant,os,45,0,0,0,3944
+ant,priority,152,1,0,0,3944
+ant,product,89,0,0,0,3944
+ant,severity,204,9,2,0,3944
+ant,status,0,0,0,0,3944
+ant,version,73,0,0,0,3944
+ant 요약,,661,14,2,0,35496
+apitools,assignee,0,0,0,0,1332
+apitools,component,29,0,0,0,1332
+apitools,hardware,72,1,0,0,1332
+apitools,os,82,1,0,0,1332
+apitools,priority,10,0,0,0,1332
+apitools,product,1,0,0,0,1332
+apitools,severity,68,4,0,0,1332
+apitools,status,0,0,0,0,1332
+apitools,version,33,0,0,0,1332
+apitools 요약,,295,6,0,0,11988
+applicationdevelopment,assignee,0,0,0,0,9
+applicationdevelopment,component,0,0,0,0,9
+applicationdevelopment,hardware,2,0,0,0,9
+applicationdevelopment,os,2,0,0,0,9
+applicationdevelopment,priority,0,0,0,0,9
+applicationdevelopment,product,0,0,0,0,9
+applicationdevelopment,severity,2,0,0,0,9
+applicationdevelopment,status,0,0,0,0,9
+applicationdevelopment,version,1,0,0,0,9
+applicationdevelopment 요약,,7,0,0,0,81
+applicationtypes,assignee,0,0,0,0,2
+applicationtypes,component,0,0,0,0,2
+applicationtypes,hardware,0,0,0,0,2
+applicationtypes,os,0,0,0,0,2
+applicationtypes,priority,0,0,0,0,2
+applicationtypes,product,0,0,0,0,2
+applicationtypes,severity,0,0,0,0,2
+applicationtypes,status,0,0,0,0,2
+applicationtypes,version,0,0,0,0,2
+applicationtypes 요약,,0,0,0,0,18
+apt,assignee,0,0,0,0,549
+apt,component,3,0,0,0,549
+apt,hardware,1,0,0,0,549
+apt,os,3,0,0,0,549
+apt,priority,8,2,0,0,549
+apt,product,2,0,0,0,549
+apt,severity,15,3,0,0,549
+apt,status,0,0,0,0,549
+apt,version,10,0,0,0,549
+apt 요약,,42,5,0,0,4941
+arduino,assignee,0,0,0,0,187
+arduino,component,0,0,0,0,187
+arduino,hardware,2,0,0,0,187
+arduino,os,3,0,0,0,187
+arduino,priority,0,0,0,0,187
+arduino,product,0,0,0,0,187
+arduino,severity,14,0,0,0,187
+arduino,status,0,0,0,0,187
+arduino,version,3,0,0,0,187
+arduino 요약,,22,0,0,0,1683
+artifactrepository,assignee,0,0,0,0,41
+artifactrepository,component,1,0,0,0,41
+artifactrepository,hardware,1,0,0,0,41
+artifactrepository,os,2,0,0,0,41
+artifactrepository,priority,1,0,0,0,41
+artifactrepository,product,1,0,0,0,41
+artifactrepository,severity,4,0,0,0,41
+artifactrepository,status,0,0,0,0,41
+artifactrepository,version,0,0,0,0,41
+artifactrepository 요약,,10,0,0,0,369
+automatederrorreportingclient(aeri),assignee,0,0,0,0,968
+automatederrorreportingclient(aeri),component,101,0,0,0,968
+automatederrorreportingclient(aeri),hardware,20,0,0,0,968
+automatederrorreportingclient(aeri),os,20,0,0,0,968
+automatederrorreportingclient(aeri),priority,37,3,3,1,968
+automatederrorreportingclient(aeri),product,101,0,0,0,968
+automatederrorreportingclient(aeri),severity,24,0,0,0,968
+automatederrorreportingclient(aeri),status,0,0,0,0,968
+automatederrorreportingclient(aeri),version,70,5,0,0,968
+automatederrorreportingclient(aeri) 요약,,373,8,3,1,8712
+autotools,assignee,0,0,0,0,207
+autotools,component,38,0,0,0,207
+autotools,hardware,1,0,0,0,207
+autotools,os,0,0,0,0,207
+autotools,priority,0,0,0,0,207
+autotools,product,38,0,0,0,207
+autotools,severity,1,0,0,0,207
+autotools,status,0,0,0,0,207
+autotools,version,39,1,0,0,207
+autotools 요약,,117,1,0,0,1863
+axf,assignee,0,0,0,0,8
+axf,component,0,0,0,0,8
+axf,hardware,1,0,0,0,8
+axf,os,1,0,0,0,8
+axf,priority,1,0,0,0,8
+axf,product,0,0,0,0,8
+axf,severity,1,0,0,0,8
+axf,status,0,0,0,0,8
+axf,version,0,0,0,0,8
+axf 요약,,4,0,0,0,72
+backchannel,assignee,0,0,0,0,2
+backchannel,component,0,0,0,0,2
+backchannel,hardware,0,0,0,0,2
+backchannel,os,0,0,0,0,2
+backchannel,priority,0,0,0,0,2
+backchannel,product,0,0,0,0,2
+backchannel,severity,0,0,0,0,2
+backchannel,status,0,0,0,0,2
+backchannel,version,0,0,0,0,2
+backchannel 요약,,0,0,0,0,18
+backend,assignee,0,0,0,0,79
+backend,component,2,0,0,0,79
+backend,hardware,2,0,0,0,79
+backend,os,1,0,0,0,79
+backend,priority,4,2,0,0,79
+backend,product,0,0,0,0,79
+backend,severity,9,0,0,0,79
+backend,status,0,0,0,0,79
+backend,version,1,0,0,0,79
+backend 요약,,19,2,0,0,711
+backlog,assignee,0,0,0,0,236
+backlog,component,74,0,0,0,236
+backlog,hardware,1,0,0,0,236
+backlog,os,1,0,0,0,236
+backlog,priority,1,0,0,0,236
+backlog,product,17,0,0,0,236
+backlog,severity,32,1,0,0,236
+backlog,status,0,0,0,0,236
+backlog,version,16,3,0,0,236
+backlog 요약,,142,4,0,0,2124
+base,assignee,0,0,0,0,7
+base,component,0,0,0,0,7
+base,hardware,0,0,0,0,7
+base,os,0,0,0,0,7
+base,priority,0,0,0,0,7
+base,product,0,0,0,0,7
+base,severity,0,0,0,0,7
+base,status,0,0,0,0,7
+base,version,1,0,0,0,7
+base 요약,,1,0,0,0,63
+bidilayout,assignee,0,0,0,0,2
+bidilayout,component,0,0,0,0,2
+bidilayout,hardware,0,0,0,0,2
+bidilayout,os,0,0,0,0,2
+bidilayout,priority,0,0,0,0,2
+bidilayout,product,0,0,0,0,2
+bidilayout,severity,0,0,0,0,2
+bidilayout,status,0,0,0,0,2
+bidilayout,version,0,0,0,0,2
+bidilayout 요약,,0,0,0,0,18
+blam,assignee,0,0,0,0,3
+blam,component,0,0,0,0,3
+blam,hardware,0,0,0,0,3
+blam,os,0,0,0,0,3
+blam,priority,0,0,0,0,3
+blam,product,0,0,0,0,3
+blam,severity,0,0,0,0,3
+blam,status,0,0,0,0,3
+blam,version,1,0,0,0,3
+blam 요약,,1,0,0,0,27
+bootstrapper,assignee,0,0,0,0,54
+bootstrapper,component,0,0,0,0,54
+bootstrapper,hardware,0,0,0,0,54
+bootstrapper,os,0,0,0,0,54
+bootstrapper,priority,0,0,0,0,54
+bootstrapper,product,0,0,0,0,54
+bootstrapper,severity,0,0,0,0,54
+bootstrapper,status,0,0,0,0,54
+bootstrapper,version,0,0,0,0,54
+bootstrapper 요약,,0,0,0,0,486
+branches,assignee,0,0,0,0,17
+branches,component,2,0,0,0,17
+branches,hardware,0,0,0,0,17
+branches,os,0,0,0,0,17
+branches,priority,0,0,0,0,17
+branches,product,2,0,0,0,17
+branches,severity,2,0,0,0,17
+branches,status,0,0,0,0,17
+branches,version,0,0,0,0,17
+branches 요약,,6,0,0,0,153
+browserbasedmodeler,assignee,0,0,0,0,81
+browserbasedmodeler,component,1,0,0,0,81
+browserbasedmodeler,hardware,0,0,0,0,81
+browserbasedmodeler,os,0,0,0,0,81
+browserbasedmodeler,priority,0,0,0,0,81
+browserbasedmodeler,product,0,0,0,0,81
+browserbasedmodeler,severity,7,0,0,0,81
+browserbasedmodeler,status,0,0,0,0,81
+browserbasedmodeler,version,3,0,0,0,81
+browserbasedmodeler 요약,,11,0,0,0,729
+browsertooling,assignee,0,0,0,0,65
+browsertooling,component,0,0,0,0,65
+browsertooling,hardware,0,0,0,0,65
+browsertooling,os,0,0,0,0,65
+browsertooling,priority,14,1,0,0,65
+browsertooling,product,0,0,0,0,65
+browsertooling,severity,2,0,1,0,65
+browsertooling,status,0,0,0,0,65
+browsertooling,version,0,0,0,0,65
+browsertooling 요약,,16,1,1,0,585
+buckminster,assignee,0,0,0,0,5
+buckminster,component,1,0,0,0,5
+buckminster,hardware,0,0,0,0,5
+buckminster,os,0,0,0,0,5
+buckminster,priority,0,0,0,0,5
+buckminster,product,0,0,0,0,5
+buckminster,severity,0,0,0,0,5
+buckminster,status,0,0,0,0,5
+buckminster,version,0,0,0,0,5
+buckminster 요약,,1,0,0,0,45
+bugzilla,assignee,0,0,0,0,2538
+bugzilla,component,15,1,0,0,2538
+bugzilla,hardware,4,0,0,0,2538
+bugzilla,os,16,0,0,1,2538
+bugzilla,priority,261,32,17,5,2538
+bugzilla,product,1,0,0,0,2538
+bugzilla,severity,118,6,0,0,2538
+bugzilla,status,0,0,0,0,2538
+bugzilla,version,18,0,0,0,2538
+bugzilla 요약,,433,39,17,6,22842
+build,assignee,0,0,0,0,6109
+build,component,163,15,0,0,6109
+build,hardware,19,0,0,0,6109
+build,os,40,0,0,0,6109
+build,priority,92,5,1,0,6109
+build,product,43,2,0,0,6109
+build,severity,214,9,2,0,6109
+build,status,0,0,0,0,6109
+build,version,179,6,1,0,6109
+build 요약,,750,37,4,0,54981
+builder,assignee,0,0,0,0,85
+builder,component,1,0,0,0,85
+builder,hardware,9,0,0,0,85
+builder,os,9,0,0,0,85
+builder,priority,0,0,0,0,85
+builder,product,1,0,0,0,85
+builder,severity,2,0,0,0,85
+builder,status,0,0,0,0,85
+builder,version,1,0,0,0,85
+builder 요약,,23,0,0,0,765
+buildhelp,assignee,0,0,0,0,70
+buildhelp,component,1,0,0,0,70
+buildhelp,hardware,0,0,0,0,70
+buildhelp,os,0,0,0,0,70
+buildhelp,priority,2,0,0,0,70
+buildhelp,product,1,0,0,0,70
+buildhelp,severity,0,1,0,0,70
+buildhelp,status,0,0,0,0,70
+buildhelp,version,2,0,0,0,70
+buildhelp 요약,,6,1,0,0,630
+buildsystem,assignee,0,0,0,0,159
+buildsystem,component,11,0,0,0,159
+buildsystem,hardware,0,0,0,0,159
+buildsystem,os,0,0,0,0,159
+buildsystem,priority,0,0,0,0,159
+buildsystem,product,0,0,0,0,159
+buildsystem,severity,1,0,0,0,159
+buildsystem,status,0,0,0,0,159
+buildsystem,version,13,1,0,1,159
+buildsystem 요약,,25,1,0,1,1431
+bundles,assignee,0,0,0,0,610
+bundles,component,4,0,0,0,610
+bundles,hardware,3,0,0,0,610
+bundles,os,4,0,0,0,610
+bundles,priority,7,0,0,0,610
+bundles,product,2,0,0,0,610
+bundles,severity,21,1,0,0,610
+bundles,status,0,0,0,0,610
+bundles,version,0,0,0,0,610
+bundles 요약,,41,1,0,0,5490
+bundlor,assignee,0,0,0,0,17
+bundlor,component,2,1,0,0,17
+bundlor,hardware,0,0,0,0,17
+bundlor,os,1,0,0,0,17
+bundlor,priority,0,0,0,0,17
+bundlor,product,1,0,0,0,17
+bundlor,severity,4,0,0,0,17
+bundlor,status,0,0,0,0,17
+bundlor,version,2,0,0,0,17
+bundlor 요약,,10,1,0,0,153
+c,assignee,0,0,0,0,0
+c,component,0,0,0,0,0
+c,hardware,0,0,0,0,0
+c,os,0,0,0,0,0
+c,priority,0,0,0,0,0
+c,product,0,0,0,0,0
+c,severity,0,0,0,0,0
+c,status,0,0,0,0,0
+c,version,0,0,0,0,0
+c 요약,,0,0,0,0,0
+calendarcombo,assignee,0,0,0,0,78
+calendarcombo,component,1,0,0,0,78
+calendarcombo,hardware,0,0,0,0,78
+calendarcombo,os,0,0,0,0,78
+calendarcombo,priority,0,0,0,0,78
+calendarcombo,product,1,0,0,0,78
+calendarcombo,severity,3,0,0,0,78
+calendarcombo,status,0,0,0,0,78
+calendarcombo,version,1,0,0,0,78
+calendarcombo 요약,,6,0,0,0,702
+californium,assignee,0,0,0,0,58
+californium,component,0,0,0,0,58
+californium,hardware,2,0,0,0,58
+californium,os,2,0,0,0,58
+californium,priority,0,0,0,0,58
+californium,product,0,0,0,0,58
+californium,severity,4,0,0,0,58
+californium,status,0,0,0,0,58
+californium,version,0,0,0,0,58
+californium 요약,,8,0,0,0,522
+camelintegration,assignee,0,0,0,0,5
+camelintegration,component,0,0,0,0,5
+camelintegration,hardware,0,0,0,0,5
+camelintegration,os,0,0,0,0,5
+camelintegration,priority,0,0,0,0,5
+camelintegration,product,0,0,0,0,5
+camelintegration,severity,0,0,0,0,5
+camelintegration,status,0,0,0,0,5
+camelintegration,version,0,1,0,0,5
+camelintegration 요약,,0,1,0,0,45
+cbip2repositoryaggregator,assignee,0,0,0,0,583
+cbip2repositoryaggregator,component,111,0,0,0,583
+cbip2repositoryaggregator,hardware,7,0,0,0,583
+cbip2repositoryaggregator,os,9,0,0,0,583
+cbip2repositoryaggregator,priority,1,0,0,0,583
+cbip2repositoryaggregator,product,108,0,0,0,583
+cbip2repositoryaggregator,severity,18,3,0,0,583
+cbip2repositoryaggregator,status,0,0,0,0,583
+cbip2repositoryaggregator,version,0,0,0,0,583
+cbip2repositoryaggregator 요약,,254,3,0,0,5247
+cda,assignee,0,0,0,0,11
+cda,component,2,1,0,0,11
+cda,hardware,2,0,0,0,11
+cda,os,2,0,0,0,11
+cda,priority,0,0,0,0,11
+cda,product,0,0,0,0,11
+cda,severity,0,0,0,0,11
+cda,status,0,0,0,0,11
+cda,version,0,0,0,0,11
+cda 요약,,6,1,0,0,99
+cdatetime,assignee,0,0,0,0,130
+cdatetime,component,0,0,0,0,130
+cdatetime,hardware,4,0,0,0,130
+cdatetime,os,8,0,0,0,130
+cdatetime,priority,1,0,0,0,130
+cdatetime,product,0,0,0,0,130
+cdatetime,severity,4,0,0,0,130
+cdatetime,status,0,0,0,0,130
+cdatetime,version,0,0,0,0,130
+cdatetime 요약,,17,0,0,0,1170
+cdi,assignee,0,0,0,0,293
+cdi,component,86,2,1,0,293
+cdi,hardware,0,0,0,0,293
+cdi,os,1,0,0,0,293
+cdi,priority,0,0,0,0,293
+cdi,product,0,0,0,0,293
+cdi,severity,2,0,0,0,293
+cdi,status,0,0,0,0,293
+cdi,version,10,0,0,0,293
+cdi 요약,,99,2,1,0,2637
+cell,assignee,0,0,0,0,8
+cell,component,1,0,0,0,8
+cell,hardware,0,0,0,0,8
+cell,os,0,0,0,0,8
+cell,priority,1,0,0,0,8
+cell,product,0,0,0,0,8
+cell,severity,1,0,0,0,8
+cell,status,0,0,0,0,8
+cell,version,0,0,0,0,8
+cell 요약,,3,0,0,0,72
+cep,assignee,0,0,0,0,47
+cep,component,1,0,0,0,47
+cep,hardware,0,0,0,0,47
+cep,os,0,0,0,0,47
+cep,priority,5,0,0,0,47
+cep,product,0,0,0,0,47
+cep,severity,7,1,0,0,47
+cep,status,0,0,0,0,47
+cep,version,3,0,0,0,47
+cep 요약,,16,1,0,0,423
+cgeneration,assignee,0,0,0,0,14
+cgeneration,component,0,0,0,0,14
+cgeneration,hardware,0,0,0,0,14
+cgeneration,os,0,0,0,0,14
+cgeneration,priority,0,0,0,0,14
+cgeneration,product,0,0,0,0,14
+cgeneration,severity,2,0,0,0,14
+cgeneration,status,0,0,0,0,14
+cgeneration,version,0,1,0,0,14
+cgeneration 요약,,2,1,0,0,126
+chart,assignee,0,0,0,0,1921
+chart,component,45,2,0,0,1921
+chart,hardware,5,0,0,0,1921
+chart,os,16,0,0,0,1921
+chart,priority,67,10,1,3,1921
+chart,product,2,1,0,0,1921
+chart,severity,86,1,0,0,1921
+chart,status,0,0,0,0,1921
+chart,version,53,1,0,0,1921
+chart 요약,,274,15,1,3,17289
+client,assignee,0,0,0,0,4743
+client,component,344,8,0,0,4743
+client,hardware,13,0,0,0,4743
+client,os,32,1,0,0,4743
+client,priority,24,0,0,0,4743
+client,product,332,0,0,0,4743
+client,severity,119,8,0,0,4743
+client,status,0,0,0,0,4743
+client,version,150,1,0,0,4743
+client 요약,,1014,18,0,0,42687
+clientcore,assignee,0,0,0,0,207
+clientcore,component,0,0,0,0,207
+clientcore,hardware,1,0,0,0,207
+clientcore,os,12,0,0,0,207
+clientcore,priority,11,1,0,0,207
+clientcore,product,0,0,0,0,207
+clientcore,severity,2,0,0,0,207
+clientcore,status,0,0,0,0,207
+clientcore,version,3,0,0,0,207
+clientcore 요약,,29,1,0,0,1863
+clientui,assignee,0,0,0,0,111
+clientui,component,0,0,0,0,111
+clientui,hardware,0,0,0,0,111
+clientui,os,6,0,0,0,111
+clientui,priority,7,0,0,0,111
+clientui,product,0,0,0,0,111
+clientui,severity,4,0,0,0,111
+clientui,status,0,0,0,0,111
+clientui,version,1,1,0,0,111
+clientui 요약,,18,1,0,0,999
+codan,assignee,0,0,0,0,324
+codan,component,12,2,0,0,324
+codan,hardware,6,0,0,0,324
+codan,os,8,0,0,0,324
+codan,priority,0,0,0,0,324
+codan,product,0,0,0,0,324
+codan,severity,9,0,0,0,324
+codan,status,0,0,0,0,324
+codan,version,34,0,0,0,324
+codan 요약,,69,2,0,0,2916
+codeassist,assignee,0,0,0,0,3072
+codeassist,component,10,23,0,0,3072
+codeassist,hardware,10,0,0,0,3072
+codeassist,os,23,0,0,0,3072
+codeassist,priority,166,6,0,0,3072
+codeassist,product,1,0,0,0,3072
+codeassist,severity,61,3,1,0,3072
+codeassist,status,0,0,0,0,3072
+codeassist,version,43,0,0,0,3072
+codeassist 요약,,314,32,1,0,27648
+codefolding,assignee,0,0,0,0,237
+codefolding,component,1,0,0,0,237
+codefolding,hardware,1,0,0,0,237
+codefolding,os,5,1,0,0,237
+codefolding,priority,7,1,0,0,237
+codefolding,product,0,0,0,0,237
+codefolding,severity,4,1,0,0,237
+codefolding,status,0,0,0,0,237
+codefolding,version,10,1,0,0,237
+codefolding 요약,,28,4,0,0,2133
+codeformatter,assignee,0,0,0,0,601
+codeformatter,component,3,0,0,0,601
+codeformatter,hardware,10,0,0,0,601
+codeformatter,os,15,0,0,0,601
+codeformatter,priority,14,2,0,0,601
+codeformatter,product,0,0,0,0,601
+codeformatter,severity,21,0,0,0,601
+codeformatter,status,0,0,0,0,601
+codeformatter,version,12,2,0,0,601
+codeformatter 요약,,75,4,0,0,5409
+codegen,assignee,0,0,0,0,2
+codegen,component,0,0,0,0,2
+codegen,hardware,0,0,0,0,2
+codegen,os,0,0,0,0,2
+codegen,priority,0,0,0,0,2
+codegen,product,0,0,0,0,2
+codegen,severity,0,0,0,0,2
+codegen,status,0,0,0,0,2
+codegen,version,0,0,0,0,2
+codegen 요약,,0,0,0,0,18
+codegenerators,assignee,0,0,0,0,61
+codegenerators,component,2,0,0,0,61
+codegenerators,hardware,0,0,0,0,61
+codegenerators,os,0,0,0,0,61
+codegenerators,priority,0,0,0,0,61
+codegenerators,product,0,0,0,0,61
+codegenerators,severity,6,1,0,0,61
+codegenerators,status,0,0,0,0,61
+codegenerators,version,2,1,0,0,61
+codegenerators 요약,,10,2,0,0,549
+codesearch,assignee,0,0,0,0,20
+codesearch,component,2,0,0,0,20
+codesearch,hardware,1,0,0,0,20
+codesearch,os,1,0,0,0,20
+codesearch,priority,0,0,0,0,20
+codesearch,product,2,0,0,0,20
+codesearch,severity,2,0,0,0,20
+codesearch,status,0,0,0,0,20
+codesearch,version,0,0,0,0,20
+codesearch 요약,,8,0,0,0,180
+cola,assignee,0,0,0,0,43
+cola,component,2,0,0,0,43
+cola,hardware,0,0,0,0,43
+cola,os,0,0,0,0,43
+cola,priority,0,0,0,0,43
+cola,product,0,0,0,0,43
+cola,severity,3,0,0,0,43
+cola,status,0,0,0,0,43
+cola,version,2,0,0,0,43
+cola 요약,,7,0,0,0,387
+collapsiblebuttons,assignee,0,0,0,0,4
+collapsiblebuttons,component,0,0,0,0,4
+collapsiblebuttons,hardware,1,0,0,0,4
+collapsiblebuttons,os,1,0,0,0,4
+collapsiblebuttons,priority,0,0,0,0,4
+collapsiblebuttons,product,0,0,0,0,4
+collapsiblebuttons,severity,0,0,0,0,4
+collapsiblebuttons,status,0,0,0,0,4
+collapsiblebuttons,version,0,0,0,0,4
+collapsiblebuttons 요약,,2,0,0,0,36
+commandline,assignee,0,0,0,0,1
+commandline,component,0,0,0,0,1
+commandline,hardware,0,0,0,0,1
+commandline,os,0,0,0,0,1
+commandline,priority,0,0,0,0,1
+commandline,product,0,0,0,0,1
+commandline,severity,1,0,0,0,1
+commandline,status,0,0,0,0,1
+commandline,version,0,0,0,0,1
+commandline 요약,,1,0,0,0,9
+commandlinetools,assignee,0,0,0,0,5
+commandlinetools,component,0,0,0,0,5
+commandlinetools,hardware,0,0,0,0,5
+commandlinetools,os,0,0,0,0,5
+commandlinetools,priority,0,0,0,0,5
+commandlinetools,product,0,0,0,0,5
+commandlinetools,severity,0,0,0,0,5
+commandlinetools,status,0,0,0,0,5
+commandlinetools,version,0,1,0,0,5
+commandlinetools 요약,,0,1,0,0,45
+commitsexplorer(retired),assignee,0,0,0,0,158
+commitsexplorer(retired),component,6,0,0,0,158
+commitsexplorer(retired),hardware,1,0,0,0,158
+commitsexplorer(retired),os,4,0,0,0,158
+commitsexplorer(retired),priority,4,0,0,0,158
+commitsexplorer(retired),product,0,0,0,0,158
+commitsexplorer(retired),severity,2,0,0,0,158
+commitsexplorer(retired),status,0,0,0,0,158
+commitsexplorer(retired),version,0,0,0,0,158
+commitsexplorer(retired) 요약,,17,0,0,0,1422
+common,assignee,0,0,0,0,1567
+common,component,10,0,0,0,1567
+common,hardware,5,0,0,0,1567
+common,os,15,0,0,0,1567
+common,priority,158,16,4,4,1567
+common,product,7,0,0,0,1567
+common,severity,28,2,0,0,1567
+common,status,0,0,0,0,1567
+common,version,83,1,0,0,1567
+common 요약,,306,19,4,4,14103
+commonbuilder(retired),assignee,0,0,0,0,2
+commonbuilder(retired),component,0,0,0,0,2
+commonbuilder(retired),hardware,0,0,0,0,2
+commonbuilder(retired),os,0,0,0,0,2
+commonbuilder(retired),priority,0,0,0,0,2
+commonbuilder(retired),product,0,0,0,0,2
+commonbuilder(retired),severity,0,0,0,0,2
+commonbuilder(retired),status,0,0,0,0,2
+commonbuilder(retired),version,0,0,0,0,2
+commonbuilder(retired) 요약,,0,0,0,0,18
+communication,assignee,0,0,0,0,62
+communication,component,0,0,0,0,62
+communication,hardware,0,0,0,0,62
+communication,os,0,0,0,0,62
+communication,priority,2,0,0,0,62
+communication,product,0,0,0,0,62
+communication,severity,2,0,0,0,62
+communication,status,0,0,0,0,62
+communication,version,1,0,0,0,62
+communication 요약,,5,0,0,0,558
+compare,assignee,0,0,0,0,1374
+compare,component,30,0,0,0,1374
+compare,hardware,13,0,0,0,1374
+compare,os,19,0,0,0,1374
+compare,priority,59,0,0,0,1374
+compare,product,19,0,0,0,1374
+compare,severity,66,2,0,0,1374
+compare,status,0,0,0,0,1374
+compare,version,56,4,0,0,1374
+compare 요약,,262,6,0,0,12366
+compare&amp;mergeideintegration,assignee,0,0,0,0,8
+compare&amp;mergeideintegration,component,0,0,0,0,8
+compare&amp;mergeideintegration,hardware,0,0,0,0,8
+compare&amp;mergeideintegration,os,0,0,0,0,8
+compare&amp;mergeideintegration,priority,0,0,0,0,8
+compare&amp;mergeideintegration,product,0,0,0,0,8
+compare&amp;mergeideintegration,severity,0,0,0,0,8
+compare&amp;mergeideintegration,status,0,0,0,0,8
+compare&amp;mergeideintegration,version,0,0,0,0,8
+compare&amp;mergeideintegration 요약,,0,0,0,0,72
+compendium,assignee,0,0,0,0,771
+compendium,component,36,3,1,0,771
+compendium,hardware,7,0,0,0,771
+compendium,os,10,0,0,0,771
+compendium,priority,3,0,0,0,771
+compendium,product,9,0,0,0,771
+compendium,severity,29,1,0,0,771
+compendium,status,0,0,0,0,771
+compendium,version,26,1,0,0,771
+compendium 요약,,120,5,1,0,6939
+compiler,assignee,0,0,0,0,3324
+compiler,component,53,3,0,0,3324
+compiler,hardware,4,0,0,0,3324
+compiler,os,26,0,0,0,3324
+compiler,priority,287,29,4,1,3324
+compiler,product,42,3,0,0,3324
+compiler,severity,190,9,1,0,3324
+compiler,status,0,0,0,0,3324
+compiler,version,77,4,0,0,3324
+compiler 요약,,679,48,5,1,29916
+completion,assignee,0,0,0,0,318
+completion,component,12,0,0,0,318
+completion,hardware,12,0,0,0,318
+completion,os,13,0,0,0,318
+completion,priority,9,0,0,0,318
+completion,product,2,0,0,0,318
+completion,severity,23,2,0,0,318
+completion,status,0,0,0,0,318
+completion,version,14,2,0,0,318
+completion 요약,,85,4,0,0,2862
+components,assignee,0,0,0,0,305
+components,component,21,1,0,0,305
+components,hardware,1,0,0,0,305
+components,os,2,0,0,0,305
+components,priority,1,0,0,0,305
+components,product,2,0,0,0,305
+components,severity,14,1,0,0,305
+components,status,0,0,0,0,305
+components,version,12,0,0,0,305
+components 요약,,53,2,0,0,2745
+composer,assignee,0,0,0,0,50
+composer,component,0,0,0,0,50
+composer,hardware,0,0,0,0,50
+composer,os,0,0,0,0,50
+composer,priority,0,0,0,0,50
+composer,product,0,0,0,0,50
+composer,severity,0,0,0,0,50
+composer,status,0,0,0,0,50
+composer,version,1,0,0,0,50
+composer 요약,,1,0,0,0,450
+compositetable,assignee,0,0,0,0,98
+compositetable,component,1,1,0,0,98
+compositetable,hardware,0,0,0,0,98
+compositetable,os,2,0,0,0,98
+compositetable,priority,8,2,0,0,98
+compositetable,product,1,1,0,0,98
+compositetable,severity,1,0,0,0,98
+compositetable,status,0,0,0,0,98
+compositetable,version,1,1,0,0,98
+compositetable 요약,,14,5,0,0,882
+connectivity,assignee,0,0,0,0,64
+connectivity,component,0,0,0,0,64
+connectivity,hardware,2,0,0,0,64
+connectivity,os,2,0,0,0,64
+connectivity,priority,5,1,0,0,64
+connectivity,product,0,0,0,0,64
+connectivity,severity,11,0,1,0,64
+connectivity,status,0,0,0,0,64
+connectivity,version,5,0,0,0,64
+connectivity 요약,,25,1,1,0,576
+connectors,assignee,0,0,0,0,649
+connectors,component,2,0,0,0,649
+connectors,hardware,1,0,0,0,649
+connectors,os,1,0,0,0,649
+connectors,priority,0,0,0,0,649
+connectors,product,1,0,0,0,649
+connectors,severity,5,0,0,0,649
+connectors,status,0,0,0,0,649
+connectors,version,6,0,0,0,649
+connectors 요약,,16,0,0,0,5841
+content,assignee,0,0,0,0,775
+content,component,3,0,0,0,775
+content,hardware,7,0,0,0,775
+content,os,6,0,0,0,775
+content,priority,108,11,0,0,775
+content,product,0,0,0,0,775
+content,severity,73,0,0,0,775
+content,status,0,0,0,0,775
+content,version,63,18,1,0,775
+content 요약,,260,29,1,0,6975
+contenttranslation,assignee,0,0,0,0,15
+contenttranslation,component,0,0,0,0,15
+contenttranslation,hardware,0,0,0,0,15
+contenttranslation,os,0,0,0,0,15
+contenttranslation,priority,0,0,0,0,15
+contenttranslation,product,0,0,0,0,15
+contenttranslation,severity,0,0,0,0,15
+contenttranslation,status,0,0,0,0,15
+contenttranslation,version,0,0,0,0,15
+contenttranslation 요약,,0,0,0,0,135
+contribution,assignee,0,0,0,0,113
+contribution,component,1,0,0,0,113
+contribution,hardware,0,0,0,0,113
+contribution,os,0,0,0,0,113
+contribution,priority,7,0,0,0,113
+contribution,product,1,0,0,0,113
+contribution,severity,2,0,0,0,113
+contribution,status,0,0,0,0,113
+contribution,version,17,0,0,0,113
+contribution 요약,,28,0,0,0,1017
+converters,assignee,0,0,0,0,56
+converters,component,1,0,0,0,56
+converters,hardware,0,0,0,0,56
+converters,os,0,0,0,0,56
+converters,priority,0,0,0,0,56
+converters,product,1,0,0,0,56
+converters,severity,2,0,0,0,56
+converters,status,0,0,0,0,56
+converters,version,5,0,0,0,56
+converters 요약,,9,0,0,0,504
+core,assignee,0,0,0,0,69577
+core,component,2432,57,2,0,69577
+core,hardware,1114,4,0,0,69577
+core,os,1275,8,2,0,69577
+core,priority,1324,114,15,15,69577
+core,product,803,20,0,0,69577
+core,severity,2630,126,13,1,69577
+core,status,0,0,0,0,69577
+core,version,2364,169,64,75,69577
+core 요약,,11942,498,96,91,626193
+creverser,assignee,0,0,0,0,13
+creverser,component,0,0,0,0,13
+creverser,hardware,0,0,0,0,13
+creverser,os,0,0,0,0,13
+creverser,priority,0,0,0,0,13
+creverser,product,0,0,0,0,13
+creverser,severity,2,0,0,0,13
+creverser,status,0,0,0,0,13
+creverser,version,0,1,0,0,13
+creverser 요약,,2,1,0,0,117
+crossissues,assignee,0,0,0,0,48
+crossissues,component,0,0,0,0,48
+crossissues,hardware,0,0,0,0,48
+crossissues,os,0,0,0,0,48
+crossissues,priority,0,0,0,0,48
+crossissues,product,0,0,0,0,48
+crossissues,severity,5,0,0,0,48
+crossissues,status,0,0,0,0,48
+crossissues,version,1,0,0,0,48
+crossissues 요약,,6,0,0,0,432
+ctabletree,assignee,0,0,0,0,17
+ctabletree,component,0,0,0,0,17
+ctabletree,hardware,0,0,0,0,17
+ctabletree,os,0,0,0,0,17
+ctabletree,priority,1,0,0,0,17
+ctabletree,product,0,0,0,0,17
+ctabletree,severity,2,0,0,0,17
+ctabletree,status,0,0,0,0,17
+ctabletree,version,0,0,0,0,17
+ctabletree 요약,,3,0,0,0,153
+ctf,assignee,0,0,0,0,31
+ctf,component,0,2,0,0,31
+ctf,hardware,0,0,0,0,31
+ctf,os,0,0,0,0,31
+ctf,priority,0,0,0,0,31
+ctf,product,2,0,0,0,31
+ctf,severity,0,0,0,0,31
+ctf,status,0,0,0,0,31
+ctf,version,2,0,0,0,31
+ctf 요약,,4,2,0,0,279
+ctree,assignee,0,0,0,0,2
+ctree,component,0,0,0,0,2
+ctree,hardware,0,0,0,0,2
+ctree,os,0,0,0,0,2
+ctree,priority,0,0,0,0,2
+ctree,product,0,0,0,0,2
+ctree,severity,0,0,0,0,2
+ctree,status,0,0,0,0,2
+ctree,version,0,0,0,0,2
+ctree 요약,,0,0,0,0,18
+cvs,assignee,0,0,0,0,3983
+cvs,component,45,6,0,0,3983
+cvs,hardware,22,0,1,0,3983
+cvs,os,38,0,1,0,3983
+cvs,priority,167,3,1,0,3983
+cvs,product,32,0,0,0,3983
+cvs,severity,106,4,2,0,3983
+cvs,status,0,0,0,0,3983
+cvs,version,73,1,0,0,3983
+cvs 요약,,483,14,5,0,35847
+dashboard,assignee,0,0,0,0,66
+dashboard,component,0,0,0,0,66
+dashboard,hardware,0,0,0,0,66
+dashboard,os,0,0,0,0,66
+dashboard,priority,0,0,0,0,66
+dashboard,product,0,0,0,0,66
+dashboard,severity,7,0,0,0,66
+dashboard,status,0,0,0,0,66
+dashboard,version,0,0,0,0,66
+dashboard 요약,,7,0,0,0,594
+data,assignee,0,0,0,0,1184
+data,component,78,3,0,0,1184
+data,hardware,3,0,0,0,1184
+data,os,7,0,0,0,1184
+data,priority,39,7,1,1,1184
+data,product,4,1,0,0,1184
+data,severity,65,3,0,0,1184
+data,status,0,0,0,0,1184
+data,version,42,2,0,0,1184
+data 요약,,238,16,1,1,10656
+dataaccess,assignee,0,0,0,0,279
+dataaccess,component,14,0,0,0,279
+dataaccess,hardware,1,0,0,0,279
+dataaccess,os,3,0,0,0,279
+dataaccess,priority,16,0,0,0,279
+dataaccess,product,3,0,0,0,279
+dataaccess,severity,18,4,0,0,279
+dataaccess,status,0,0,0,0,279
+dataaccess,version,20,6,0,0,279
+dataaccess 요약,,75,10,0,0,2511
+databinding,assignee,0,0,0,0,25
+databinding,component,0,0,0,0,25
+databinding,hardware,0,0,0,0,25
+databinding,os,2,0,0,0,25
+databinding,priority,0,0,0,0,25
+databinding,product,0,0,0,0,25
+databinding,severity,0,0,0,0,25
+databinding,status,0,0,0,0,25
+databinding,version,3,0,0,0,25
+databinding 요약,,5,0,0,0,225
+datashare,assignee,0,0,0,0,10
+datashare,component,0,0,0,0,10
+datashare,hardware,0,0,0,0,10
+datashare,os,0,0,0,0,10
+datashare,priority,0,0,0,0,10
+datashare,product,0,0,0,0,10
+datashare,severity,0,0,0,0,10
+datashare,status,0,0,0,0,10
+datashare,version,0,0,0,0,10
+datashare 요약,,0,0,0,0,90
+datasource,assignee,0,0,0,0,7
+datasource,component,0,0,0,0,7
+datasource,hardware,0,0,0,0,7
+datasource,os,0,0,0,0,7
+datasource,priority,0,0,0,0,7
+datasource,product,0,0,0,0,7
+datasource,severity,2,0,0,0,7
+datasource,status,0,0,0,0,7
+datasource,version,1,0,0,1,7
+datasource 요약,,3,0,0,1,63
+datechooser,assignee,0,0,0,0,26
+datechooser,component,1,0,0,0,26
+datechooser,hardware,2,0,0,0,26
+datechooser,os,3,0,0,0,26
+datechooser,priority,0,0,0,0,26
+datechooser,product,1,0,0,0,26
+datechooser,severity,2,0,0,0,26
+datechooser,status,0,0,0,0,26
+datechooser,version,1,0,0,0,26
+datechooser 요약,,10,0,0,0,234
+dawn,assignee,0,0,0,0,35
+dawn,component,0,0,0,0,35
+dawn,hardware,1,0,0,0,35
+dawn,os,1,0,0,0,35
+dawn,priority,0,0,0,0,35
+dawn,product,0,0,0,0,35
+dawn,severity,1,0,0,0,35
+dawn,status,0,0,0,0,35
+dawn,version,4,1,1,2,35
+dawn 요약,,7,1,1,2,315
+db,assignee,0,0,0,0,321
+db,component,26,0,0,0,321
+db,hardware,1,0,0,0,321
+db,os,1,0,0,0,321
+db,priority,1,0,0,0,321
+db,product,0,0,0,0,321
+db,severity,15,0,0,0,321
+db,status,0,0,0,0,321
+db,version,42,20,2,15,321
+db 요약,,86,20,2,15,2889
+dbws,assignee,0,0,0,0,276
+dbws,component,2,0,0,0,276
+dbws,hardware,3,0,0,0,276
+dbws,os,5,0,0,0,276
+dbws,priority,10,8,0,0,276
+dbws,product,0,0,0,0,276
+dbws,severity,13,1,0,0,276
+dbws,status,0,0,0,0,276
+dbws,version,7,1,0,0,276
+dbws 요약,,40,10,0,0,2484
+debug,assignee,0,0,0,0,19479
+debug,component,215,10,0,0,19479
+debug,hardware,104,0,0,0,19479
+debug,os,231,2,0,0,19479
+debug,priority,832,26,1,0,19479
+debug,product,116,1,0,0,19479
+debug,severity,923,40,6,0,19479
+debug,status,0,0,0,0,19479
+debug,version,458,14,0,0,19479
+debug 요약,,2879,93,7,0,175311
+debugcore,assignee,0,0,0,0,112
+debugcore,component,1,0,0,0,112
+debugcore,hardware,3,0,0,0,112
+debugcore,os,6,0,0,0,112
+debugcore,priority,6,0,0,0,112
+debugcore,product,0,0,0,0,112
+debugcore,severity,4,0,0,0,112
+debugcore,status,0,0,0,0,112
+debugcore,version,3,0,0,0,112
+debugcore 요약,,23,0,0,0,1008
+debugger,assignee,0,0,0,0,1524
+debugger,component,54,3,0,0,1524
+debugger,hardware,5,0,0,0,1524
+debugger,os,16,1,0,0,1524
+debugger,priority,53,6,0,0,1524
+debugger,product,0,0,0,0,1524
+debugger,severity,35,6,0,0,1524
+debugger,status,0,0,0,0,1524
+debugger,version,30,2,0,1,1524
+debugger 요약,,193,18,0,1,13716
+debugger&amp;consoleview,assignee,0,0,0,0,43
+debugger&amp;consoleview,component,6,0,0,0,43
+debugger&amp;consoleview,hardware,1,0,0,0,43
+debugger&amp;consoleview,os,1,0,0,0,43
+debugger&amp;consoleview,priority,2,0,0,0,43
+debugger&amp;consoleview,product,6,0,0,0,43
+debugger&amp;consoleview,severity,2,0,0,0,43
+debugger&amp;consoleview,status,0,0,0,0,43
+debugger&amp;consoleview,version,5,0,0,0,43
+debugger&amp;consoleview 요약,,23,0,0,0,387
+debugsdm,assignee,0,0,0,0,64
+debugsdm,component,2,0,0,0,64
+debugsdm,hardware,0,0,0,0,64
+debugsdm,os,1,0,0,0,64
+debugsdm,priority,0,0,0,0,64
+debugsdm,product,0,0,0,0,64
+debugsdm,severity,3,0,0,0,64
+debugsdm,status,0,0,0,0,64
+debugsdm,version,5,1,0,0,64
+debugsdm 요약,,11,1,0,0,576
+debugui,assignee,0,0,0,0,104
+debugui,component,0,0,0,0,104
+debugui,hardware,3,0,0,0,104
+debugui,os,3,0,0,0,104
+debugui,priority,1,0,0,0,104
+debugui,product,0,0,0,0,104
+debugui,severity,1,0,0,0,104
+debugui,status,0,0,0,0,104
+debugui,version,3,0,0,0,104
+debugui 요약,,11,0,0,0,936
+define,assignee,0,0,0,0,136
+define,component,0,0,0,0,136
+define,hardware,10,0,0,0,136
+define,os,11,0,0,0,136
+define,priority,0,0,0,0,136
+define,product,0,0,0,0,136
+define,severity,1,0,0,0,136
+define,status,0,0,0,0,136
+define,version,3,0,1,0,136
+define 요약,,25,0,1,0,1224
+demo,assignee,0,0,0,0,292
+demo,component,5,0,0,0,292
+demo,hardware,9,0,0,0,292
+demo,os,9,0,0,0,292
+demo,priority,6,0,0,0,292
+demo,product,0,0,0,0,292
+demo,severity,15,0,0,0,292
+demo,status,0,0,0,0,292
+demo,version,12,0,0,0,292
+demo 요약,,56,0,0,0,2628
+demo&amp;examples,assignee,0,0,0,0,20
+demo&amp;examples,component,0,0,0,0,20
+demo&amp;examples,hardware,1,0,0,0,20
+demo&amp;examples,os,2,0,0,0,20
+demo&amp;examples,priority,2,0,0,0,20
+demo&amp;examples,product,0,0,0,0,20
+demo&amp;examples,severity,0,0,0,0,20
+demo&amp;examples,status,0,0,0,0,20
+demo&amp;examples,version,1,0,0,0,20
+demo&amp;examples 요약,,6,0,0,0,180
+dependencyvisualizer,assignee,0,0,0,0,8
+dependencyvisualizer,component,0,0,0,0,8
+dependencyvisualizer,hardware,0,0,0,0,8
+dependencyvisualizer,os,0,0,0,0,8
+dependencyvisualizer,priority,0,0,0,0,8
+dependencyvisualizer,product,0,0,0,0,8
+dependencyvisualizer,severity,0,0,0,0,8
+dependencyvisualizer,status,0,0,0,0,8
+dependencyvisualizer,version,0,0,0,0,8
+dependencyvisualizer 요약,,0,0,0,0,72
+deployment,assignee,0,0,0,0,124
+deployment,component,5,0,0,0,124
+deployment,hardware,2,0,0,0,124
+deployment,os,2,0,0,0,124
+deployment,priority,2,1,0,0,124
+deployment,product,0,0,0,0,124
+deployment,severity,4,1,0,0,124
+deployment,status,0,0,0,0,124
+deployment,version,6,0,0,0,124
+deployment 요약,,21,2,0,0,1116
+design,assignee,0,0,0,0,53
+design,component,0,0,0,0,53
+design,hardware,1,0,0,0,53
+design,os,1,0,0,0,53
+design,priority,0,0,0,0,53
+design,product,0,0,0,0,53
+design,severity,2,0,0,0,53
+design,status,0,0,0,0,53
+design,version,1,0,0,0,53
+design 요약,,5,0,0,0,477
+designer,assignee,0,0,0,0,264
+designer,component,8,1,0,0,264
+designer,hardware,2,0,0,0,264
+designer,os,2,0,0,0,264
+designer,priority,0,0,0,0,264
+designer,product,0,0,0,0,264
+designer,severity,2,0,0,0,264
+designer,status,0,0,0,0,264
+designer,version,3,0,0,0,264
+designer 요약,,17,1,0,0,2376
+desktop,assignee,0,0,0,0,38
+desktop,component,2,0,0,0,38
+desktop,hardware,1,0,0,0,38
+desktop,os,0,0,0,0,38
+desktop,priority,0,0,0,0,38
+desktop,product,0,0,0,0,38
+desktop,severity,1,0,0,0,38
+desktop,status,0,0,0,0,38
+desktop,version,3,1,1,1,38
+desktop 요약,,7,1,1,1,342
+desktopintegration,assignee,0,0,0,0,4
+desktopintegration,component,0,0,0,0,4
+desktopintegration,hardware,0,0,0,0,4
+desktopintegration,os,0,0,0,0,4
+desktopintegration,priority,0,0,0,0,4
+desktopintegration,product,0,0,0,0,4
+desktopintegration,severity,0,0,0,0,4
+desktopintegration,status,0,0,0,0,4
+desktopintegration,version,0,0,0,0,4
+desktopintegration 요약,,0,0,0,0,36
+dev,assignee,0,0,0,0,5
+dev,component,1,0,0,0,5
+dev,hardware,0,0,0,0,5
+dev,os,0,0,0,0,5
+dev,priority,0,0,0,0,5
+dev,product,0,0,0,0,5
+dev,severity,0,0,0,0,5
+dev,status,0,0,0,0,5
+dev,version,0,0,0,0,5
+dev 요약,,1,0,0,0,45
+developerstatistics,assignee,0,0,0,0,66
+developerstatistics,component,0,0,0,0,66
+developerstatistics,hardware,0,0,0,0,66
+developerstatistics,os,0,0,0,0,66
+developerstatistics,priority,0,0,0,0,66
+developerstatistics,product,0,0,0,0,66
+developerstatistics,severity,2,0,0,0,66
+developerstatistics,status,0,0,0,0,66
+developerstatistics,version,6,0,0,0,66
+developerstatistics 요약,,8,0,0,0,594
+development,assignee,0,0,0,0,9
+development,component,2,0,0,0,9
+development,hardware,0,0,0,0,9
+development,os,4,0,0,0,9
+development,priority,0,0,0,0,9
+development,product,0,0,0,0,9
+development,severity,1,0,0,0,9
+development,status,0,0,0,0,9
+development,version,0,0,0,0,9
+development 요약,,7,0,0,0,81
+devicekit,assignee,0,0,0,0,28
+devicekit,component,0,0,0,0,28
+devicekit,hardware,2,0,0,0,28
+devicekit,os,3,0,0,0,28
+devicekit,priority,0,0,0,0,28
+devicekit,product,0,0,0,0,28
+devicekit,severity,1,0,0,0,28
+devicekit,status,0,0,0,0,28
+devicekit,version,0,0,0,0,28
+devicekit 요약,,6,0,0,0,252
+diagram,assignee,0,0,0,0,2807
+diagram,component,173,1,0,0,2807
+diagram,hardware,401,2,0,0,2807
+diagram,os,406,2,0,0,2807
+diagram,priority,35,2,0,0,2807
+diagram,product,1,0,0,0,2807
+diagram,severity,193,8,2,0,2807
+diagram,status,0,0,0,0,2807
+diagram,version,206,18,0,0,2807
+diagram 요약,,1415,33,2,0,25263
+diagrams,assignee,0,0,0,0,348
+diagrams,component,0,0,0,0,348
+diagrams,hardware,0,0,0,0,348
+diagrams,os,0,0,0,0,348
+diagrams,priority,1,0,0,0,348
+diagrams,product,0,0,0,0,348
+diagrams,severity,15,0,0,0,348
+diagrams,status,0,0,0,0,348
+diagrams,version,3,0,0,0,348
+diagrams 요약,,19,0,0,0,3132
+discovery,assignee,0,0,0,0,114
+discovery,component,4,0,0,0,114
+discovery,hardware,2,0,0,0,114
+discovery,os,2,0,0,0,114
+discovery,priority,0,0,0,0,114
+discovery,product,0,0,0,0,114
+discovery,severity,3,0,0,0,114
+discovery,status,0,0,0,0,114
+discovery,version,3,0,0,0,114
+discovery 요약,,14,0,0,0,1026
+disease,assignee,0,0,0,0,4
+disease,component,0,0,0,0,4
+disease,hardware,0,0,0,0,4
+disease,os,0,0,0,0,4
+disease,priority,0,0,0,0,4
+disease,product,0,0,0,0,4
+disease,severity,1,0,0,0,4
+disease,status,0,0,0,0,4
+disease,version,0,0,0,0,4
+disease 요약,,1,0,0,0,36
+doc,assignee,0,0,0,0,2944
+doc,component,71,0,2,0,2944
+doc,hardware,41,0,0,0,2944
+doc,os,42,0,0,0,2944
+doc,priority,68,6,2,3,2944
+doc,product,24,1,1,0,2944
+doc,severity,93,2,0,0,2944
+doc,status,0,0,0,0,2944
+doc,version,71,0,0,0,2944
+doc 요약,,410,9,5,3,26496
+docker,assignee,0,0,0,0,17
+docker,component,1,0,0,0,17
+docker,hardware,0,0,0,0,17
+docker,os,0,0,0,0,17
+docker,priority,0,0,0,0,17
+docker,product,0,0,0,0,17
+docker,severity,0,0,0,0,17
+docker,status,0,0,0,0,17
+docker,version,0,0,0,0,17
+docker 요약,,1,0,0,0,153
+docs,assignee,0,0,0,0,315
+docs,component,9,1,0,0,315
+docs,hardware,8,0,0,0,315
+docs,os,7,0,0,0,315
+docs,priority,12,2,0,0,315
+docs,product,1,0,0,0,315
+docs,severity,10,1,0,0,315
+docs,status,0,0,0,0,315
+docs,version,16,2,0,0,315
+docs 요약,,63,6,0,0,2835
+documentation,assignee,0,0,0,0,1003
+documentation,component,30,1,2,0,1003
+documentation,hardware,12,0,0,0,1003
+documentation,os,14,0,0,0,1003
+documentation,priority,24,1,0,0,1003
+documentation,product,6,0,0,0,1003
+documentation,severity,44,2,0,0,1003
+documentation,status,0,0,0,0,1003
+documentation,version,25,3,0,0,1003
+documentation 요약,,155,7,2,0,9027
+draw3d,assignee,0,0,0,0,68
+draw3d,component,1,0,0,0,68
+draw3d,hardware,0,0,0,0,68
+draw3d,os,0,0,0,0,68
+draw3d,priority,1,0,0,0,68
+draw3d,product,0,0,0,0,68
+draw3d,severity,1,0,0,0,68
+draw3d,status,0,0,0,0,68
+draw3d,version,0,0,0,0,68
+draw3d 요약,,3,0,0,0,612
+drivers,assignee,0,0,0,0,9
+drivers,component,1,0,0,0,9
+drivers,hardware,0,0,0,0,9
+drivers,os,0,0,0,0,9
+drivers,priority,1,0,0,0,9
+drivers,product,0,0,0,0,9
+drivers,severity,1,0,0,0,9
+drivers,status,0,0,0,0,9
+drivers,version,3,0,0,0,9
+drivers 요약,,6,0,0,0,81
+dse,assignee,0,0,0,0,128
+dse,component,2,0,0,0,128
+dse,hardware,0,0,0,0,128
+dse,os,0,0,0,0,128
+dse,priority,0,0,0,0,128
+dse,product,0,0,0,0,128
+dse,severity,1,0,0,0,128
+dse,status,0,0,0,0,128
+dse,version,8,0,0,0,128
+dse 요약,,11,0,0,0,1152
+dsf,assignee,0,0,0,0,1000
+dsf,component,136,4,0,0,1000
+dsf,hardware,2,0,0,0,1000
+dsf,os,27,0,0,0,1000
+dsf,priority,1,0,0,0,1000
+dsf,product,135,0,0,0,1000
+dsf,severity,28,1,0,0,1000
+dsf,status,0,0,0,0,1000
+dsf,version,147,5,0,0,1000
+dsf 요약,,476,10,0,0,9000
+dsl,assignee,0,0,0,0,34
+dsl,component,2,0,0,0,34
+dsl,hardware,0,0,0,0,34
+dsl,os,0,0,0,0,34
+dsl,priority,0,0,0,0,34
+dsl,product,0,0,0,0,34
+dsl,severity,0,0,0,0,34
+dsl,status,0,0,0,0,34
+dsl,version,0,0,0,0,34
+dsl 요약,,2,0,0,0,306
+dynamicpackagedelivery,assignee,0,0,0,0,50
+dynamicpackagedelivery,component,1,0,0,0,50
+dynamicpackagedelivery,hardware,3,0,0,0,50
+dynamicpackagedelivery,os,2,0,0,0,50
+dynamicpackagedelivery,priority,0,0,0,0,50
+dynamicpackagedelivery,product,0,0,0,0,50
+dynamicpackagedelivery,severity,1,0,0,0,50
+dynamicpackagedelivery,status,0,0,0,0,50
+dynamicpackagedelivery,version,3,0,0,0,50
+dynamicpackagedelivery 요약,,10,0,0,0,450
+dynamicworkingsets,assignee,0,0,0,0,42
+dynamicworkingsets,component,1,0,0,0,42
+dynamicworkingsets,hardware,0,0,0,0,42
+dynamicworkingsets,os,0,0,0,0,42
+dynamicworkingsets,priority,0,0,0,0,42
+dynamicworkingsets,product,1,0,0,0,42
+dynamicworkingsets,severity,1,0,0,0,42
+dynamicworkingsets,status,0,0,0,0,42
+dynamicworkingsets,version,3,1,0,3,42
+dynamicworkingsets 요약,,6,1,0,3,378
+e4,assignee,0,0,0,0,29
+e4,component,1,0,0,0,29
+e4,hardware,0,0,0,0,29
+e4,os,0,0,0,0,29
+e4,priority,0,0,0,0,29
+e4,product,1,0,0,0,29
+e4,severity,2,0,0,0,29
+e4,status,0,0,0,0,29
+e4,version,1,0,0,0,29
+e4 요약,,5,0,0,0,261
+ecl,assignee,0,0,0,0,19
+ecl,component,0,0,0,0,19
+ecl,hardware,0,0,0,0,19
+ecl,os,0,0,0,0,19
+ecl,priority,0,0,0,0,19
+ecl,product,0,0,0,0,19
+ecl,severity,0,0,0,0,19
+ecl,status,0,0,0,0,19
+ecl,version,1,0,0,0,19
+ecl 요약,,1,0,0,0,171
+eclipsebot,assignee,0,0,0,0,181
+eclipsebot,component,4,0,0,0,181
+eclipsebot,hardware,14,0,0,0,181
+eclipsebot,os,13,0,0,0,181
+eclipsebot,priority,0,0,0,0,181
+eclipsebot,product,0,0,0,0,181
+eclipsebot,severity,6,0,0,0,181
+eclipsebot,status,0,0,0,0,181
+eclipsebot,version,17,0,0,0,181
+eclipsebot 요약,,54,0,0,0,1629
+eclipsemodeler,assignee,0,0,0,0,44
+eclipsemodeler,component,7,0,0,0,44
+eclipsemodeler,hardware,0,0,0,0,44
+eclipsemodeler,os,0,0,0,0,44
+eclipsemodeler,priority,0,0,0,0,44
+eclipsemodeler,product,0,0,0,0,44
+eclipsemodeler,severity,0,0,0,0,44
+eclipsemodeler,status,0,0,0,0,44
+eclipsemodeler,version,2,0,0,0,44
+eclipsemodeler 요약,,9,0,0,0,396
+ecore,assignee,0,0,0,0,48
+ecore,component,0,0,0,0,48
+ecore,hardware,0,0,0,0,48
+ecore,os,0,0,0,0,48
+ecore,priority,1,0,0,0,48
+ecore,product,0,0,0,0,48
+ecore,severity,1,0,0,0,48
+ecore,status,0,0,0,0,48
+ecore,version,0,0,0,0,48
+ecore 요약,,2,0,0,0,432
+edc,assignee,0,0,0,0,157
+edc,component,0,0,0,0,157
+edc,hardware,5,0,0,0,157
+edc,os,6,0,0,0,157
+edc,priority,0,0,0,0,157
+edc,product,0,0,0,0,157
+edc,severity,5,0,0,0,157
+edc,status,0,0,0,0,157
+edc,version,5,0,0,0,157
+edc 요약,,21,0,0,0,1413
+edit,assignee,0,0,0,0,659
+edit,component,16,0,0,0,659
+edit,hardware,2,0,0,0,659
+edit,os,1,0,0,0,659
+edit,priority,17,0,0,0,659
+edit,product,4,0,0,0,659
+edit,severity,37,1,0,0,659
+edit,status,0,0,0,0,659
+edit,version,18,2,0,0,659
+edit 요약,,95,3,0,0,5931
+editor,assignee,0,0,0,0,4688
+editor,component,103,6,0,0,4688
+editor,hardware,27,1,0,0,4688
+editor,os,47,2,0,0,4688
+editor,priority,164,11,1,1,4688
+editor,product,19,1,0,0,4688
+editor,severity,149,9,0,0,4688
+editor,status,0,0,0,0,4688
+editor,version,202,5,1,0,4688
+editor 요약,,711,35,2,1,42192
+editor&amp;outlineview,assignee,0,0,0,0,171
+editor&amp;outlineview,component,14,0,0,0,171
+editor&amp;outlineview,hardware,1,0,0,0,171
+editor&amp;outlineview,os,2,0,0,0,171
+editor&amp;outlineview,priority,25,3,0,0,171
+editor&amp;outlineview,product,11,0,0,0,171
+editor&amp;outlineview,severity,9,0,0,0,171
+editor&amp;outlineview,status,0,0,0,0,171
+editor&amp;outlineview,version,10,0,0,0,171
+editor&amp;outlineview 요약,,72,3,0,0,1539
+editors,assignee,0,0,0,0,243
+editors,component,2,0,0,0,243
+editors,hardware,9,0,0,0,243
+editors,os,8,0,0,0,243
+editors,priority,1,0,0,0,243
+editors,product,0,0,0,0,243
+editors,severity,5,0,0,0,243
+editors,status,0,0,0,0,243
+editors,version,5,0,0,0,243
+editors 요약,,30,0,0,0,2187
+editorui,assignee,0,0,0,0,191
+editorui,component,0,0,0,0,191
+editorui,hardware,0,0,0,0,191
+editorui,os,1,0,0,0,191
+editorui,priority,1,0,0,0,191
+editorui,product,0,0,0,0,191
+editorui,severity,32,0,0,0,191
+editorui,status,0,0,0,0,191
+editorui,version,0,0,0,0,191
+editorui 요약,,34,0,0,0,1719
+eis,assignee,0,0,0,0,6
+eis,component,0,0,0,0,6
+eis,hardware,0,0,0,0,6
+eis,os,0,0,0,0,6
+eis,priority,0,0,0,0,6
+eis,product,0,0,0,0,6
+eis,severity,0,0,0,0,6
+eis,status,0,0,0,0,6
+eis,version,0,0,0,0,6
+eis 요약,,0,0,0,0,54
+ejface,assignee,0,0,0,0,11
+ejface,component,0,0,0,0,11
+ejface,hardware,0,0,0,0,11
+ejface,os,0,0,0,0,11
+ejface,priority,0,0,0,0,11
+ejface,product,0,0,0,0,11
+ejface,severity,0,0,0,0,11
+ejface,status,0,0,0,0,11
+ejface,version,0,0,0,0,11
+ejface 요약,,0,0,0,0,99
+electron,assignee,0,0,0,0,31
+electron,component,1,0,0,0,31
+electron,hardware,0,0,0,0,31
+electron,os,0,0,0,0,31
+electron,priority,0,0,0,0,31
+electron,product,0,0,0,0,31
+electron,severity,0,0,0,0,31
+electron,status,0,0,0,0,31
+electron,version,0,0,0,0,31
+electron 요약,,1,0,0,0,279
+embedder,assignee,0,0,0,0,31
+embedder,component,2,0,0,0,31
+embedder,hardware,2,0,0,0,31
+embedder,os,2,0,0,0,31
+embedder,priority,0,0,0,0,31
+embedder,product,1,0,0,0,31
+embedder,severity,2,0,0,0,31
+embedder,status,0,0,0,0,31
+embedder,version,0,1,0,0,31
+embedder 요약,,9,1,0,0,279
+emfatic,assignee,0,0,0,0,23
+emfatic,component,0,0,0,0,23
+emfatic,hardware,0,0,0,0,23
+emfatic,os,0,0,0,0,23
+emfatic,priority,0,0,0,0,23
+emfatic,product,0,0,0,0,23
+emfatic,severity,0,0,0,0,23
+emfatic,status,0,0,0,0,23
+emfatic,version,0,0,0,0,23
+emfatic 요약,,0,0,0,0,207
+emfdatabinding,assignee,0,0,0,0,5
+emfdatabinding,component,0,0,0,0,5
+emfdatabinding,hardware,0,0,0,0,5
+emfdatabinding,os,0,0,0,0,5
+emfdatabinding,priority,0,0,0,0,5
+emfdatabinding,product,0,0,0,0,5
+emfdatabinding,severity,0,0,0,0,5
+emfdatabinding,status,0,0,0,0,5
+emfdatabinding,version,1,0,0,0,5
+emfdatabinding 요약,,1,0,0,0,45
+emfforms,assignee,0,0,0,0,1985
+emfforms,component,2,0,0,0,1985
+emfforms,hardware,3,0,0,0,1985
+emfforms,os,5,0,0,0,1985
+emfforms,priority,426,60,25,44,1985
+emfforms,product,0,0,0,0,1985
+emfforms,severity,72,3,1,0,1985
+emfforms,status,0,0,0,0,1985
+emfforms,version,3,0,0,0,1985
+emfforms 요약,,511,63,26,44,17865
+emftvm,assignee,0,0,0,0,94
+emftvm,component,1,0,0,0,94
+emftvm,hardware,0,0,0,0,94
+emftvm,os,0,0,0,0,94
+emftvm,priority,0,0,0,0,94
+emftvm,product,0,0,0,0,94
+emftvm,severity,3,0,0,0,94
+emftvm,status,0,0,0,0,94
+emftvm,version,1,0,0,0,94
+emftvm 요약,,5,0,0,0,846
+emfvm,assignee,0,0,0,0,81
+emfvm,component,0,0,0,0,81
+emfvm,hardware,0,0,0,0,81
+emfvm,os,0,0,0,0,81
+emfvm,priority,0,0,0,0,81
+emfvm,product,0,0,0,0,81
+emfvm,severity,1,1,1,0,81
+emfvm,status,0,0,0,0,81
+emfvm,version,0,0,0,0,81
+emfvm 요약,,1,1,1,0,729
+ems,assignee,0,0,0,0,20
+ems,component,3,0,0,0,20
+ems,hardware,0,0,0,0,20
+ems,os,0,0,0,0,20
+ems,priority,0,0,0,0,20
+ems,product,0,0,0,0,20
+ems,severity,1,0,0,0,20
+ems,status,0,0,0,0,20
+ems,version,0,0,0,0,20
+ems 요약,,4,0,0,0,180
+engine,assignee,0,0,0,0,1429
+engine,component,9,0,0,0,1429
+engine,hardware,8,0,0,0,1429
+engine,os,11,0,0,0,1429
+engine,priority,16,0,0,0,1429
+engine,product,3,0,0,0,1429
+engine,severity,22,2,0,0,1429
+engine,status,0,0,0,0,1429
+engine,version,16,0,0,0,1429
+engine 요약,,85,2,0,0,12861
+engines,assignee,0,0,0,0,73
+engines,component,2,1,0,0,73
+engines,hardware,3,0,0,0,73
+engines,os,3,0,0,0,73
+engines,priority,0,0,0,0,73
+engines,product,1,0,0,0,73
+engines,severity,2,0,0,0,73
+engines,status,0,0,0,0,73
+engines,version,5,0,0,0,73
+engines 요약,,16,1,0,0,657
+englishstrings,assignee,0,0,0,0,38
+englishstrings,component,0,0,0,0,38
+englishstrings,hardware,0,0,0,0,38
+englishstrings,os,0,0,0,0,38
+englishstrings,priority,1,0,0,0,38
+englishstrings,product,0,0,0,0,38
+englishstrings,severity,1,0,0,0,38
+englishstrings,status,0,0,0,0,38
+englishstrings,version,0,0,0,0,38
+englishstrings 요약,,2,0,0,0,342
+epfwiki,assignee,0,0,0,0,164
+epfwiki,component,1,0,0,0,164
+epfwiki,hardware,0,0,0,0,164
+epfwiki,os,0,0,0,0,164
+epfwiki,priority,10,1,0,0,164
+epfwiki,product,0,0,0,0,164
+epfwiki,severity,2,0,0,0,164
+epfwiki,status,0,0,0,0,164
+epfwiki,version,1,0,0,0,164
+epfwiki 요약,,14,1,0,0,1476
+errors,assignee,0,0,0,0,54
+errors,component,0,0,0,0,54
+errors,hardware,0,0,0,0,54
+errors,os,0,0,0,0,54
+errors,priority,0,0,0,0,54
+errors,product,0,0,0,0,54
+errors,severity,0,0,0,0,54
+errors,status,0,0,0,0,54
+errors,version,2,0,0,0,54
+errors 요약,,2,0,0,0,486
+escape,assignee,0,0,0,0,23
+escape,component,0,0,0,0,23
+escape,hardware,0,0,0,0,23
+escape,os,0,0,0,0,23
+escape,priority,3,0,0,0,23
+escape,product,0,0,0,0,23
+escape,severity,1,0,0,0,23
+escape,status,0,0,0,0,23
+escape,version,0,0,0,0,23
+escape 요약,,4,0,0,0,207
+eson,assignee,0,0,0,0,26
+eson,component,0,0,0,0,26
+eson,hardware,0,0,0,0,26
+eson,os,0,0,0,0,26
+eson,priority,2,0,0,0,26
+eson,product,0,0,0,0,26
+eson,severity,2,0,0,0,26
+eson,status,0,0,0,0,26
+eson,version,0,0,0,0,26
+eson 요약,,4,0,0,0,234
+eswt,assignee,0,0,0,0,487
+eswt,component,9,0,0,0,487
+eswt,hardware,3,0,0,0,487
+eswt,os,7,0,0,0,487
+eswt,priority,2,1,0,0,487
+eswt,product,1,0,0,0,487
+eswt,severity,18,0,1,0,487
+eswt,status,0,0,0,0,487
+eswt,version,6,0,0,0,487
+eswt 요약,,46,1,1,0,4383
+etfw,assignee,0,0,0,0,42
+etfw,component,1,0,0,0,42
+etfw,hardware,0,0,0,0,42
+etfw,os,1,0,0,0,42
+etfw,priority,0,0,0,0,42
+etfw,product,0,0,0,0,42
+etfw,severity,0,0,0,0,42
+etfw,status,0,0,0,0,42
+etfw,version,3,0,0,0,42
+etfw 요약,,5,0,0,0,378
+eupdate,assignee,0,0,0,0,27
+eupdate,component,0,0,0,0,27
+eupdate,hardware,0,0,0,0,27
+eupdate,os,0,0,0,0,27
+eupdate,priority,0,0,0,0,27
+eupdate,product,0,0,0,0,27
+eupdate,severity,0,0,0,0,27
+eupdate,status,0,0,0,0,27
+eupdate,version,1,0,0,0,27
+eupdate 요약,,1,0,0,0,243
+evolution,assignee,0,0,0,0,15
+evolution,component,0,0,0,0,15
+evolution,hardware,0,0,0,0,15
+evolution,os,0,0,0,0,15
+evolution,priority,0,0,0,0,15
+evolution,product,0,0,0,0,15
+evolution,severity,0,0,0,0,15
+evolution,status,0,0,0,0,15
+evolution,version,0,0,0,0,15
+evolution 요약,,0,0,0,0,135
+eworkbench,assignee,0,0,0,0,39
+eworkbench,component,0,0,0,0,39
+eworkbench,hardware,1,0,0,0,39
+eworkbench,os,1,0,0,0,39
+eworkbench,priority,1,0,0,0,39
+eworkbench,product,0,0,0,0,39
+eworkbench,severity,2,0,0,0,39
+eworkbench,status,0,0,0,0,39
+eworkbench,version,1,0,0,0,39
+eworkbench 요약,,6,0,0,0,351
+examples,assignee,0,0,0,0,304
+examples,component,3,0,0,0,304
+examples,hardware,3,0,0,0,304
+examples,os,4,0,0,0,304
+examples,priority,4,0,0,0,304
+examples,product,1,0,0,0,304
+examples,severity,11,0,0,0,304
+examples,status,0,0,0,0,304
+examples,version,7,0,0,0,304
+examples 요약,,33,0,0,0,2736
+expressionlanguage,assignee,0,0,0,0,7
+expressionlanguage,component,0,0,0,0,7
+expressionlanguage,hardware,0,0,0,0,7
+expressionlanguage,os,0,0,0,0,7
+expressionlanguage,priority,0,0,0,0,7
+expressionlanguage,product,0,0,0,0,7
+expressionlanguage,severity,1,0,0,0,7
+expressionlanguage,status,0,0,0,0,7
+expressionlanguage,version,0,0,0,0,7
+expressionlanguage 요약,,1,0,0,0,63
+extdoc,assignee,0,0,0,0,42
+extdoc,component,3,0,0,0,42
+extdoc,hardware,1,0,0,0,42
+extdoc,os,1,0,0,0,42
+extdoc,priority,1,0,0,0,42
+extdoc,product,0,0,0,0,42
+extdoc,severity,2,0,0,0,42
+extdoc,status,0,0,0,0,42
+extdoc,version,1,0,0,0,42
+extdoc 요약,,9,0,0,0,378
+extensions,assignee,0,0,0,0,8
+extensions,component,0,0,0,0,8
+extensions,hardware,0,0,0,0,8
+extensions,os,0,0,0,0,8
+extensions,priority,2,0,0,0,8
+extensions,product,0,0,0,0,8
+extensions,severity,0,0,0,0,8
+extensions,status,0,0,0,0,8
+extensions,version,0,0,0,0,8
+extensions 요약,,2,0,0,0,72
+extra,assignee,0,0,0,0,20
+extra,component,0,0,0,0,20
+extra,hardware,0,0,0,0,20
+extra,os,0,0,0,0,20
+extra,priority,0,0,0,0,20
+extra,product,0,0,0,0,20
+extra,severity,0,0,0,0,20
+extra,status,0,0,0,0,20
+extra,version,0,0,0,0,20
+extra 요약,,0,0,0,0,180
+facet,assignee,0,0,0,0,91
+facet,component,0,0,0,0,91
+facet,hardware,0,0,0,0,91
+facet,os,0,0,0,0,91
+facet,priority,0,0,0,0,91
+facet,product,0,0,0,0,91
+facet,severity,5,0,0,0,91
+facet,status,0,0,0,0,91
+facet,version,0,0,0,0,91
+facet 요약,,5,0,0,0,819
+fastcgi,assignee,0,0,0,0,16
+fastcgi,component,0,0,0,0,16
+fastcgi,hardware,0,0,0,0,16
+fastcgi,os,0,0,0,0,16
+fastcgi,priority,0,0,0,0,16
+fastcgi,product,0,0,0,0,16
+fastcgi,severity,0,0,0,0,16
+fastcgi,status,0,0,0,0,16
+fastcgi,version,2,0,0,0,16
+fastcgi 요약,,2,0,0,0,144
+filetransfer,assignee,0,0,0,0,165
+filetransfer,component,3,0,0,0,165
+filetransfer,hardware,2,0,0,0,165
+filetransfer,os,3,0,0,0,165
+filetransfer,priority,0,0,0,0,165
+filetransfer,product,2,0,0,0,165
+filetransfer,severity,8,0,0,0,165
+filetransfer,status,0,0,0,0,165
+filetransfer,version,3,0,0,0,165
+filetransfer 요약,,21,0,0,0,1485
+flow,assignee,0,0,0,0,10
+flow,component,1,0,0,0,10
+flow,hardware,0,0,0,0,10
+flow,os,0,0,0,0,10
+flow,priority,0,0,0,0,10
+flow,product,0,0,0,0,10
+flow,severity,1,0,0,0,10
+flow,status,0,0,0,0,10
+flow,version,2,1,0,0,10
+flow 요약,,4,1,0,0,90
+forinternaluse,assignee,0,0,0,0,229
+forinternaluse,component,21,0,0,0,229
+forinternaluse,hardware,3,0,0,0,229
+forinternaluse,os,4,0,0,0,229
+forinternaluse,priority,37,3,2,2,229
+forinternaluse,product,14,0,0,0,229
+forinternaluse,severity,13,1,0,0,229
+forinternaluse,status,0,0,0,0,229
+forinternaluse,version,8,0,0,0,229
+forinternaluse 요약,,100,4,2,2,2061
+formattedtext,assignee,0,0,0,0,43
+formattedtext,component,0,0,0,0,43
+formattedtext,hardware,2,0,0,0,43
+formattedtext,os,3,0,0,0,43
+formattedtext,priority,0,0,0,0,43
+formattedtext,product,0,0,0,0,43
+formattedtext,severity,4,0,0,0,43
+formattedtext,status,0,0,0,0,43
+formattedtext,version,0,0,0,0,43
+formattedtext 요약,,9,0,0,0,387
+forms,assignee,0,0,0,0,24
+forms,component,2,0,0,0,24
+forms,hardware,4,0,0,0,24
+forms,os,4,0,0,0,24
+forms,priority,0,0,0,0,24
+forms,product,0,0,0,0,24
+forms,severity,1,0,0,0,24
+forms,status,0,0,0,0,24
+forms,version,1,0,0,0,24
+forms 요약,,12,0,0,0,216
+forte,assignee,0,0,0,0,116
+forte,component,2,0,0,0,116
+forte,hardware,1,0,0,0,116
+forte,os,1,0,0,0,116
+forte,priority,0,0,0,0,116
+forte,product,0,0,0,0,116
+forte,severity,1,0,0,0,116
+forte,status,0,0,0,0,116
+forte,version,4,1,0,0,116
+forte 요약,,9,1,0,0,1044
+foundation,assignee,0,0,0,0,1462
+foundation,component,18,1,0,0,1462
+foundation,hardware,30,0,0,0,1462
+foundation,os,20,0,0,0,1462
+foundation,priority,335,23,6,0,1462
+foundation,product,1,0,0,0,1462
+foundation,severity,76,4,8,0,1462
+foundation,status,0,0,0,0,1462
+foundation,version,109,6,0,0,1462
+foundation 요약,,589,34,14,0,13158
+framework,assignee,0,0,0,0,2165
+framework,component,44,1,0,0,2165
+framework,hardware,12,0,0,0,2165
+framework,os,32,0,0,0,2165
+framework,priority,38,1,0,0,2165
+framework,product,27,1,0,0,2165
+framework,severity,77,6,0,0,2165
+framework,status,0,0,0,0,2165
+framework,version,75,0,0,0,2165
+framework 요약,,305,9,0,0,19485
+gallery,assignee,0,0,0,0,199
+gallery,component,1,0,0,0,199
+gallery,hardware,3,0,0,0,199
+gallery,os,3,0,0,0,199
+gallery,priority,14,0,0,0,199
+gallery,product,1,0,0,0,199
+gallery,severity,9,0,0,0,199
+gallery,status,0,0,0,0,199
+gallery,version,1,0,0,0,199
+gallery 요약,,32,0,0,0,1791
+ganttchart,assignee,0,0,0,0,79
+ganttchart,component,0,0,0,0,79
+ganttchart,hardware,1,0,0,0,79
+ganttchart,os,1,0,0,0,79
+ganttchart,priority,0,0,0,0,79
+ganttchart,product,0,0,0,0,79
+ganttchart,severity,3,0,0,1,79
+ganttchart,status,0,0,0,0,79
+ganttchart,version,0,0,0,0,79
+ganttchart 요약,,5,0,0,1,711
+gdb,assignee,0,0,0,0,966
+gdb,component,147,7,0,0,966
+gdb,hardware,0,0,0,0,966
+gdb,os,19,0,0,0,966
+gdb,priority,7,0,0,0,966
+gdb,product,27,0,0,0,966
+gdb,severity,48,1,1,0,966
+gdb,status,0,0,0,0,966
+gdb,version,71,1,0,0,966
+gdb 요약,,319,9,1,0,8694
+gef3d,assignee,0,0,0,0,10
+gef3d,component,0,0,0,0,10
+gef3d,hardware,0,0,0,0,10
+gef3d,os,0,0,0,0,10
+gef3d,priority,0,0,0,0,10
+gef3d,product,0,0,0,0,10
+gef3d,severity,0,0,0,0,10
+gef3d,status,0,0,0,0,10
+gef3d,version,0,0,0,0,10
+gef3d 요약,,0,0,0,0,90
+gefbot,assignee,0,0,0,0,22
+gefbot,component,5,0,0,0,22
+gefbot,hardware,1,0,0,0,22
+gefbot,os,1,0,0,0,22
+gefbot,priority,0,0,0,0,22
+gefbot,product,0,0,0,0,22
+gefbot,severity,0,0,0,0,22
+gefbot,status,0,0,0,0,22
+gefbot,version,3,0,0,0,22
+gefbot 요약,,10,0,0,0,198
+gefcloudio,assignee,0,0,0,0,9
+gefcloudio,component,0,0,0,0,9
+gefcloudio,hardware,0,0,0,0,9
+gefcloudio,os,0,0,0,0,9
+gefcloudio,priority,1,1,0,0,9
+gefcloudio,product,0,0,0,0,9
+gefcloudio,severity,0,0,0,0,9
+gefcloudio,status,0,0,0,0,9
+gefcloudio,version,0,0,0,0,9
+gefcloudio 요약,,1,1,0,0,81
+gefcommon,assignee,0,0,0,0,15
+gefcommon,component,1,0,0,0,15
+gefcommon,hardware,1,0,0,0,15
+gefcommon,os,1,0,0,0,15
+gefcommon,priority,0,0,0,0,15
+gefcommon,product,0,0,0,0,15
+gefcommon,severity,0,0,0,0,15
+gefcommon,status,0,0,0,0,15
+gefcommon,version,0,0,0,0,15
+gefcommon 요약,,3,0,0,0,135
+gefdot,assignee,0,0,0,0,60
+gefdot,component,4,1,0,0,60
+gefdot,hardware,2,0,0,0,60
+gefdot,os,2,0,0,0,60
+gefdot,priority,0,0,0,0,60
+gefdot,product,0,0,0,0,60
+gefdot,severity,1,0,0,0,60
+gefdot,status,0,0,0,0,60
+gefdot,version,0,0,0,0,60
+gefdot 요약,,9,1,0,0,540
+geffx,assignee,0,0,0,0,94
+geffx,component,4,1,0,0,94
+geffx,hardware,1,0,0,0,94
+geffx,os,2,0,0,0,94
+geffx,priority,0,0,0,0,94
+geffx,product,0,0,0,0,94
+geffx,severity,2,0,0,0,94
+geffx,status,0,0,0,0,94
+geffx,version,1,0,0,0,94
+geffx 요약,,10,1,0,0,846
+gefgeometry,assignee,0,0,0,0,30
+gefgeometry,component,0,0,0,0,30
+gefgeometry,hardware,0,0,0,0,30
+gefgeometry,os,0,0,0,0,30
+gefgeometry,priority,0,0,0,0,30
+gefgeometry,product,0,0,0,0,30
+gefgeometry,severity,0,0,0,0,30
+gefgeometry,status,0,0,0,0,30
+gefgeometry,version,0,0,0,0,30
+gefgeometry 요약,,0,0,0,0,270
+gefgraph,assignee,0,0,0,0,25
+gefgraph,component,0,0,0,0,25
+gefgraph,hardware,1,0,0,0,25
+gefgraph,os,1,0,0,0,25
+gefgraph,priority,0,0,0,0,25
+gefgraph,product,0,0,0,0,25
+gefgraph,severity,0,0,0,0,25
+gefgraph,status,0,0,0,0,25
+gefgraph,version,1,0,0,0,25
+gefgraph 요약,,3,0,0,0,225
+geflayout,assignee,0,0,0,0,15
+geflayout,component,1,0,0,0,15
+geflayout,hardware,0,0,0,0,15
+geflayout,os,0,0,0,0,15
+geflayout,priority,0,0,0,0,15
+geflayout,product,0,0,0,0,15
+geflayout,severity,0,0,0,0,15
+geflayout,status,0,0,0,0,15
+geflayout,version,0,0,0,0,15
+geflayout 요약,,1,0,0,0,135
+gefmvc,assignee,0,0,0,0,296
+gefmvc,component,1,0,0,0,296
+gefmvc,hardware,1,0,0,0,296
+gefmvc,os,2,0,0,0,296
+gefmvc,priority,6,0,0,0,296
+gefmvc,product,0,0,0,0,296
+gefmvc,severity,3,0,0,0,296
+gefmvc,status,0,0,0,0,296
+gefmvc,version,0,0,0,0,296
+gefmvc 요약,,13,0,0,0,2664
+gefzest,assignee,0,0,0,0,117
+gefzest,component,6,0,0,0,117
+gefzest,hardware,0,0,0,0,117
+gefzest,os,0,0,0,0,117
+gefzest,priority,4,0,0,0,117
+gefzest,product,0,0,0,0,117
+gefzest,severity,0,0,0,0,117
+gefzest,status,0,0,0,0,117
+gefzest,version,1,0,0,0,117
+gefzest 요약,,11,0,0,0,1053
+gem,assignee,0,0,0,0,4
+gem,component,0,0,0,0,4
+gem,hardware,0,0,0,0,4
+gem,os,0,0,0,0,4
+gem,priority,0,0,0,0,4
+gem,product,0,0,0,0,4
+gem,severity,0,0,0,0,4
+gem,status,0,0,0,0,4
+gem,version,0,0,0,0,4
+gem 요약,,0,0,0,0,36
+geminiintegration,assignee,0,0,0,0,1
+geminiintegration,component,0,0,0,0,1
+geminiintegration,hardware,0,0,0,0,1
+geminiintegration,os,1,0,0,0,1
+geminiintegration,priority,0,0,0,0,1
+geminiintegration,product,0,0,0,0,1
+geminiintegration,severity,0,0,0,0,1
+geminiintegration,status,0,0,0,0,1
+geminiintegration,version,0,0,0,0,1
+geminiintegration 요약,,1,0,0,0,9
+general,assignee,0,0,0,0,5515
+general,component,463,37,2,2,5515
+general,hardware,74,0,0,0,5515
+general,os,65,1,0,0,5515
+general,priority,50,0,1,1,5515
+general,product,448,18,0,0,5515
+general,severity,216,9,1,0,5515
+general,status,0,0,0,0,5515
+general,version,248,250,7,2,5515
+general 요약,,1564,315,11,5,49635
+generalui,assignee,0,0,0,0,1270
+generalui,component,23,2,0,0,1270
+generalui,hardware,2,0,0,0,1270
+generalui,os,13,0,0,0,1270
+generalui,priority,64,8,0,0,1270
+generalui,product,5,0,0,0,1270
+generalui,severity,28,1,1,0,1270
+generalui,status,0,0,0,0,1270
+generalui,version,31,0,0,0,1270
+generalui 요약,,166,11,1,0,11430
+generators,assignee,0,0,0,0,236
+generators,component,0,0,0,0,236
+generators,hardware,0,0,0,0,236
+generators,os,0,0,0,0,236
+generators,priority,0,0,0,0,236
+generators,product,0,0,0,0,236
+generators,severity,11,0,0,0,236
+generators,status,0,0,0,0,236
+generators,version,1,0,0,0,236
+generators 요약,,12,0,0,0,2124
+geomap,assignee,0,0,0,0,16
+geomap,component,0,0,0,0,16
+geomap,hardware,0,0,0,0,16
+geomap,os,0,0,0,0,16
+geomap,priority,0,0,0,0,16
+geomap,product,0,0,0,0,16
+geomap,severity,0,0,0,0,16
+geomap,status,0,0,0,0,16
+geomap,version,0,0,0,0,16
+geomap 요약,,0,0,0,0,144
+gig,assignee,0,0,0,0,5
+gig,component,1,0,0,0,5
+gig,hardware,0,0,0,0,5
+gig,os,0,0,0,0,5
+gig,priority,0,0,0,0,5
+gig,product,0,0,0,0,5
+gig,severity,0,0,0,0,5
+gig,status,0,0,0,0,5
+gig,version,0,0,0,0,5
+gig 요약,,1,0,0,0,45
+git,assignee,0,0,0,0,867
+git,component,53,4,0,0,867
+git,hardware,5,0,0,0,867
+git,os,7,0,0,0,867
+git,priority,16,1,1,0,867
+git,product,42,0,0,0,867
+git,severity,43,2,0,0,867
+git,status,0,0,0,0,867
+git,version,42,0,0,0,867
+git 요약,,208,7,1,0,7803
+gitflow,assignee,0,0,0,0,25
+gitflow,component,0,0,0,0,25
+gitflow,hardware,0,0,0,0,25
+gitflow,os,0,0,0,0,25
+gitflow,priority,0,0,0,0,25
+gitflow,product,0,0,0,0,25
+gitflow,severity,5,0,0,0,25
+gitflow,status,0,0,0,0,25
+gitflow,version,0,0,0,0,25
+gitflow 요약,,5,0,0,0,225
+github,assignee,0,0,0,0,50
+github,component,4,0,0,0,50
+github,hardware,0,0,0,0,50
+github,os,1,0,0,0,50
+github,priority,0,0,0,0,50
+github,product,2,0,0,0,50
+github,severity,6,0,0,0,50
+github,status,0,0,0,0,50
+github,version,1,1,0,0,50
+github 요약,,14,1,0,0,450
+glazedlistsextension,assignee,0,0,0,0,33
+glazedlistsextension,component,3,0,0,0,33
+glazedlistsextension,hardware,0,0,0,0,33
+glazedlistsextension,os,0,0,0,0,33
+glazedlistsextension,priority,0,0,0,0,33
+glazedlistsextension,product,0,0,0,0,33
+glazedlistsextension,severity,2,0,0,0,33
+glazedlistsextension,status,0,0,0,0,33
+glazedlistsextension,version,0,0,0,0,33
+glazedlistsextension 요약,,5,0,0,0,297
+graphiti,assignee,0,0,0,0,2
+graphiti,component,0,0,0,0,2
+graphiti,hardware,0,0,0,0,2
+graphiti,os,0,0,0,0,2
+graphiti,priority,0,0,0,0,2
+graphiti,product,0,0,0,0,2
+graphiti,severity,0,0,0,0,2
+graphiti,status,0,0,0,0,2
+graphiti,version,0,0,0,0,2
+graphiti 요약,,0,0,0,0,18
+grid,assignee,0,0,0,0,309
+grid,component,1,0,0,0,309
+grid,hardware,0,0,0,0,309
+grid,os,2,0,0,0,309
+grid,priority,34,1,0,0,309
+grid,product,1,0,0,0,309
+grid,severity,7,0,0,0,309
+grid,status,0,0,0,0,309
+grid,version,1,0,0,0,309
+grid 요약,,46,1,0,0,2781
+gui,assignee,0,0,0,0,75
+gui,component,1,0,0,0,75
+gui,hardware,3,0,0,0,75
+gui,os,3,0,0,0,75
+gui,priority,0,0,0,0,75
+gui,product,0,0,0,0,75
+gui,severity,2,0,0,0,75
+gui,status,0,0,0,0,75
+gui,version,4,0,0,0,75
+gui 요약,,13,0,0,0,675
+handbook,assignee,0,0,0,0,13
+handbook,component,0,0,0,0,13
+handbook,hardware,0,0,0,0,13
+handbook,os,0,0,0,0,13
+handbook,priority,1,0,0,0,13
+handbook,product,0,0,0,0,13
+handbook,severity,0,0,0,0,13
+handbook,status,0,0,0,0,13
+handbook,version,0,0,0,0,13
+handbook 요약,,1,0,0,0,117
+headless,assignee,0,0,0,0,32
+headless,component,0,0,0,0,32
+headless,hardware,0,0,0,0,32
+headless,os,0,0,0,0,32
+headless,priority,0,0,0,0,32
+headless,product,0,0,0,0,32
+headless,severity,1,0,0,0,32
+headless,status,0,0,0,0,32
+headless,version,0,0,0,0,32
+headless 요약,,1,0,0,0,288
+help,assignee,0,0,0,0,71
+help,component,0,2,0,0,71
+help,hardware,1,0,0,0,71
+help,os,1,0,0,0,71
+help,priority,1,0,0,0,71
+help,product,2,0,0,0,71
+help,severity,3,0,0,0,71
+help,status,0,0,0,0,71
+help,version,4,0,1,0,71
+help 요약,,12,2,1,0,639
+hibernate,assignee,0,0,0,0,139
+hibernate,component,9,1,1,0,139
+hibernate,hardware,1,0,0,0,139
+hibernate,os,1,0,0,0,139
+hibernate,priority,0,0,0,0,139
+hibernate,product,1,0,0,0,139
+hibernate,severity,8,0,0,0,139
+hibernate,status,0,0,0,0,139
+hibernate,version,18,5,6,0,139
+hibernate 요약,,38,6,7,0,1251
+hmi,assignee,0,0,0,0,23
+hmi,component,0,0,0,0,23
+hmi,hardware,1,0,0,0,23
+hmi,os,1,0,0,0,23
+hmi,priority,0,0,0,0,23
+hmi,product,0,0,0,0,23
+hmi,severity,1,0,0,0,23
+hmi,status,0,0,0,0,23
+hmi,version,3,0,0,0,23
+hmi 요약,,6,0,0,0,207
+http2,assignee,0,0,0,0,98
+http2,component,0,0,0,0,98
+http2,hardware,1,0,0,0,98
+http2,os,2,0,0,0,98
+http2,priority,0,0,0,0,98
+http2,product,0,0,0,0,98
+http2,severity,5,0,0,0,98
+http2,status,0,0,0,0,98
+http2,version,2,0,0,0,98
+http2 요약,,10,0,0,0,882
+ide,assignee,0,0,0,0,4380
+ide,component,83,4,0,0,4380
+ide,hardware,53,1,1,0,4380
+ide,os,79,1,1,0,4380
+ide,priority,74,9,2,0,4380
+ide,product,15,0,0,0,4380
+ide,severity,177,8,2,1,4380
+ide,status,0,0,0,0,4380
+ide,version,299,12,0,1,4380
+ide 요약,,780,35,6,2,39420
+ideintegration,assignee,0,0,0,0,21
+ideintegration,component,4,0,0,0,21
+ideintegration,hardware,3,0,0,0,21
+ideintegration,os,3,0,0,0,21
+ideintegration,priority,0,0,0,0,21
+ideintegration,product,0,0,0,0,21
+ideintegration,severity,2,0,0,0,21
+ideintegration,status,0,0,0,0,21
+ideintegration,version,1,0,0,0,21
+ideintegration 요약,,13,0,0,0,189
+importing,assignee,0,0,0,0,7
+importing,component,1,0,0,0,7
+importing,hardware,0,0,0,0,7
+importing,os,0,0,0,0,7
+importing,priority,0,0,0,0,7
+importing,product,0,0,0,0,7
+importing,severity,2,0,0,0,7
+importing,status,0,0,0,0,7
+importing,version,1,0,0,0,7
+importing 요약,,4,0,0,0,63
+incubator,assignee,0,0,0,0,1970
+incubator,component,53,1,0,0,1970
+incubator,hardware,7,0,0,0,1970
+incubator,os,7,0,0,0,1970
+incubator,priority,42,4,1,0,1970
+incubator,product,24,1,0,0,1970
+incubator,severity,46,1,0,0,1970
+incubator,status,0,0,0,0,1970
+incubator,version,25,0,0,0,1970
+incubator 요약,,204,7,1,0,17730
+incubators,assignee,0,0,0,0,168
+incubators,component,6,0,0,0,168
+incubators,hardware,1,0,0,0,168
+incubators,os,1,0,0,0,168
+incubators,priority,0,0,0,0,168
+incubators,product,0,0,0,0,168
+incubators,severity,3,0,0,0,168
+incubators,status,0,0,0,0,168
+incubators,version,4,0,0,0,168
+incubators 요약,,15,0,0,0,1512
+indexer,assignee,0,0,0,0,693
+indexer,component,21,1,0,0,693
+indexer,hardware,6,0,0,0,693
+indexer,os,10,0,0,0,693
+indexer,priority,2,0,0,0,693
+indexer,product,2,0,0,0,693
+indexer,severity,16,1,0,0,693
+indexer,status,0,0,0,0,693
+indexer,version,31,5,1,0,693
+indexer 요약,,88,7,1,0,6237
+informationmodeling,assignee,0,0,0,0,17
+informationmodeling,component,0,0,0,0,17
+informationmodeling,hardware,3,0,0,0,17
+informationmodeling,os,3,0,0,0,17
+informationmodeling,priority,1,0,0,0,17
+informationmodeling,product,0,0,0,0,17
+informationmodeling,severity,2,0,0,0,17
+informationmodeling,status,0,0,0,0,17
+informationmodeling,version,1,0,0,0,17
+informationmodeling 요약,,10,0,0,0,153
+informationunits,assignee,0,0,0,0,18
+informationunits,component,0,0,0,0,18
+informationunits,hardware,0,0,0,0,18
+informationunits,os,0,0,0,0,18
+informationunits,priority,0,0,0,0,18
+informationunits,product,0,0,0,0,18
+informationunits,severity,0,0,0,0,18
+informationunits,status,0,0,0,0,18
+informationunits,version,0,0,0,0,18
+informationunits 요약,,0,0,0,0,162
+infrastructure,assignee,0,0,0,0,761
+infrastructure,component,18,0,0,0,761
+infrastructure,hardware,2,0,0,0,761
+infrastructure,os,2,0,0,0,761
+infrastructure,priority,116,54,12,7,761
+infrastructure,product,0,0,0,0,761
+infrastructure,severity,50,0,0,0,761
+infrastructure,status,0,0,0,0,761
+infrastructure,version,30,1,0,0,761
+infrastructure 요약,,218,55,12,7,6849
+inject,assignee,0,0,0,0,49
+inject,component,0,0,0,0,49
+inject,hardware,0,0,0,0,49
+inject,os,0,0,0,0,49
+inject,priority,2,0,0,0,49
+inject,product,0,0,0,0,49
+inject,severity,2,0,0,0,49
+inject,status,0,0,0,0,49
+inject,version,2,8,0,0,49
+inject 요약,,6,8,0,0,441
+ins,assignee,0,0,0,0,123
+ins,component,0,0,0,0,123
+ins,hardware,0,0,0,0,123
+ins,os,0,0,0,0,123
+ins,priority,0,0,0,0,123
+ins,product,0,0,0,0,123
+ins,severity,2,0,0,0,123
+ins,status,0,0,0,0,123
+ins,version,1,0,0,0,123
+ins 요약,,3,0,0,0,1107
+install,assignee,0,0,0,0,298
+install,component,0,0,0,0,298
+install,hardware,3,0,0,0,298
+install,os,4,0,0,0,298
+install,priority,2,0,0,0,298
+install,product,0,0,0,0,298
+install,severity,4,1,0,0,298
+install,status,0,0,0,0,298
+install,version,2,0,0,0,298
+install 요약,,15,1,0,0,2682
+installer,assignee,0,0,0,0,202
+installer,component,2,0,0,0,202
+installer,hardware,2,0,0,0,202
+installer,os,4,0,0,0,202
+installer,priority,19,1,0,0,202
+installer,product,1,0,0,0,202
+installer,severity,3,0,0,0,202
+installer,status,0,0,0,0,202
+installer,version,1,0,0,0,202
+installer 요약,,32,1,0,0,1818
+integrations,assignee,0,0,0,0,85
+integrations,component,4,1,0,0,85
+integrations,hardware,1,0,0,0,85
+integrations,os,1,0,0,0,85
+integrations,priority,0,0,0,0,85
+integrations,product,0,1,0,0,85
+integrations,severity,1,0,0,0,85
+integrations,status,0,0,0,0,85
+integrations,version,2,1,0,0,85
+integrations 요약,,9,3,0,0,765
+internal,assignee,0,0,0,0,83
+internal,component,4,0,0,0,83
+internal,hardware,1,0,0,0,83
+internal,os,0,0,0,0,83
+internal,priority,4,0,0,0,83
+internal,product,0,0,0,0,83
+internal,severity,2,0,0,0,83
+internal,status,0,0,0,0,83
+internal,version,0,0,0,0,83
+internal 요약,,11,0,0,0,747
+interpreter,assignee,0,0,0,0,24
+interpreter,component,0,0,0,0,24
+interpreter,hardware,0,0,0,0,24
+interpreter,os,0,0,0,0,24
+interpreter,priority,0,0,0,0,24
+interpreter,product,0,0,0,0,24
+interpreter,severity,0,0,0,0,24
+interpreter,status,0,0,0,0,24
+interpreter,version,0,0,0,0,24
+interpreter 요약,,0,0,0,0,216
+ios,assignee,0,0,0,0,10
+ios,component,0,0,0,0,10
+ios,hardware,0,0,0,0,10
+ios,os,0,0,0,0,10
+ios,priority,0,0,0,0,10
+ios,product,0,0,0,0,10
+ios,severity,2,0,0,0,10
+ios,status,0,0,0,0,10
+ios,version,0,0,0,0,10
+ios 요약,,2,0,0,0,90
+iplogtool,assignee,0,0,0,0,63
+iplogtool,component,1,0,0,0,63
+iplogtool,hardware,0,0,0,0,63
+iplogtool,os,0,0,0,0,63
+iplogtool,priority,1,1,0,0,63
+iplogtool,product,0,0,0,0,63
+iplogtool,severity,1,0,0,0,63
+iplogtool,status,0,0,0,0,63
+iplogtool,version,0,0,0,0,63
+iplogtool 요약,,3,1,0,0,567
+irms,assignee,0,0,0,0,19
+irms,component,0,0,0,0,19
+irms,hardware,1,0,0,0,19
+irms,os,1,0,0,0,19
+irms,priority,1,0,0,0,19
+irms,product,0,0,0,0,19
+irms,severity,2,0,0,0,19
+irms,status,0,0,0,0,19
+irms,version,0,0,0,0,19
+irms 요약,,5,0,0,0,171
+isp,assignee,0,0,0,0,22
+isp,component,4,0,0,0,22
+isp,hardware,0,0,0,0,22
+isp,os,0,0,0,0,22
+isp,priority,0,0,0,0,22
+isp,product,0,0,0,0,22
+isp,severity,0,0,0,0,22
+isp,status,0,0,0,0,22
+isp,version,0,0,0,0,22
+isp 요약,,4,0,0,0,198
+java,assignee,0,0,0,0,452
+java,component,2,1,0,0,452
+java,hardware,1,0,0,0,452
+java,os,3,0,0,0,452
+java,priority,35,7,5,8,452
+java,product,1,0,0,0,452
+java,severity,14,2,0,0,452
+java,status,0,0,0,0,452
+java,version,10,0,0,0,452
+java 요약,,66,10,5,8,4068
+javageneration,assignee,0,0,0,0,10
+javageneration,component,0,0,0,0,10
+javageneration,hardware,0,0,0,0,10
+javageneration,os,0,0,0,0,10
+javageneration,priority,0,0,0,0,10
+javageneration,product,0,0,0,0,10
+javageneration,severity,2,0,0,0,10
+javageneration,status,0,0,0,0,10
+javageneration,version,0,0,0,0,10
+javageneration 요약,,2,0,0,0,90
+javareverser,assignee,0,0,0,0,3
+javareverser,component,1,0,0,0,3
+javareverser,hardware,0,0,0,0,3
+javareverser,os,0,0,0,0,3
+javareverser,priority,0,0,0,0,3
+javareverser,product,0,0,0,0,3
+javareverser,severity,0,0,0,0,3
+javareverser,status,0,0,0,0,3
+javareverser,version,0,0,0,0,3
+javareverser 요약,,1,0,0,0,27
+javartsjgeneration,assignee,0,0,0,0,40
+javartsjgeneration,component,2,0,0,0,40
+javartsjgeneration,hardware,0,0,0,0,40
+javartsjgeneration,os,0,0,0,0,40
+javartsjgeneration,priority,0,0,0,0,40
+javartsjgeneration,product,0,0,0,0,40
+javartsjgeneration,severity,2,0,0,0,40
+javartsjgeneration,status,0,0,0,0,40
+javartsjgeneration,version,0,0,0,0,40
+javartsjgeneration 요약,,4,0,0,0,360
+javascript,assignee,0,0,0,0,69
+javascript,component,0,0,0,0,69
+javascript,hardware,2,0,0,0,69
+javascript,os,2,0,0,0,69
+javascript,priority,0,0,0,0,69
+javascript,product,0,0,0,0,69
+javascript,severity,0,0,0,0,69
+javascript,status,0,0,0,0,69
+javascript,version,17,0,0,0,69
+javascript 요약,,21,0,0,0,621
+javascripttools,assignee,0,0,0,0,1
+javascripttools,component,1,0,0,0,1
+javascripttools,hardware,0,0,0,0,1
+javascripttools,os,0,0,0,0,1
+javascripttools,priority,0,0,0,0,1
+javascripttools,product,0,0,0,0,1
+javascripttools,severity,0,0,0,0,1
+javascripttools,status,0,0,0,0,1
+javascripttools,version,0,0,0,0,1
+javascripttools 요약,,1,0,0,0,9
+jbpm5targetruntime,assignee,0,0,0,0,139
+jbpm5targetruntime,component,1,0,0,0,139
+jbpm5targetruntime,hardware,0,0,0,0,139
+jbpm5targetruntime,os,0,0,0,0,139
+jbpm5targetruntime,priority,1,0,0,0,139
+jbpm5targetruntime,product,0,0,0,0,139
+jbpm5targetruntime,severity,3,0,0,0,139
+jbpm5targetruntime,status,0,0,0,0,139
+jbpm5targetruntime,version,1,0,0,0,139
+jbpm5targetruntime 요약,,6,0,0,0,1251
+jdt,assignee,0,0,0,0,176
+jdt,component,1,0,0,0,176
+jdt,hardware,2,0,0,0,176
+jdt,os,3,0,0,0,176
+jdt,priority,1,0,0,0,176
+jdt,product,0,0,0,0,176
+jdt,severity,1,0,0,0,176
+jdt,status,0,0,0,0,176
+jdt,version,4,0,0,0,176
+jdt 요약,,12,0,0,0,1584
+jet,assignee,0,0,0,0,288
+jet,component,18,0,0,0,288
+jet,hardware,0,0,0,0,288
+jet,os,0,0,0,0,288
+jet,priority,53,1,0,0,288
+jet,product,3,0,0,0,288
+jet,severity,18,0,0,0,288
+jet,status,0,0,0,0,288
+jet,version,12,0,0,0,288
+jet 요약,,104,1,0,0,2592
+jeteditor,assignee,0,0,0,0,23
+jeteditor,component,0,0,0,0,23
+jeteditor,hardware,0,0,0,0,23
+jeteditor,os,0,0,0,0,23
+jeteditor,priority,0,0,0,0,23
+jeteditor,product,0,0,0,0,23
+jeteditor,severity,1,1,0,0,23
+jeteditor,status,0,0,0,0,23
+jeteditor,version,1,0,0,0,23
+jeteditor 요약,,2,1,0,0,207
+jetty,assignee,0,0,0,0,28
+jetty,component,4,0,0,0,28
+jetty,hardware,0,0,0,0,28
+jetty,os,0,0,0,0,28
+jetty,priority,1,0,0,0,28
+jetty,product,0,0,0,0,28
+jetty,severity,6,1,0,0,28
+jetty,status,0,0,0,0,28
+jetty,version,3,0,0,0,28
+jetty 요약,,14,1,0,0,252
+jface,assignee,0,0,0,0,333
+jface,component,12,0,0,0,333
+jface,hardware,15,0,0,0,333
+jface,os,24,1,0,0,333
+jface,priority,13,0,0,0,333
+jface,product,0,0,0,0,333
+jface,severity,9,1,0,0,333
+jface,status,0,0,0,0,333
+jface,version,24,1,0,0,333
+jface 요약,,97,3,0,0,2997
+jgit,assignee,0,0,0,0,1120
+jgit,component,6,0,0,0,1120
+jgit,hardware,30,0,0,0,1120
+jgit,os,34,0,0,0,1120
+jgit,priority,2,0,0,0,1120
+jgit,product,4,0,0,0,1120
+jgit,severity,103,5,0,1,1120
+jgit,status,0,0,0,0,1120
+jgit,version,60,2,0,1,1120
+jgit 요약,,239,7,0,2,10080
+jira,assignee,0,0,0,0,938
+jira,component,20,2,0,0,938
+jira,hardware,0,0,0,0,938
+jira,os,4,0,0,0,938
+jira,priority,82,10,1,0,938
+jira,product,1,0,0,0,938
+jira,severity,69,2,0,0,938
+jira,status,0,0,0,0,938
+jira,version,8,0,0,0,938
+jira 요약,,184,14,1,0,8442
+jobmanagement,assignee,0,0,0,0,5
+jobmanagement,component,1,0,0,0,5
+jobmanagement,hardware,0,0,0,0,5
+jobmanagement,os,0,0,0,0,5
+jobmanagement,priority,0,0,0,0,5
+jobmanagement,product,0,0,0,0,5
+jobmanagement,severity,0,0,0,0,5
+jobmanagement,status,0,0,0,0,5
+jobmanagement,version,1,0,0,0,5
+jobmanagement 요약,,2,0,0,0,45
+jpa,assignee,0,0,0,0,3976
+jpa,component,18,1,0,0,3976
+jpa,hardware,35,0,0,0,3976
+jpa,os,36,0,0,0,3976
+jpa,priority,1013,32,12,0,3976
+jpa,product,0,1,0,0,3976
+jpa,severity,315,16,2,0,3976
+jpa,status,0,0,0,0,3976
+jpa,version,283,18,0,0,3976
+jpa 요약,,1700,68,14,0,35784
+js,assignee,0,0,0,0,13
+js,component,0,0,0,0,13
+js,hardware,0,0,0,0,13
+js,os,0,0,0,0,13
+js,priority,0,0,0,0,13
+js,product,0,0,0,0,13
+js,severity,0,1,0,0,13
+js,status,0,0,0,0,13
+js,version,1,0,0,0,13
+js 요약,,1,1,0,0,117
+jsp,assignee,0,0,0,0,6
+jsp,component,0,0,0,0,6
+jsp,hardware,0,0,0,0,6
+jsp,os,0,0,0,0,6
+jsp,priority,0,0,0,0,6
+jsp,product,0,0,0,0,6
+jsp,severity,1,0,0,0,6
+jsp,status,0,0,0,0,6
+jsp,version,1,0,0,0,6
+jsp 요약,,2,0,0,0,54
+jstools,assignee,0,0,0,0,720
+jstools,component,13,0,0,0,720
+jstools,hardware,6,0,0,0,720
+jstools,os,6,0,0,0,720
+jstools,priority,20,0,1,0,720
+jstools,product,0,0,0,0,720
+jstools,severity,34,1,0,0,720
+jstools,status,0,0,0,0,720
+jstools,version,5,0,0,0,720
+jstools 요약,,84,1,1,0,6480
+keyboardlayouts,assignee,0,0,0,0,19
+keyboardlayouts,component,6,0,0,0,19
+keyboardlayouts,hardware,1,0,0,0,19
+keyboardlayouts,os,1,0,0,0,19
+keyboardlayouts,priority,0,0,0,0,19
+keyboardlayouts,product,0,0,0,0,19
+keyboardlayouts,severity,0,0,0,0,19
+keyboardlayouts,status,0,0,0,0,19
+keyboardlayouts,version,1,0,0,0,19
+keyboardlayouts 요약,,9,0,0,0,171
+lang,assignee,0,0,0,0,54
+lang,component,0,0,0,0,54
+lang,hardware,0,0,0,0,54
+lang,os,4,0,0,0,54
+lang,priority,0,0,0,0,54
+lang,product,0,0,0,0,54
+lang,severity,0,0,0,0,54
+lang,status,0,0,0,0,54
+lang,version,0,0,0,0,54
+lang 요약,,4,0,0,0,486
+languages,assignee,0,0,0,0,41
+languages,component,0,0,0,0,41
+languages,hardware,2,0,0,0,41
+languages,os,2,0,0,0,41
+languages,priority,1,0,0,0,41
+languages,product,0,0,0,0,41
+languages,severity,0,0,0,0,41
+languages,status,0,0,0,0,41
+languages,version,0,0,0,0,41
+languages 요약,,5,0,0,0,369
+launch,assignee,0,0,0,0,72
+launch,component,6,0,0,0,72
+launch,hardware,0,0,0,0,72
+launch,os,0,0,0,0,72
+launch,priority,0,0,0,0,72
+launch,product,0,0,0,0,72
+launch,severity,1,0,0,0,72
+launch,status,0,0,0,0,72
+launch,version,5,0,0,0,72
+launch 요약,,12,0,0,0,648
+launcher,assignee,0,0,0,0,212
+launcher,component,7,0,0,0,212
+launcher,hardware,4,0,0,0,212
+launcher,os,9,0,0,0,212
+launcher,priority,4,0,0,0,212
+launcher,product,4,0,0,0,212
+launcher,severity,21,3,0,0,212
+launcher,status,0,0,0,0,212
+launcher,version,26,1,0,0,212
+launcher 요약,,75,4,0,0,1908
+launchers,assignee,0,0,0,0,15
+launchers,component,0,0,0,0,15
+launchers,hardware,0,0,0,0,15
+launchers,os,0,0,0,0,15
+launchers,priority,0,0,0,0,15
+launchers,product,0,0,0,0,15
+launchers,severity,2,0,0,0,15
+launchers,status,0,0,0,0,15
+launchers,version,0,0,0,0,15
+launchers 요약,,2,0,0,0,135
+ldp,assignee,0,0,0,0,131
+ldp,component,1,0,0,0,131
+ldp,hardware,2,0,0,0,131
+ldp,os,2,0,0,0,131
+ldp,priority,0,0,0,0,131
+ldp,product,0,0,0,0,131
+ldp,severity,0,0,0,0,131
+ldp,status,0,0,0,0,131
+ldp,version,1,0,0,0,131
+ldp 요약,,6,0,0,0,1179
+legacy,assignee,0,0,0,0,39
+legacy,component,3,0,0,0,39
+legacy,hardware,1,0,0,0,39
+legacy,os,1,0,0,0,39
+legacy,priority,0,0,0,0,39
+legacy,product,0,0,0,0,39
+legacy,severity,1,0,0,0,39
+legacy,status,0,0,0,0,39
+legacy,version,9,2,1,0,39
+legacy 요약,,15,2,1,0,351
+legacydraw2d,assignee,0,0,0,0,946
+legacydraw2d,component,13,0,0,0,946
+legacydraw2d,hardware,16,0,0,0,946
+legacydraw2d,os,17,2,0,0,946
+legacydraw2d,priority,25,3,0,0,946
+legacydraw2d,product,7,0,0,0,946
+legacydraw2d,severity,40,2,0,0,946
+legacydraw2d,status,0,0,0,0,946
+legacydraw2d,version,22,0,0,0,946
+legacydraw2d 요약,,140,7,0,0,8514
+legacygef(mvc),assignee,0,0,0,0,2263
+legacygef(mvc),component,68,12,0,0,2263
+legacygef(mvc),hardware,21,1,0,0,2263
+legacygef(mvc),os,39,2,0,0,2263
+legacygef(mvc),priority,81,3,2,0,2263
+legacygef(mvc),product,3,1,0,0,2263
+legacygef(mvc),severity,84,7,0,0,2263
+legacygef(mvc),status,0,0,0,0,2263
+legacygef(mvc),version,39,0,0,0,2263
+legacygef(mvc) 요약,,335,26,2,0,20367
+legacyzest,assignee,0,0,0,0,209
+legacyzest,component,19,0,0,0,209
+legacyzest,hardware,1,0,0,0,209
+legacyzest,os,3,0,0,0,209
+legacyzest,priority,1,0,0,0,209
+legacyzest,product,18,0,0,0,209
+legacyzest,severity,4,0,0,0,209
+legacyzest,status,0,0,0,0,209
+legacyzest,version,6,0,0,0,209
+legacyzest 요약,,52,0,0,0,1881
+lib,assignee,0,0,0,0,8
+lib,component,0,0,0,0,8
+lib,hardware,0,0,0,0,8
+lib,os,0,0,0,0,8
+lib,priority,0,0,0,0,8
+lib,product,0,0,0,0,8
+lib,severity,0,0,0,0,8
+lib,status,0,0,0,0,8
+lib,version,0,0,0,0,8
+lib 요약,,0,0,0,0,72
+library,assignee,0,0,0,0,47
+library,component,0,0,0,0,47
+library,hardware,0,0,0,0,47
+library,os,0,0,0,0,47
+library,priority,3,1,0,0,47
+library,product,0,0,0,0,47
+library,severity,2,1,0,0,47
+library,status,0,0,0,0,47
+library,version,1,0,0,0,47
+library 요약,,6,2,0,0,423
+license,assignee,0,0,0,0,8
+license,component,0,0,0,0,8
+license,hardware,0,0,0,0,8
+license,os,0,0,0,0,8
+license,priority,1,0,0,0,8
+license,product,0,0,0,0,8
+license,severity,1,0,0,0,8
+license,status,0,0,0,0,8
+license,version,0,0,0,0,8
+license 요약,,2,0,0,0,72
+livedoc,assignee,0,0,0,0,107
+livedoc,component,0,0,0,0,107
+livedoc,hardware,0,0,0,0,107
+livedoc,os,0,0,0,0,107
+livedoc,priority,0,0,0,0,107
+livedoc,product,0,0,0,0,107
+livedoc,severity,3,0,0,0,107
+livedoc,status,0,0,0,0,107
+livedoc,version,6,2,0,1,107
+livedoc 요약,,9,2,0,1,963
+loadleveler,assignee,0,0,0,0,10
+loadleveler,component,0,0,0,0,10
+loadleveler,hardware,0,0,0,0,10
+loadleveler,os,0,0,0,0,10
+loadleveler,priority,0,0,0,0,10
+loadleveler,product,0,0,0,0,10
+loadleveler,severity,0,0,0,0,10
+loadleveler,status,0,0,0,0,10
+loadleveler,version,0,0,0,0,10
+loadleveler 요약,,0,0,0,0,90
+local,assignee,0,0,0,0,8
+local,component,0,0,0,0,8
+local,hardware,0,0,0,0,8
+local,os,0,0,0,0,8
+local,priority,0,0,0,0,8
+local,product,0,0,0,0,8
+local,severity,0,0,0,0,8
+local,status,0,0,0,0,8
+local,version,0,0,0,0,8
+local 요약,,0,0,0,0,72
+logging,assignee,0,0,0,0,24
+logging,component,0,0,0,0,24
+logging,hardware,2,0,0,0,24
+logging,os,2,0,0,0,24
+logging,priority,1,1,0,0,24
+logging,product,0,0,0,0,24
+logging,severity,3,0,0,0,24
+logging,status,0,0,0,0,24
+logging,version,0,0,0,0,24
+logging 요약,,8,1,0,0,216
+lookandfeel,assignee,0,0,0,0,72
+lookandfeel,component,6,1,0,0,72
+lookandfeel,hardware,5,0,0,0,72
+lookandfeel,os,5,0,0,0,72
+lookandfeel,priority,3,0,0,0,72
+lookandfeel,product,0,0,0,0,72
+lookandfeel,severity,1,0,0,0,72
+lookandfeel,status,0,0,0,0,72
+lookandfeel,version,0,0,0,0,72
+lookandfeel 요약,,20,1,0,0,648
+lttng,assignee,0,0,0,0,119
+lttng,component,0,9,0,0,119
+lttng,hardware,0,0,0,0,119
+lttng,os,0,0,0,0,119
+lttng,priority,0,0,0,0,119
+lttng,product,9,0,0,0,119
+lttng,severity,7,0,0,0,119
+lttng,status,0,0,0,0,119
+lttng,version,9,0,0,0,119
+lttng 요약,,25,9,0,0,1071
+ltweaving,assignee,0,0,0,0,458
+ltweaving,component,5,0,0,0,458
+ltweaving,hardware,0,0,0,0,458
+ltweaving,os,1,0,0,0,458
+ltweaving,priority,24,1,1,0,458
+ltweaving,product,1,0,0,0,458
+ltweaving,severity,22,2,0,0,458
+ltweaving,status,0,0,0,0,458
+ltweaving,version,14,3,0,0,458
+ltweaving 요약,,67,6,1,0,4122
+luadevelopmenttools,assignee,0,0,0,0,483
+luadevelopmenttools,component,1,0,0,0,483
+luadevelopmenttools,hardware,9,0,0,0,483
+luadevelopmenttools,os,12,0,0,0,483
+luadevelopmenttools,priority,65,15,3,2,483
+luadevelopmenttools,product,0,0,0,0,483
+luadevelopmenttools,severity,61,1,0,0,483
+luadevelopmenttools,status,0,0,0,0,483
+luadevelopmenttools,version,27,0,0,0,483
+luadevelopmenttools 요약,,175,16,3,2,4347
+m2mqtt,assignee,0,0,0,0,2
+m2mqtt,component,0,0,0,0,2
+m2mqtt,hardware,0,0,0,0,2
+m2mqtt,os,0,0,0,0,2
+m2mqtt,priority,0,0,0,0,2
+m2mqtt,product,0,0,0,0,2
+m2mqtt,severity,0,0,0,0,2
+m2mqtt,status,0,0,0,0,2
+m2mqtt,version,0,0,0,0,2
+m2mqtt 요약,,0,0,0,0,18
+m2xideintegration,assignee,0,0,0,0,19
+m2xideintegration,component,5,0,0,0,19
+m2xideintegration,hardware,3,0,0,0,19
+m2xideintegration,os,4,0,0,0,19
+m2xideintegration,priority,0,0,0,0,19
+m2xideintegration,product,0,0,0,0,19
+m2xideintegration,severity,0,0,0,0,19
+m2xideintegration,status,0,0,0,0,19
+m2xideintegration,version,1,0,0,0,19
+m2xideintegration 요약,,13,0,0,0,171
+main,assignee,0,0,0,0,1071
+main,component,3,0,0,0,1071
+main,hardware,8,0,0,0,1071
+main,os,10,0,0,0,1071
+main,priority,305,92,19,4,1071
+main,product,0,0,0,0,1071
+main,severity,77,2,1,0,1071
+main,status,0,0,0,0,1071
+main,version,36,0,0,0,1071
+main 요약,,439,94,20,4,9639
+managed,assignee,0,0,0,0,334
+managed,component,26,1,0,0,334
+managed,hardware,3,0,0,0,334
+managed,os,7,0,0,0,334
+managed,priority,0,0,0,0,334
+managed,product,2,0,0,0,334
+managed,severity,17,2,0,0,334
+managed,status,0,0,0,0,334
+managed,version,38,0,0,0,334
+managed 요약,,93,3,0,0,3006
+managedmake,assignee,0,0,0,0,61
+managedmake,component,7,0,0,0,61
+managedmake,hardware,0,0,0,0,61
+managedmake,os,0,0,0,0,61
+managedmake,priority,8,0,0,0,61
+managedmake,product,6,0,0,0,61
+managedmake,severity,2,0,0,0,61
+managedmake,status,0,0,0,0,61
+managedmake,version,8,0,0,0,61
+managedmake 요약,,31,0,0,0,549
+mapping,assignee,0,0,0,0,80
+mapping,component,2,0,0,0,80
+mapping,hardware,0,0,0,0,80
+mapping,os,0,0,0,0,80
+mapping,priority,0,0,0,0,80
+mapping,product,2,0,0,0,80
+mapping,severity,3,0,0,0,80
+mapping,status,0,0,0,0,80
+mapping,version,4,0,0,0,80
+mapping 요약,,11,0,0,0,720
+marketplace,assignee,0,0,0,0,2
+marketplace,component,0,0,0,0,2
+marketplace,hardware,0,0,0,0,2
+marketplace,os,0,0,0,0,2
+marketplace,priority,0,0,0,0,2
+marketplace,product,0,0,0,0,2
+marketplace,severity,0,0,0,0,2
+marketplace,status,0,0,0,0,2
+marketplace,version,0,0,0,0,2
+marketplace 요약,,0,0,0,0,18
+marte,assignee,0,0,0,0,7
+marte,component,2,0,0,0,7
+marte,hardware,0,0,0,0,7
+marte,os,1,0,0,0,7
+marte,priority,0,0,0,0,7
+marte,product,0,0,0,0,7
+marte,severity,1,0,0,0,7
+marte,status,0,0,0,0,7
+marte,version,1,0,0,0,7
+marte 요약,,5,0,0,0,63
+maven,assignee,0,0,0,0,169
+maven,component,3,0,0,0,169
+maven,hardware,1,0,0,0,169
+maven,os,1,0,0,0,169
+maven,priority,1,0,0,0,169
+maven,product,0,0,0,0,169
+maven,severity,2,0,0,0,169
+maven,status,0,0,0,0,169
+maven,version,3,0,0,0,169
+maven 요약,,11,0,0,0,1521
+maven2,assignee,0,0,0,0,4
+maven2,component,0,0,0,0,4
+maven2,hardware,0,0,0,0,4
+maven2,os,0,0,0,0,4
+maven2,priority,0,0,0,0,4
+maven2,product,0,0,0,0,4
+maven2,severity,0,1,0,0,4
+maven2,status,0,0,0,0,4
+maven2,version,0,0,0,0,4
+maven2 요약,,0,1,0,0,36
+maven3,assignee,0,0,0,0,16
+maven3,component,0,0,0,0,16
+maven3,hardware,0,0,0,0,16
+maven3,os,1,0,0,0,16
+maven3,priority,0,0,0,0,16
+maven3,product,0,0,0,0,16
+maven3,severity,3,0,0,0,16
+maven3,status,0,0,0,0,16
+maven3,version,0,0,0,0,16
+maven3 요약,,4,0,0,0,144
+memory,assignee,0,0,0,0,297
+memory,component,49,3,0,0,297
+memory,hardware,1,0,0,0,297
+memory,os,1,0,0,0,297
+memory,priority,4,0,0,0,297
+memory,product,46,3,0,0,297
+memory,severity,4,0,0,0,297
+memory,status,0,0,0,0,297
+memory,version,51,1,0,0,297
+memory 요약,,156,7,0,0,2673
+metalua,assignee,0,0,0,0,25
+metalua,component,0,0,0,0,25
+metalua,hardware,2,0,0,0,25
+metalua,os,2,0,0,0,25
+metalua,priority,3,0,0,0,25
+metalua,product,0,0,0,0,25
+metalua,severity,3,0,0,0,25
+metalua,status,0,0,0,0,25
+metalua,version,0,0,0,0,25
+metalua 요약,,10,0,0,0,225
+metamodel,assignee,0,0,0,0,25
+metamodel,component,0,0,0,0,25
+metamodel,hardware,0,0,0,0,25
+metamodel,os,0,0,0,0,25
+metamodel,priority,1,0,0,0,25
+metamodel,product,0,0,0,0,25
+metamodel,severity,1,0,0,0,25
+metamodel,status,0,0,0,0,25
+metamodel,version,3,1,1,1,25
+metamodel 요약,,5,1,1,1,225
+microxml,assignee,0,0,0,0,32
+microxml,component,2,0,0,0,32
+microxml,hardware,0,0,0,0,32
+microxml,os,1,0,0,0,32
+microxml,priority,0,0,0,0,32
+microxml,product,0,0,0,0,32
+microxml,severity,0,0,0,0,32
+microxml,status,0,0,0,0,32
+microxml,version,0,0,0,0,32
+microxml 요약,,3,0,0,0,288
+mint,assignee,0,0,0,0,53
+mint,component,0,0,0,0,53
+mint,hardware,0,0,0,0,53
+mint,os,0,0,0,0,53
+mint,priority,0,0,0,0,53
+mint,product,0,0,0,0,53
+mint,severity,0,0,0,0,53
+mint,status,0,0,0,0,53
+mint,version,9,0,0,0,53
+mint 요약,,9,0,0,0,477
+misc,assignee,0,0,0,0,102
+misc,component,5,1,0,0,102
+misc,hardware,1,0,0,0,102
+misc,os,1,0,0,0,102
+misc,priority,0,0,0,0,102
+misc,product,0,1,0,0,102
+misc,severity,1,0,0,0,102
+misc,status,0,0,0,0,102
+misc,version,0,1,0,0,102
+misc 요약,,8,3,0,0,918
+miscellaneous,assignee,0,0,0,0,4
+miscellaneous,component,1,0,0,0,4
+miscellaneous,hardware,0,0,0,0,4
+miscellaneous,os,0,0,0,0,4
+miscellaneous,priority,0,0,0,0,4
+miscellaneous,product,0,0,0,0,4
+miscellaneous,severity,1,0,0,0,4
+miscellaneous,status,0,0,0,0,4
+miscellaneous,version,0,0,0,0,4
+miscellaneous 요약,,2,0,0,0,36
+mobile,assignee,0,0,0,0,420
+mobile,component,14,0,0,0,420
+mobile,hardware,0,0,0,0,420
+mobile,os,3,0,0,0,420
+mobile,priority,0,0,0,0,420
+mobile,product,0,0,0,0,420
+mobile,severity,3,0,0,0,420
+mobile,status,0,0,0,0,420
+mobile,version,1,0,0,0,420
+mobile 요약,,21,0,0,0,3780
+model,assignee,0,0,0,0,245
+model,component,9,0,0,0,245
+model,hardware,0,0,0,0,245
+model,os,0,0,0,0,245
+model,priority,3,0,0,0,245
+model,product,0,0,0,0,245
+model,severity,3,0,0,0,245
+model,status,0,0,0,0,245
+model,version,2,0,0,0,245
+model 요약,,17,0,0,0,2205
+modeling,assignee,0,0,0,0,264
+modeling,component,1,0,0,0,264
+modeling,hardware,8,0,0,0,264
+modeling,os,7,0,0,0,264
+modeling,priority,0,0,0,0,264
+modeling,product,0,0,0,0,264
+modeling,severity,4,0,0,0,264
+modeling,status,0,0,0,0,264
+modeling,version,9,1,0,0,264
+modeling 요약,,29,1,0,0,2376
+modelmutator,assignee,0,0,0,0,5
+modelmutator,component,0,0,0,0,5
+modelmutator,hardware,1,0,0,0,5
+modelmutator,os,0,0,0,0,5
+modelmutator,priority,2,0,0,0,5
+modelmutator,product,0,0,0,0,5
+modelmutator,severity,0,0,0,0,5
+modelmutator,status,0,0,0,0,5
+modelmutator,version,0,0,0,0,5
+modelmutator 요약,,3,0,0,0,45
+models,assignee,0,0,0,0,13
+models,component,0,0,0,0,13
+models,hardware,0,0,0,0,13
+models,os,0,0,0,0,13
+models,priority,0,0,0,0,13
+models,product,0,0,0,0,13
+models,severity,1,0,0,0,13
+models,status,0,0,0,0,13
+models,version,0,0,0,0,13
+models 요약,,1,0,0,0,117
+modelworkspace,assignee,0,0,0,0,65
+modelworkspace,component,0,0,0,0,65
+modelworkspace,hardware,0,0,0,0,65
+modelworkspace,os,0,0,0,0,65
+modelworkspace,priority,11,2,2,0,65
+modelworkspace,product,0,0,0,0,65
+modelworkspace,severity,0,0,0,0,65
+modelworkspace,status,0,0,0,0,65
+modelworkspace,version,1,0,0,0,65
+modelworkspace 요약,,12,2,2,0,585
+modules,assignee,0,0,0,0,327
+modules,component,5,4,0,0,327
+modules,hardware,18,0,0,0,327
+modules,os,20,0,0,0,327
+modules,priority,1,0,0,0,327
+modules,product,6,0,0,0,327
+modules,severity,9,0,0,0,327
+modules,status,0,0,0,0,327
+modules,version,25,0,0,0,327
+modules 요약,,84,4,0,0,2943
+moka,assignee,0,0,0,0,48
+moka,component,6,0,0,0,48
+moka,hardware,1,0,0,0,48
+moka,os,1,0,0,0,48
+moka,priority,0,0,0,0,48
+moka,product,0,0,0,0,48
+moka,severity,1,0,0,0,48
+moka,status,0,0,0,0,48
+moka,version,1,0,0,0,48
+moka 요약,,10,0,0,0,432
+monitor,assignee,0,0,0,0,331
+monitor,component,5,0,0,0,331
+monitor,hardware,0,0,0,0,331
+monitor,os,3,0,0,0,331
+monitor,priority,51,14,3,5,331
+monitor,product,1,0,0,0,331
+monitor,severity,18,1,0,0,331
+monitor,status,0,0,0,0,331
+monitor,version,7,0,0,0,331
+monitor 요약,,85,15,3,5,2979
+moxy,assignee,0,0,0,0,900
+moxy,component,3,0,0,0,900
+moxy,hardware,8,0,0,0,900
+moxy,os,8,0,0,0,900
+moxy,priority,25,4,0,0,900
+moxy,product,0,0,0,0,900
+moxy,severity,57,0,0,0,900
+moxy,status,0,0,0,0,900
+moxy,version,47,2,0,0,900
+moxy 요약,,148,6,0,0,8100
+mozilla,assignee,0,0,0,0,269
+mozilla,component,1,0,0,0,269
+mozilla,hardware,0,0,0,0,269
+mozilla,os,4,0,0,0,269
+mozilla,priority,2,0,0,0,269
+mozilla,product,0,0,0,0,269
+mozilla,severity,9,0,0,0,269
+mozilla,status,0,0,0,0,269
+mozilla,version,0,0,0,0,269
+mozilla 요약,,16,0,0,0,2421
+mpidevelopmenttools,assignee,0,0,0,0,2
+mpidevelopmenttools,component,0,0,0,0,2
+mpidevelopmenttools,hardware,0,0,0,0,2
+mpidevelopmenttools,os,0,0,0,0,2
+mpidevelopmenttools,priority,0,0,0,0,2
+mpidevelopmenttools,product,0,0,0,0,2
+mpidevelopmenttools,severity,0,0,0,0,2
+mpidevelopmenttools,status,0,0,0,0,2
+mpidevelopmenttools,version,0,0,0,0,2
+mpidevelopmenttools 요약,,0,0,0,0,18
+mqtt,assignee,0,0,0,0,37
+mqtt,component,0,0,0,0,37
+mqtt,hardware,4,0,0,0,37
+mqtt,os,4,0,0,0,37
+mqtt,priority,0,0,0,0,37
+mqtt,product,0,0,0,0,37
+mqtt,severity,1,0,0,0,37
+mqtt,status,0,0,0,0,37
+mqtt,version,1,0,0,0,37
+mqtt 요약,,10,0,0,0,333
+mtjprojects,assignee,0,0,0,0,91
+mtjprojects,component,3,0,0,0,91
+mtjprojects,hardware,2,0,0,0,91
+mtjprojects,os,0,0,0,0,91
+mtjprojects,priority,4,0,0,0,91
+mtjprojects,product,0,0,0,0,91
+mtjprojects,severity,4,0,0,0,91
+mtjprojects,status,0,0,0,0,91
+mtjprojects,version,1,0,0,0,91
+mtjprojects 요약,,14,0,0,0,819
+mwe,assignee,0,0,0,0,189
+mwe,component,3,0,0,0,189
+mwe,hardware,2,0,0,0,189
+mwe,os,3,0,0,0,189
+mwe,priority,1,0,0,0,189
+mwe,product,3,0,0,0,189
+mwe,severity,21,0,0,0,189
+mwe,status,0,0,0,0,189
+mwe,version,14,0,0,0,189
+mwe 요약,,47,0,0,0,1701
+mylyn,assignee,0,0,0,0,77
+mylyn,component,1,0,0,0,77
+mylyn,hardware,0,0,0,0,77
+mylyn,os,1,0,0,0,77
+mylyn,priority,1,0,0,0,77
+mylyn,product,0,0,0,0,77
+mylyn,severity,7,0,0,0,77
+mylyn,status,0,0,0,0,77
+mylyn,version,1,0,0,0,77
+mylyn 요약,,11,0,0,0,693
+nav,assignee,0,0,0,0,109
+nav,component,14,0,0,0,109
+nav,hardware,1,0,0,0,109
+nav,os,4,0,0,0,109
+nav,priority,1,0,0,0,109
+nav,product,2,0,0,0,109
+nav,severity,2,0,0,0,109
+nav,status,0,0,0,0,109
+nav,version,17,0,0,0,109
+nav 요약,,41,0,0,0,981
+navigation,assignee,0,0,0,0,146
+navigation,component,1,0,0,0,146
+navigation,hardware,0,0,0,0,146
+navigation,os,0,0,0,0,146
+navigation,priority,4,1,0,0,146
+navigation,product,0,0,0,0,146
+navigation,severity,7,1,0,0,146
+navigation,status,0,0,0,0,146
+navigation,version,3,0,0,0,146
+navigation 요약,,15,2,0,0,1314
+navigator,assignee,0,0,0,0,77
+navigator,component,0,0,0,0,77
+navigator,hardware,0,0,0,0,77
+navigator,os,0,0,0,0,77
+navigator,priority,9,1,0,1,77
+navigator,product,0,0,0,0,77
+navigator,severity,3,0,0,0,77
+navigator,status,0,0,0,0,77
+navigator,version,1,0,0,0,77
+navigator 요약,,13,1,0,1,693
+navigator&amp;editorsockets,assignee,0,0,0,0,38
+navigator&amp;editorsockets,component,2,1,0,0,38
+navigator&amp;editorsockets,hardware,3,0,0,0,38
+navigator&amp;editorsockets,os,4,0,0,0,38
+navigator&amp;editorsockets,priority,3,0,0,0,38
+navigator&amp;editorsockets,product,0,0,0,0,38
+navigator&amp;editorsockets,severity,3,0,0,0,38
+navigator&amp;editorsockets,status,0,0,0,0,38
+navigator&amp;editorsockets,version,1,0,0,0,38
+navigator&amp;editorsockets 요약,,16,1,0,0,342
+nebulaextension,assignee,0,0,0,0,5
+nebulaextension,component,0,0,0,0,5
+nebulaextension,hardware,0,0,0,0,5
+nebulaextension,os,0,0,0,0,5
+nebulaextension,priority,0,0,0,0,5
+nebulaextension,product,0,0,0,0,5
+nebulaextension,severity,0,0,0,0,5
+nebulaextension,status,0,0,0,0,5
+nebulaextension,version,0,0,0,0,5
+nebulaextension 요약,,0,0,0,0,45
+net4j,assignee,0,0,0,0,285
+net4j,component,34,1,0,0,285
+net4j,hardware,3,0,0,0,285
+net4j,os,3,0,0,0,285
+net4j,priority,12,3,0,0,285
+net4j,product,0,0,0,0,285
+net4j,severity,10,0,0,0,285
+net4j,status,0,0,0,0,285
+net4j,version,32,14,0,2,285
+net4j 요약,,94,18,0,2,2565
+newsreader,assignee,0,0,0,0,22
+newsreader,component,0,0,0,0,22
+newsreader,hardware,0,0,0,0,22
+newsreader,os,0,0,0,0,22
+newsreader,priority,0,0,0,0,22
+newsreader,product,0,0,0,0,22
+newsreader,severity,2,0,0,0,22
+newsreader,status,0,0,0,0,22
+newsreader,version,0,0,0,0,22
+newsreader 요약,,2,0,0,0,198
+nexusplugins,assignee,0,0,0,0,43
+nexusplugins,component,1,0,0,0,43
+nexusplugins,hardware,6,0,0,0,43
+nexusplugins,os,6,0,0,0,43
+nexusplugins,priority,1,0,0,0,43
+nexusplugins,product,0,0,0,0,43
+nexusplugins,severity,2,0,0,0,43
+nexusplugins,status,0,0,0,0,43
+nexusplugins,version,2,0,0,0,43
+nexusplugins 요약,,18,0,0,0,387
+node,assignee,0,0,0,0,133
+node,component,5,0,0,0,133
+node,hardware,1,0,0,0,133
+node,os,1,0,0,0,133
+node,priority,4,0,0,0,133
+node,product,0,0,0,0,133
+node,severity,5,0,0,0,133
+node,status,0,0,0,0,133
+node,version,3,0,0,0,133
+node 요약,,19,0,0,0,1197
+objecttransaction,assignee,0,0,0,0,21
+objecttransaction,component,6,0,0,0,21
+objecttransaction,hardware,0,0,0,0,21
+objecttransaction,os,0,0,0,0,21
+objecttransaction,priority,7,0,0,0,21
+objecttransaction,product,0,0,0,0,21
+objecttransaction,severity,0,0,0,0,21
+objecttransaction,status,0,0,0,0,21
+objecttransaction,version,0,0,0,0,21
+objecttransaction 요약,,13,0,0,0,189
+objy,assignee,0,0,0,0,33
+objy,component,1,0,0,0,33
+objy,hardware,0,0,0,0,33
+objy,os,0,0,0,0,33
+objy,priority,0,0,0,0,33
+objy,product,0,0,0,0,33
+objy,severity,1,0,0,0,33
+objy,status,0,0,0,0,33
+objy,version,0,0,1,5,33
+objy 요약,,2,0,1,5,297
+openmpi,assignee,0,0,0,0,4
+openmpi,component,0,0,0,0,4
+openmpi,hardware,0,0,0,0,4
+openmpi,os,0,0,0,0,4
+openmpi,priority,0,0,0,0,4
+openmpi,product,0,0,0,0,4
+openmpi,severity,0,0,0,0,4
+openmpi,status,0,0,0,0,4
+openmpi,version,0,0,0,0,4
+openmpi 요약,,0,0,0,0,36
+orion,assignee,0,0,0,0,19
+orion,component,0,0,0,0,19
+orion,hardware,0,0,0,0,19
+orion,os,0,0,0,0,19
+orion,priority,2,0,0,0,19
+orion,product,0,0,0,0,19
+orion,severity,1,0,0,0,19
+orion,status,0,0,0,0,19
+orion,version,0,0,0,0,19
+orion 요약,,3,0,0,0,171
+orionhub,assignee,0,0,0,0,53
+orionhub,component,1,0,0,0,53
+orionhub,hardware,0,0,0,0,53
+orionhub,os,0,0,0,0,53
+orionhub,priority,0,0,0,0,53
+orionhub,product,1,0,0,0,53
+orionhub,severity,2,0,0,0,53
+orionhub,status,0,0,0,0,53
+orionhub,version,1,0,0,0,53
+orionhub 요약,,5,0,0,0,477
+oscilloscope,assignee,0,0,0,0,13
+oscilloscope,component,1,0,0,0,13
+oscilloscope,hardware,0,0,0,0,13
+oscilloscope,os,0,0,0,0,13
+oscilloscope,priority,0,0,0,0,13
+oscilloscope,product,0,0,0,0,13
+oscilloscope,severity,0,0,0,0,13
+oscilloscope,status,0,0,0,0,13
+oscilloscope,version,1,0,0,0,13
+oscilloscope 요약,,2,0,0,0,117
+oseeapplicationframework,assignee,0,0,0,0,185
+oseeapplicationframework,component,2,1,0,0,185
+oseeapplicationframework,hardware,18,0,0,0,185
+oseeapplicationframework,os,18,0,0,0,185
+oseeapplicationframework,priority,3,0,0,0,185
+oseeapplicationframework,product,1,0,0,0,185
+oseeapplicationframework,severity,10,0,0,0,185
+oseeapplicationframework,status,0,0,0,0,185
+oseeapplicationframework,version,8,0,0,0,185
+oseeapplicationframework 요약,,60,1,0,0,1665
+oseetestenvironment(ote),assignee,0,0,0,0,14
+oseetestenvironment(ote),component,0,0,0,0,14
+oseetestenvironment(ote),hardware,1,0,0,0,14
+oseetestenvironment(ote),os,1,0,0,0,14
+oseetestenvironment(ote),priority,0,0,0,0,14
+oseetestenvironment(ote),product,0,0,0,0,14
+oseetestenvironment(ote),severity,0,0,0,0,14
+oseetestenvironment(ote),status,0,0,0,0,14
+oseetestenvironment(ote),version,1,0,0,0,14
+oseetestenvironment(ote) 요약,,3,0,0,0,126
+osgi,assignee,0,0,0,0,104
+osgi,component,3,0,0,0,104
+osgi,hardware,2,0,0,0,104
+osgi,os,2,0,0,0,104
+osgi,priority,0,0,0,0,104
+osgi,product,0,0,0,0,104
+osgi,severity,3,0,0,0,104
+osgi,status,0,0,0,0,104
+osgi,version,13,1,0,0,104
+osgi 요약,,23,1,0,0,936
+osgifacet,assignee,0,0,0,0,13
+osgifacet,component,0,0,0,0,13
+osgifacet,hardware,0,0,0,0,13
+osgifacet,os,0,0,0,0,13
+osgifacet,priority,0,0,0,0,13
+osgifacet,product,0,0,0,0,13
+osgifacet,severity,0,0,0,0,13
+osgifacet,status,0,0,0,0,13
+osgifacet,version,2,0,0,0,13
+osgifacet 요약,,2,0,0,0,117
+otdt,assignee,0,0,0,0,85
+otdt,component,0,0,0,0,85
+otdt,hardware,0,0,0,0,85
+otdt,os,0,0,0,0,85
+otdt,priority,2,0,0,0,85
+otdt,product,0,0,0,0,85
+otdt,severity,3,0,0,0,85
+otdt,status,0,0,0,0,85
+otdt,version,10,0,0,0,85
+otdt 요약,,15,0,0,0,765
+otequinox,assignee,0,0,0,0,15
+otequinox,component,0,0,0,0,15
+otequinox,hardware,0,0,0,0,15
+otequinox,os,1,0,0,0,15
+otequinox,priority,1,0,0,0,15
+otequinox,product,0,0,0,0,15
+otequinox,severity,0,0,0,0,15
+otequinox,status,0,0,0,0,15
+otequinox,version,1,0,0,0,15
+otequinox 요약,,3,0,0,0,135
+other,assignee,0,0,0,0,1290
+other,component,185,4,0,0,1290
+other,hardware,8,0,0,0,1290
+other,os,10,0,0,0,1290
+other,priority,24,3,0,0,1290
+other,product,2,0,0,0,1290
+other,severity,36,1,0,0,1290
+other,status,0,0,0,0,1290
+other,version,62,2,0,0,1290
+other 요약,,327,10,0,0,11610
+others,assignee,0,0,0,0,899
+others,component,33,0,0,0,899
+others,hardware,68,0,0,0,899
+others,os,67,0,0,0,899
+others,priority,8,0,0,0,899
+others,product,0,0,0,0,899
+others,severity,24,1,0,0,899
+others,status,0,0,0,0,899
+others,version,41,0,0,0,899
+others 요약,,241,1,0,0,8091
+otj,assignee,0,0,0,0,66
+otj,component,0,0,0,0,66
+otj,hardware,0,0,0,0,66
+otj,os,0,0,0,0,66
+otj,priority,1,0,0,0,66
+otj,product,0,0,0,0,66
+otj,severity,3,0,0,0,66
+otj,status,0,0,0,0,66
+otj,version,6,0,0,0,66
+otj 요약,,10,0,0,0,594
+otmvn,assignee,0,0,0,0,4
+otmvn,component,1,0,0,0,4
+otmvn,hardware,0,0,0,0,4
+otmvn,os,0,0,0,0,4
+otmvn,priority,0,0,0,0,4
+otmvn,product,0,0,0,0,4
+otmvn,severity,0,0,0,0,4
+otmvn,status,0,0,0,0,4
+otmvn,version,0,0,0,0,4
+otmvn 요약,,1,0,0,0,36
+outlineviews,assignee,0,0,0,0,402
+outlineviews,component,8,0,0,0,402
+outlineviews,hardware,2,0,0,0,402
+outlineviews,os,4,0,0,0,402
+outlineviews,priority,18,3,0,0,402
+outlineviews,product,0,0,0,0,402
+outlineviews,severity,15,1,0,0,402
+outlineviews,status,0,0,0,0,402
+outlineviews,version,18,2,0,0,402
+outlineviews 요약,,65,6,0,0,3618
+p2,assignee,0,0,0,0,5320
+p2,component,65,6,0,0,5320
+p2,hardware,32,1,0,0,5320
+p2,os,67,3,0,0,5320
+p2,priority,35,0,0,0,5320
+p2,product,50,3,0,0,5320
+p2,severity,322,20,4,0,5320
+p2,status,0,0,0,0,5320
+p2,version,168,3,1,0,5320
+p2 요약,,739,36,5,0,47880
+p2management,assignee,0,0,0,0,110
+p2management,component,7,0,0,0,110
+p2management,hardware,0,0,0,0,110
+p2management,os,0,0,0,0,110
+p2management,priority,0,0,0,0,110
+p2management,product,3,0,0,0,110
+p2management,severity,6,0,0,0,110
+p2management,status,0,0,0,0,110
+p2management,version,10,1,4,4,110
+p2management 요약,,26,1,4,4,990
+p2repositoryanalyzers,assignee,0,0,0,0,4
+p2repositoryanalyzers,component,0,0,0,0,4
+p2repositoryanalyzers,hardware,0,0,0,0,4
+p2repositoryanalyzers,os,0,0,0,0,4
+p2repositoryanalyzers,priority,0,0,0,0,4
+p2repositoryanalyzers,product,0,0,0,0,4
+p2repositoryanalyzers,severity,0,0,0,0,4
+p2repositoryanalyzers,status,0,0,0,0,4
+p2repositoryanalyzers,version,0,0,0,0,4
+p2repositoryanalyzers 요약,,0,0,0,0,36
+package,assignee,0,0,0,0,753
+package,component,15,0,0,0,753
+package,hardware,20,1,0,0,753
+package,os,24,0,0,0,753
+package,priority,12,0,0,0,753
+package,product,5,0,0,0,753
+package,severity,25,1,0,0,753
+package,status,0,0,0,0,753
+package,version,52,0,0,0,753
+package 요약,,153,2,0,0,6777
+packagecontent,assignee,0,0,0,0,156
+packagecontent,component,13,0,0,0,156
+packagecontent,hardware,6,0,0,0,156
+packagecontent,os,6,0,0,0,156
+packagecontent,priority,0,0,0,0,156
+packagecontent,product,4,0,0,0,156
+packagecontent,severity,3,1,0,0,156
+packagecontent,status,0,0,0,0,156
+packagecontent,version,17,0,0,0,156
+packagecontent 요약,,49,1,0,0,1404
+packager,assignee,0,0,0,0,163
+packager,component,13,0,0,0,163
+packager,hardware,8,0,0,0,163
+packager,os,9,0,0,0,163
+packager,priority,1,0,0,0,163
+packager,product,0,0,0,0,163
+packager,severity,4,0,0,0,163
+packager,status,0,0,0,0,163
+packager,version,7,0,0,0,163
+packager 요약,,42,0,0,0,1467
+packages,assignee,0,0,0,0,31
+packages,component,0,0,0,0,31
+packages,hardware,0,0,0,0,31
+packages,os,0,0,0,0,31
+packages,priority,1,0,0,0,31
+packages,product,0,0,0,0,31
+packages,severity,0,0,0,0,31
+packages,status,0,0,0,0,31
+packages,version,0,0,0,0,31
+packages 요약,,1,0,0,0,279
+paginationcontrol,assignee,0,0,0,0,2
+paginationcontrol,component,0,0,0,0,2
+paginationcontrol,hardware,0,0,0,0,2
+paginationcontrol,os,0,0,0,0,2
+paginationcontrol,priority,0,0,0,0,2
+paginationcontrol,product,0,0,0,0,2
+paginationcontrol,severity,0,0,0,0,2
+paginationcontrol,status,0,0,0,0,2
+paginationcontrol,version,0,0,0,0,2
+paginationcontrol 요약,,0,0,0,0,18
+paperclips,assignee,0,0,0,0,2
+paperclips,component,0,0,0,0,2
+paperclips,hardware,0,0,0,0,2
+paperclips,os,0,0,0,0,2
+paperclips,priority,0,0,0,0,2
+paperclips,product,0,0,0,0,2
+paperclips,severity,0,0,0,0,2
+paperclips,status,0,0,0,0,2
+paperclips,version,0,0,0,0,2
+paperclips 요약,,0,0,0,0,18
+parser,assignee,0,0,0,0,2181
+parser,component,56,2,0,0,2181
+parser,hardware,12,0,0,0,2181
+parser,os,18,0,0,0,2181
+parser,priority,41,1,0,0,2181
+parser,product,2,0,0,0,2181
+parser,severity,82,9,0,0,2181
+parser,status,0,0,0,0,2181
+parser,version,48,4,0,0,2181
+parser 요약,,259,16,0,0,19629
+patterns,assignee,0,0,0,0,76
+patterns,component,0,0,0,0,76
+patterns,hardware,0,0,0,0,76
+patterns,os,0,0,0,0,76
+patterns,priority,0,0,0,0,76
+patterns,product,0,0,0,0,76
+patterns,severity,0,0,0,0,76
+patterns,status,0,0,0,0,76
+patterns,version,0,0,0,0,76
+patterns 요약,,0,0,0,0,684
+pbs,assignee,0,0,0,0,34
+pbs,component,2,0,0,0,34
+pbs,hardware,0,0,0,0,34
+pbs,os,1,0,0,0,34
+pbs,priority,0,0,0,0,34
+pbs,product,0,0,0,0,34
+pbs,severity,0,0,0,0,34
+pbs,status,0,0,0,0,34
+pbs,version,1,0,0,0,34
+pbs 요약,,4,0,0,0,306
+pdebuild,assignee,0,0,0,0,2
+pdebuild,component,0,0,0,0,2
+pdebuild,hardware,0,0,0,0,2
+pdebuild,os,0,0,0,0,2
+pdebuild,priority,0,0,0,0,2
+pdebuild,product,0,0,0,0,2
+pdebuild,severity,0,0,0,0,2
+pdebuild,status,0,0,0,0,2
+pdebuild,version,0,0,0,0,2
+pdebuild 요약,,0,0,0,0,18
+pdesupport,assignee,0,0,0,0,377
+pdesupport,component,4,0,0,0,377
+pdesupport,hardware,15,0,0,0,377
+pdesupport,os,17,0,0,0,377
+pdesupport,priority,0,0,0,0,377
+pdesupport,product,0,0,0,0,377
+pdesupport,severity,9,0,0,0,377
+pdesupport,status,0,0,0,0,377
+pdesupport,version,1,0,0,0,377
+pdesupport 요약,,46,0,0,0,3393
+pe,assignee,0,0,0,0,25
+pe,component,1,0,0,0,25
+pe,hardware,0,0,0,0,25
+pe,os,1,0,0,0,25
+pe,priority,0,0,0,0,25
+pe,product,0,0,0,0,25
+pe,severity,0,0,0,0,25
+pe,status,0,0,0,0,25
+pe,version,1,0,0,0,25
+pe 요약,,3,0,0,0,225
+perf,assignee,0,0,0,0,2
+perf,component,0,0,0,0,2
+perf,hardware,0,0,0,0,2
+perf,os,0,0,0,0,2
+perf,priority,0,0,0,0,2
+perf,product,0,0,0,0,2
+perf,severity,0,0,0,0,2
+perf,status,0,0,0,0,2
+perf,version,0,0,0,0,2
+perf 요약,,0,0,0,0,18
+pgroup,assignee,0,0,0,0,6
+pgroup,component,0,0,0,0,6
+pgroup,hardware,0,0,0,0,6
+pgroup,os,0,0,0,0,6
+pgroup,priority,0,0,0,0,6
+pgroup,product,0,0,0,0,6
+pgroup,severity,1,0,0,0,6
+pgroup,status,0,0,0,0,6
+pgroup,version,0,0,0,0,6
+pgroup 요약,,1,0,0,0,54
+phpexplorer&amp;projectsmanagement,assignee,0,0,0,0,1129
+phpexplorer&amp;projectsmanagement,component,29,0,0,0,1129
+phpexplorer&amp;projectsmanagement,hardware,5,0,0,0,1129
+phpexplorer&amp;projectsmanagement,os,9,0,0,0,1129
+phpexplorer&amp;projectsmanagement,priority,59,4,0,1,1129
+phpexplorer&amp;projectsmanagement,product,1,0,0,0,1129
+phpexplorer&amp;projectsmanagement,severity,33,1,0,0,1129
+phpexplorer&amp;projectsmanagement,status,0,0,0,0,1129
+phpexplorer&amp;projectsmanagement,version,32,0,1,0,1129
+phpexplorer&amp;projectsmanagement 요약,,168,5,1,1,10161
+phpfunctionsview,assignee,0,0,0,0,51
+phpfunctionsview,component,1,0,0,0,51
+phpfunctionsview,hardware,0,0,0,0,51
+phpfunctionsview,os,0,0,0,0,51
+phpfunctionsview,priority,1,0,0,0,51
+phpfunctionsview,product,0,0,0,0,51
+phpfunctionsview,severity,4,0,0,0,51
+phpfunctionsview,status,0,0,0,0,51
+phpfunctionsview,version,0,0,0,0,51
+phpfunctionsview 요약,,6,0,0,0,459
+phpmanual,assignee,0,0,0,0,82
+phpmanual,component,2,0,0,0,82
+phpmanual,hardware,0,0,0,0,82
+phpmanual,os,2,0,0,0,82
+phpmanual,priority,4,0,0,0,82
+phpmanual,product,0,0,0,0,82
+phpmanual,severity,3,0,0,0,82
+phpmanual,status,0,0,0,0,82
+phpmanual,version,2,0,0,0,82
+phpmanual 요약,,13,0,0,0,738
+phpmodeling,assignee,0,0,0,0,123
+phpmodeling,component,2,0,0,0,123
+phpmodeling,hardware,0,0,0,0,123
+phpmodeling,os,0,0,0,0,123
+phpmodeling,priority,7,0,0,0,123
+phpmodeling,product,0,0,0,0,123
+phpmodeling,severity,1,0,0,0,123
+phpmodeling,status,0,0,0,0,123
+phpmodeling,version,2,0,0,0,123
+phpmodeling 요약,,12,0,0,0,1107
+phpsearch,assignee,0,0,0,0,110
+phpsearch,component,3,0,0,0,110
+phpsearch,hardware,0,0,0,0,110
+phpsearch,os,1,0,0,0,110
+phpsearch,priority,9,0,0,0,110
+phpsearch,product,0,0,0,0,110
+phpsearch,severity,2,0,0,0,110
+phpsearch,status,0,0,0,0,110
+phpsearch,version,1,0,0,0,110
+phpsearch 요약,,16,0,0,0,990
+picturecontrol,assignee,0,0,0,0,4
+picturecontrol,component,0,0,0,0,4
+picturecontrol,hardware,0,0,0,0,4
+picturecontrol,os,0,0,0,0,4
+picturecontrol,priority,0,0,0,0,4
+picturecontrol,product,0,0,0,0,4
+picturecontrol,severity,0,0,0,0,4
+picturecontrol,status,0,0,0,0,4
+picturecontrol,version,0,0,0,0,4
+picturecontrol 요약,,0,0,0,0,36
+pipelets,assignee,0,0,0,0,9
+pipelets,component,1,0,0,0,9
+pipelets,hardware,0,0,0,0,9
+pipelets,os,0,0,0,0,9
+pipelets,priority,0,0,0,0,9
+pipelets,product,0,0,0,0,9
+pipelets,severity,0,1,0,0,9
+pipelets,status,0,0,0,0,9
+pipelets,version,0,0,0,0,9
+pipelets 요약,,1,1,0,0,81
+platform,assignee,0,0,0,0,245
+platform,component,1,0,0,0,245
+platform,hardware,4,0,0,0,245
+platform,os,4,0,0,0,245
+platform,priority,0,0,0,0,245
+platform,product,0,0,0,0,245
+platform,severity,8,0,0,0,245
+platform,status,0,0,0,0,245
+platform,version,12,2,0,0,245
+platform 요약,,29,2,0,0,2205
+platforms,assignee,0,0,0,0,84
+platforms,component,2,0,0,0,84
+platforms,hardware,0,0,0,0,84
+platforms,os,1,0,0,0,84
+platforms,priority,5,0,0,0,84
+platforms,product,0,0,0,0,84
+platforms,severity,1,0,0,0,84
+platforms,status,0,0,0,0,84
+platforms,version,0,0,0,0,84
+platforms 요약,,9,0,0,0,756
+pldt,assignee,0,0,0,0,57
+pldt,component,0,0,0,0,57
+pldt,hardware,0,0,0,0,57
+pldt,os,0,0,0,0,57
+pldt,priority,3,0,0,0,57
+pldt,product,0,0,0,0,57
+pldt,severity,0,0,0,0,57
+pldt,status,0,0,0,0,57
+pldt,version,3,2,0,0,57
+pldt 요약,,6,2,0,0,513
+plexus,assignee,0,0,0,0,31
+plexus,component,6,0,0,0,31
+plexus,hardware,0,0,0,0,31
+plexus,os,0,0,0,0,31
+plexus,priority,1,0,0,0,31
+plexus,product,0,0,0,0,31
+plexus,severity,0,0,0,0,31
+plexus,status,0,0,0,0,31
+plexus,version,2,2,0,0,31
+plexus 요약,,9,2,0,0,279
+plugin,assignee,0,0,0,0,54
+plugin,component,0,0,0,0,54
+plugin,hardware,0,0,0,0,54
+plugin,os,0,0,0,0,54
+plugin,priority,1,0,0,0,54
+plugin,product,0,0,0,0,54
+plugin,severity,3,0,0,0,54
+plugin,status,0,0,0,0,54
+plugin,version,0,0,0,0,54
+plugin 요약,,4,0,0,0,486
+plugins,assignee,0,0,0,0,344
+plugins,component,25,1,0,0,344
+plugins,hardware,1,0,0,0,344
+plugins,os,22,1,0,0,344
+plugins,priority,4,0,0,0,344
+plugins,product,2,0,0,0,344
+plugins,severity,9,1,1,0,344
+plugins,status,0,0,0,0,344
+plugins,version,16,0,0,0,344
+plugins 요약,,79,3,1,0,3096
+pmc,assignee,0,0,0,0,45
+pmc,component,0,0,0,0,45
+pmc,hardware,3,0,0,0,45
+pmc,os,4,0,0,0,45
+pmc,priority,0,0,0,0,45
+pmc,product,0,0,0,0,45
+pmc,severity,3,0,0,0,45
+pmc,status,0,0,0,0,45
+pmc,version,3,0,0,0,45
+pmc 요약,,13,0,0,0,405
+poiextension,assignee,0,0,0,0,11
+poiextension,component,0,0,0,0,11
+poiextension,hardware,0,0,0,0,11
+poiextension,os,0,0,0,0,11
+poiextension,priority,0,0,0,0,11
+poiextension,product,0,0,0,0,11
+poiextension,severity,0,0,0,0,11
+poiextension,status,0,0,0,0,11
+poiextension,version,0,0,0,0,11
+poiextension 요약,,0,0,0,0,99
+preferencesmanagement,assignee,0,0,0,0,48
+preferencesmanagement,component,0,0,0,0,48
+preferencesmanagement,hardware,0,0,0,0,48
+preferencesmanagement,os,0,0,0,0,48
+preferencesmanagement,priority,0,0,0,0,48
+preferencesmanagement,product,0,0,0,0,48
+preferencesmanagement,severity,5,0,0,0,48
+preferencesmanagement,status,0,0,0,0,48
+preferencesmanagement,version,10,1,1,0,48
+preferencesmanagement 요약,,15,1,1,0,432
+presence,assignee,0,0,0,0,18
+presence,component,0,0,0,0,18
+presence,hardware,0,0,0,0,18
+presence,os,0,0,0,0,18
+presence,priority,0,0,0,0,18
+presence,product,0,0,0,0,18
+presence,severity,0,0,0,0,18
+presence,status,0,0,0,0,18
+presence,version,0,0,0,0,18
+presence 요약,,0,0,0,0,162
+privacy,assignee,0,0,0,0,79
+privacy,component,0,0,0,0,79
+privacy,hardware,0,0,0,0,79
+privacy,os,0,0,0,0,79
+privacy,priority,0,0,0,0,79
+privacy,product,0,0,0,0,79
+privacy,severity,0,0,0,0,79
+privacy,status,0,0,0,0,79
+privacy,version,16,0,0,0,79
+privacy 요약,,16,0,0,0,711
+problemsview,assignee,0,0,0,0,133
+problemsview,component,0,0,0,0,133
+problemsview,hardware,0,0,0,0,133
+problemsview,os,0,0,0,0,133
+problemsview,priority,5,0,0,0,133
+problemsview,product,0,0,0,0,133
+problemsview,severity,3,0,0,0,133
+problemsview,status,0,0,0,0,133
+problemsview,version,2,0,0,0,133
+problemsview 요약,,10,0,0,0,1197
+problemsview&amp;errormarkers,assignee,0,0,0,0,29
+problemsview&amp;errormarkers,component,3,0,0,0,29
+problemsview&amp;errormarkers,hardware,0,0,0,0,29
+problemsview&amp;errormarkers,os,1,0,0,0,29
+problemsview&amp;errormarkers,priority,0,0,0,0,29
+problemsview&amp;errormarkers,product,3,0,0,0,29
+problemsview&amp;errormarkers,severity,0,0,0,0,29
+problemsview&amp;errormarkers,status,0,0,0,0,29
+problemsview&amp;errormarkers,version,3,0,0,0,29
+problemsview&amp;errormarkers 요약,,10,0,0,0,261
+processing,assignee,0,0,0,0,47
+processing,component,0,0,0,0,47
+processing,hardware,1,0,0,0,47
+processing,os,1,0,0,0,47
+processing,priority,4,0,0,0,47
+processing,product,0,0,0,0,47
+processing,severity,4,0,0,0,47
+processing,status,0,0,0,0,47
+processing,version,1,0,0,0,47
+processing 요약,,11,0,0,0,423
+project,assignee,0,0,0,0,55
+project,component,3,0,0,0,55
+project,hardware,0,0,0,0,55
+project,os,0,0,0,0,55
+project,priority,0,0,0,0,55
+project,product,2,0,0,0,55
+project,severity,1,0,0,0,55
+project,status,0,0,0,0,55
+project,version,2,0,0,0,55
+project 요약,,8,0,0,0,495
+projectbuilder,assignee,0,0,0,0,75
+projectbuilder,component,9,0,0,0,75
+projectbuilder,hardware,4,1,0,0,75
+projectbuilder,os,6,0,0,0,75
+projectbuilder,priority,3,0,0,0,75
+projectbuilder,product,0,0,0,0,75
+projectbuilder,severity,2,0,0,0,75
+projectbuilder,status,0,0,0,0,75
+projectbuilder,version,3,0,0,0,75
+projectbuilder 요약,,27,1,0,0,675
+projectconfiguration,assignee,0,0,0,0,63
+projectconfiguration,component,0,0,0,0,63
+projectconfiguration,hardware,0,0,0,0,63
+projectconfiguration,os,0,0,0,0,63
+projectconfiguration,priority,0,0,0,0,63
+projectconfiguration,product,0,0,0,0,63
+projectconfiguration,severity,2,0,0,0,63
+projectconfiguration,status,0,0,0,0,63
+projectconfiguration,version,6,1,1,8,63
+projectconfiguration 요약,,8,1,1,8,567
+projectmanagement,assignee,0,0,0,0,20
+projectmanagement,component,0,0,0,0,20
+projectmanagement,hardware,0,0,0,0,20
+projectmanagement,os,0,0,0,0,20
+projectmanagement,priority,0,0,0,0,20
+projectmanagement,product,0,0,0,0,20
+projectmanagement,severity,0,0,0,0,20
+projectmanagement,status,0,0,0,0,20
+projectmanagement,version,0,0,0,0,20
+projectmanagement 요약,,0,0,0,0,180
+properties,assignee,0,0,0,0,121
+properties,component,0,0,0,0,121
+properties,hardware,4,0,0,0,121
+properties,os,5,0,0,0,121
+properties,priority,0,0,0,0,121
+properties,product,0,0,0,0,121
+properties,severity,9,0,0,0,121
+properties,status,0,0,0,0,121
+properties,version,2,0,0,0,121
+properties 요약,,20,0,0,0,1089
+pror,assignee,0,0,0,0,356
+pror,component,0,0,0,0,356
+pror,hardware,9,0,0,0,356
+pror,os,11,0,0,0,356
+pror,priority,55,10,0,0,356
+pror,product,0,0,0,0,356
+pror,severity,32,1,0,0,356
+pror,status,0,0,0,0,356
+pror,version,0,0,0,0,356
+pror 요약,,107,11,0,0,3204
+protocols,assignee,0,0,0,0,80
+protocols,component,2,0,0,0,80
+protocols,hardware,6,0,0,0,80
+protocols,os,6,0,0,0,80
+protocols,priority,1,0,0,0,80
+protocols,product,1,0,0,0,80
+protocols,severity,3,0,0,0,80
+protocols,status,0,0,0,0,80
+protocols,version,3,0,0,0,80
+protocols 요약,,22,0,0,0,720
+prototype,assignee,0,0,0,0,156
+prototype,component,1,0,0,0,156
+prototype,hardware,2,0,0,0,156
+prototype,os,2,0,0,0,156
+prototype,priority,6,1,0,0,156
+prototype,product,1,0,0,0,156
+prototype,severity,2,1,0,0,156
+prototype,status,0,0,0,0,156
+prototype,version,3,0,0,0,156
+prototype 요약,,17,2,0,0,1404
+providers,assignee,0,0,0,0,628
+providers,component,12,0,0,0,628
+providers,hardware,15,0,0,0,628
+providers,os,15,0,0,0,628
+providers,priority,1,0,0,0,628
+providers,product,2,0,0,0,628
+providers,severity,27,4,0,0,628
+providers,status,0,0,0,0,628
+providers,version,38,0,0,0,628
+providers 요약,,110,4,0,0,5652
+proxy,assignee,0,0,0,0,25
+proxy,component,0,0,0,0,25
+proxy,hardware,1,0,0,0,25
+proxy,os,1,0,0,0,25
+proxy,priority,0,0,0,0,25
+proxy,product,0,0,0,0,25
+proxy,severity,1,0,0,0,25
+proxy,status,0,0,0,0,25
+proxy,version,0,0,0,0,25
+proxy 요약,,3,0,0,0,225
+pshelf,assignee,0,0,0,0,12
+pshelf,component,0,0,0,0,12
+pshelf,hardware,0,0,0,0,12
+pshelf,os,2,0,0,0,12
+pshelf,priority,0,0,0,0,12
+pshelf,product,0,0,0,0,12
+pshelf,severity,0,0,0,0,12
+pshelf,status,0,0,0,0,12
+pshelf,version,0,0,0,0,12
+pshelf 요약,,2,0,0,0,108
+pulsar,assignee,0,0,0,0,11
+pulsar,component,0,0,0,0,11
+pulsar,hardware,1,0,0,0,11
+pulsar,os,1,0,0,0,11
+pulsar,priority,0,0,0,0,11
+pulsar,product,0,0,0,0,11
+pulsar,severity,0,0,0,0,11
+pulsar,status,0,0,0,0,11
+pulsar,version,1,0,0,0,11
+pulsar 요약,,3,0,0,0,99
+python,assignee,0,0,0,0,32
+python,component,0,0,0,0,32
+python,hardware,0,0,0,0,32
+python,os,0,0,0,0,32
+python,priority,0,0,0,0,32
+python,product,0,0,0,0,32
+python,severity,2,0,0,0,32
+python,status,0,0,0,0,32
+python,version,12,0,0,0,32
+python 요약,,14,0,0,0,288
+qa,assignee,0,0,0,0,4
+qa,component,0,0,0,0,4
+qa,hardware,0,0,0,0,4
+qa,os,0,0,0,0,4
+qa,priority,0,0,0,0,4
+qa,product,0,0,0,0,4
+qa,severity,0,0,0,0,4
+qa,status,0,0,0,0,4
+qa,version,0,0,0,0,4
+qa 요약,,0,0,0,0,36
+qt,assignee,0,0,0,0,12
+qt,component,0,0,0,0,12
+qt,hardware,1,0,0,0,12
+qt,os,1,0,0,0,12
+qt,priority,0,0,0,0,12
+qt,product,0,0,0,0,12
+qt,severity,0,0,0,0,12
+qt,status,0,0,0,0,12
+qt,version,0,0,0,0,12
+qt 요약,,2,0,0,0,108
+query,assignee,0,0,0,0,1026
+query,component,18,0,0,0,1026
+query,hardware,2,0,0,0,1026
+query,os,4,0,0,0,1026
+query,priority,12,0,0,0,1026
+query,product,15,0,0,0,1026
+query,severity,22,2,0,0,1026
+query,status,0,0,0,0,1026
+query,version,77,33,12,5,1026
+query 요약,,150,35,12,5,9234
+query2,assignee,0,0,0,0,88
+query2,component,0,0,0,0,88
+query2,hardware,0,0,0,0,88
+query2,os,0,0,0,0,88
+query2,priority,0,0,0,0,88
+query2,product,0,0,0,0,88
+query2,severity,3,0,0,0,88
+query2,status,0,0,0,0,88
+query2,version,0,0,0,0,88
+query2 요약,,3,0,0,0,792
+querylanguage,assignee,0,0,0,0,209
+querylanguage,component,0,0,0,0,209
+querylanguage,hardware,0,0,0,0,209
+querylanguage,os,0,0,0,0,209
+querylanguage,priority,0,0,0,0,209
+querylanguage,product,0,0,0,0,209
+querylanguage,severity,2,0,0,0,209
+querylanguage,status,0,0,0,0,209
+querylanguage,version,3,0,0,0,209
+querylanguage 요약,,5,0,0,0,1881
+radiogroup,assignee,0,0,0,0,12
+radiogroup,component,0,0,0,0,12
+radiogroup,hardware,0,0,0,0,12
+radiogroup,os,0,0,0,0,12
+radiogroup,priority,0,0,0,0,12
+radiogroup,product,0,0,0,0,12
+radiogroup,severity,0,0,0,0,12
+radiogroup,status,0,0,0,0,12
+radiogroup,version,0,0,0,0,12
+radiogroup 요약,,0,0,0,0,108
+rc,assignee,0,0,0,0,1533
+rc,component,5,0,0,0,1533
+rc,hardware,18,0,0,0,1533
+rc,os,54,0,0,0,1533
+rc,priority,134,7,0,0,1533
+rc,product,0,0,0,0,1533
+rc,severity,87,5,0,0,1533
+rc,status,0,0,0,0,1533
+rc,version,3,0,0,0,1533
+rc 요약,,301,12,0,0,13797
+rc&amp;webdemonstrator,assignee,0,0,0,0,2
+rc&amp;webdemonstrator,component,0,0,0,0,2
+rc&amp;webdemonstrator,hardware,0,0,0,0,2
+rc&amp;webdemonstrator,os,0,0,0,0,2
+rc&amp;webdemonstrator,priority,0,0,0,0,2
+rc&amp;webdemonstrator,product,0,0,0,0,2
+rc&amp;webdemonstrator,severity,0,0,0,0,2
+rc&amp;webdemonstrator,status,0,0,0,0,2
+rc&amp;webdemonstrator,version,0,0,0,0,2
+rc&amp;webdemonstrator 요약,,0,0,0,0,18
+rcp,assignee,0,0,0,0,113
+rcp,component,2,2,0,0,113
+rcp,hardware,3,0,0,0,113
+rcp,os,3,0,0,0,113
+rcp,priority,1,0,0,0,113
+rcp,product,3,0,0,0,113
+rcp,severity,7,0,0,0,113
+rcp,status,0,0,0,0,113
+rcp,version,3,0,0,0,113
+rcp 요약,,22,2,0,0,1017
+rdbms,assignee,0,0,0,0,2
+rdbms,component,0,0,0,0,2
+rdbms,hardware,0,0,0,0,2
+rdbms,os,0,0,0,0,2
+rdbms,priority,1,0,0,0,2
+rdbms,product,0,0,0,0,2
+rdbms,severity,0,0,0,0,2
+rdbms,status,0,0,0,0,2
+rdbms,version,1,0,0,0,2
+rdbms 요약,,2,0,0,0,18
+rdt,assignee,0,0,0,0,773
+rdt,component,13,0,0,0,773
+rdt,hardware,2,0,0,0,773
+rdt,os,5,0,0,0,773
+rdt,priority,30,1,0,0,773
+rdt,product,0,0,0,0,773
+rdt,severity,12,1,0,0,773
+rdt,status,0,0,0,0,773
+rdt,version,59,6,0,0,773
+rdt 요약,,121,8,0,0,6957
+recorder/generator,assignee,0,0,0,0,51
+recorder/generator,component,2,0,0,0,51
+recorder/generator,hardware,8,0,0,0,51
+recorder/generator,os,8,0,0,0,51
+recorder/generator,priority,0,0,0,0,51
+recorder/generator,product,0,0,0,0,51
+recorder/generator,severity,3,0,0,0,51
+recorder/generator,status,0,0,0,0,51
+recorder/generator,version,6,0,0,0,51
+recorder/generator 요약,,27,0,0,0,459
+refactoring,assignee,0,0,0,0,168
+refactoring,component,10,4,0,0,168
+refactoring,hardware,6,0,0,0,168
+refactoring,os,6,1,0,0,168
+refactoring,priority,2,0,0,0,168
+refactoring,product,2,0,0,0,168
+refactoring,severity,8,1,0,0,168
+refactoring,status,0,0,0,0,168
+refactoring,version,15,0,0,0,168
+refactoring 요약,,49,6,0,0,1512
+refactoringengine,assignee,0,0,0,0,99
+refactoringengine,component,4,0,0,0,99
+refactoringengine,hardware,0,0,0,0,99
+refactoringengine,os,1,0,0,0,99
+refactoringengine,priority,21,4,0,0,99
+refactoringengine,product,2,0,0,0,99
+refactoringengine,severity,12,0,0,0,99
+refactoringengine,status,0,0,0,0,99
+refactoringengine,version,5,0,0,0,99
+refactoringengine 요약,,45,4,0,0,891
+relational,assignee,0,0,0,0,3
+relational,component,0,0,0,0,3
+relational,hardware,0,0,0,0,3
+relational,os,0,0,0,0,3
+relational,priority,0,0,0,0,3
+relational,product,0,0,0,0,3
+relational,severity,1,0,0,0,3
+relational,status,0,0,0,0,3
+relational,version,0,0,0,0,3
+relational 요약,,1,0,0,0,27
+releaseengineer,assignee,0,0,0,0,153
+releaseengineer,component,2,0,0,0,153
+releaseengineer,hardware,0,0,0,0,153
+releaseengineer,os,0,0,0,0,153
+releaseengineer,priority,2,0,0,0,153
+releaseengineer,product,0,0,0,0,153
+releaseengineer,severity,0,1,0,0,153
+releaseengineer,status,0,0,0,0,153
+releaseengineer,version,2,0,0,0,153
+releaseengineer 요약,,6,1,0,0,1377
+releaseengineering,assignee,0,0,0,0,70
+releaseengineering,component,2,2,0,0,70
+releaseengineering,hardware,2,0,0,0,70
+releaseengineering,os,2,0,0,0,70
+releaseengineering,priority,1,0,0,0,70
+releaseengineering,product,2,0,0,0,70
+releaseengineering,severity,5,0,0,0,70
+releaseengineering,status,0,0,0,0,70
+releaseengineering,version,5,3,1,0,70
+releaseengineering 요약,,19,5,1,0,630
+releng,assignee,0,0,0,0,7274
+releng,component,206,10,0,0,7274
+releng,hardware,106,0,0,0,7274
+releng,os,133,0,0,0,7274
+releng,priority,498,21,0,0,7274
+releng,product,59,1,0,0,7274
+releng,severity,294,21,5,0,7274
+releng,status,0,0,0,0,7274
+releng,version,170,9,5,3,7274
+releng 요약,,1466,62,10,3,65466
+releng/management,assignee,0,0,0,0,15
+releng/management,component,2,0,0,0,15
+releng/management,hardware,0,0,0,0,15
+releng/management,os,0,0,0,0,15
+releng/management,priority,4,0,0,0,15
+releng/management,product,0,0,0,0,15
+releng/management,severity,1,0,0,0,15
+releng/management,status,0,0,0,0,15
+releng/management,version,0,0,0,0,15
+releng/management 요약,,7,0,0,0,135
+remote,assignee,0,0,0,0,58
+remote,component,8,1,0,0,58
+remote,hardware,2,0,0,0,58
+remote,os,2,0,0,0,58
+remote,priority,0,0,0,0,58
+remote,product,0,0,0,0,58
+remote,severity,0,0,0,0,58
+remote,status,0,0,0,0,58
+remote,version,2,0,0,0,58
+remote 요약,,14,1,0,0,522
+remoterepositories,assignee,0,0,0,0,11
+remoterepositories,component,0,0,0,0,11
+remoterepositories,hardware,0,0,0,0,11
+remoterepositories,os,0,0,0,0,11
+remoterepositories,priority,0,0,0,0,11
+remoterepositories,product,0,0,0,0,11
+remoterepositories,severity,0,0,0,0,11
+remoterepositories,status,0,0,0,0,11
+remoterepositories,version,0,0,0,0,11
+remoterepositories 요약,,0,0,0,0,99
+remoteserviceadmin,assignee,0,0,0,0,105
+remoteserviceadmin,component,1,0,0,0,105
+remoteserviceadmin,hardware,0,0,0,0,105
+remoteserviceadmin,os,0,0,0,0,105
+remoteserviceadmin,priority,0,0,0,0,105
+remoteserviceadmin,product,0,0,0,0,105
+remoteserviceadmin,severity,4,0,0,0,105
+remoteserviceadmin,status,0,0,0,0,105
+remoteserviceadmin,version,2,0,0,0,105
+remoteserviceadmin 요약,,7,0,0,0,945
+remoteservices,assignee,0,0,0,0,253
+remoteservices,component,0,0,0,0,253
+remoteservices,hardware,1,0,0,0,253
+remoteservices,os,1,0,0,0,253
+remoteservices,priority,0,0,0,0,253
+remoteservices,product,0,0,0,0,253
+remoteservices,severity,14,1,0,0,253
+remoteservices,status,0,0,0,0,253
+remoteservices,version,2,0,0,0,253
+remoteservices 요약,,18,1,0,0,2277
+remotetools,assignee,0,0,0,0,199
+remotetools,component,5,0,0,0,199
+remotetools,hardware,1,0,0,0,199
+remotetools,os,2,0,0,0,199
+remotetools,priority,0,0,0,0,199
+remotetools,product,0,0,0,0,199
+remotetools,severity,6,1,0,0,199
+remotetools,status,0,0,0,0,199
+remotetools,version,22,3,0,0,199
+remotetools 요약,,36,4,0,0,1791
+report,assignee,0,0,0,0,996
+report,component,47,4,0,0,996
+report,hardware,1,0,0,0,996
+report,os,5,0,0,0,996
+report,priority,43,2,0,0,996
+report,product,2,0,0,0,996
+report,severity,57,2,0,0,996
+report,status,0,0,0,0,996
+report,version,20,1,0,0,996
+report 요약,,175,9,0,0,8964
+reportdesigner,assignee,0,0,0,0,3888
+reportdesigner,component,66,2,0,0,3888
+reportdesigner,hardware,3,0,0,0,3888
+reportdesigner,os,7,1,0,0,3888
+reportdesigner,priority,87,11,3,1,3888
+reportdesigner,product,7,0,0,0,3888
+reportdesigner,severity,133,8,0,0,3888
+reportdesigner,status,0,0,0,0,3888
+reportdesigner,version,58,2,0,0,3888
+reportdesigner 요약,,361,24,3,1,34992
+reportengine,assignee,0,0,0,0,3001
+reportengine,component,95,2,1,1,3001
+reportengine,hardware,5,0,0,0,3001
+reportengine,os,17,1,0,0,3001
+reportengine,priority,60,11,1,3,3001
+reportengine,product,1,0,0,0,3001
+reportengine,severity,164,5,1,0,3001
+reportengine,status,0,0,0,0,3001
+reportengine,version,114,3,1,0,3001
+reportengine 요약,,456,22,4,4,27009
+reporting,assignee,0,0,0,0,25
+reporting,component,0,0,0,0,25
+reporting,hardware,0,0,0,0,25
+reporting,os,0,0,0,0,25
+reporting,priority,0,0,0,0,25
+reporting,product,0,0,0,0,25
+reporting,severity,0,0,0,0,25
+reporting,status,0,0,0,0,25
+reporting,version,0,0,0,0,25
+reporting 요약,,0,0,0,0,225
+reportviewer,assignee,0,0,0,0,1310
+reportviewer,component,41,2,1,0,1310
+reportviewer,hardware,2,0,0,0,1310
+reportviewer,os,18,0,0,0,1310
+reportviewer,priority,16,0,0,0,1310
+reportviewer,product,3,0,0,0,1310
+reportviewer,severity,65,4,0,0,1310
+reportviewer,status,0,0,0,0,1310
+reportviewer,version,44,2,0,0,1310
+reportviewer 요약,,189,8,1,0,11790
+repository,assignee,0,0,0,0,14
+repository,component,0,0,0,0,14
+repository,hardware,0,0,0,0,14
+repository,os,0,0,0,0,14
+repository,priority,1,0,0,0,14
+repository,product,0,0,0,0,14
+repository,severity,0,0,0,0,14
+repository,status,0,0,0,0,14
+repository,version,1,1,0,0,14
+repository 요약,,2,1,0,0,126
+resources,assignee,0,0,0,0,6097
+resources,component,100,4,0,0,6097
+resources,hardware,39,1,0,0,6097
+resources,os,55,1,0,0,6097
+resources,priority,149,6,0,0,6097
+resources,product,75,1,0,0,6097
+resources,severity,233,7,0,0,6097
+resources,status,0,0,0,0,6097
+resources,version,110,4,0,0,6097
+resources 요약,,761,24,0,0,54873
+revisiongraph,assignee,0,0,0,0,65
+revisiongraph,component,0,0,0,0,65
+revisiongraph,hardware,0,0,0,0,65
+revisiongraph,os,0,0,0,0,65
+revisiongraph,priority,0,0,0,0,65
+revisiongraph,product,0,0,0,0,65
+revisiongraph,severity,0,0,0,0,65
+revisiongraph,status,0,0,0,0,65
+revisiongraph,version,1,0,0,0,65
+revisiongraph 요약,,1,0,0,0,585
+rhino,assignee,0,0,0,0,4
+rhino,component,0,0,0,0,4
+rhino,hardware,0,0,0,0,4
+rhino,os,0,0,0,0,4
+rhino,priority,0,0,0,0,4
+rhino,product,0,0,0,0,4
+rhino,severity,0,0,0,0,4
+rhino,status,0,0,0,0,4
+rhino,version,2,0,0,0,4
+rhino 요약,,2,0,0,0,36
+richtext,assignee,0,0,0,0,31
+richtext,component,1,0,0,0,31
+richtext,hardware,0,0,0,0,31
+richtext,os,1,0,0,0,31
+richtext,priority,0,0,0,0,31
+richtext,product,1,0,0,0,31
+richtext,severity,0,0,0,0,31
+richtext,status,0,0,0,0,31
+richtext,version,0,1,0,0,31
+richtext 요약,,3,1,0,0,279
+ridget,assignee,0,0,0,0,169
+ridget,component,7,0,0,0,169
+ridget,hardware,5,0,0,0,169
+ridget,os,4,0,0,0,169
+ridget,priority,11,0,0,0,169
+ridget,product,0,0,0,0,169
+ridget,severity,9,0,0,0,169
+ridget,status,0,0,0,0,169
+ridget,version,3,0,0,0,169
+ridget 요약,,39,0,0,0,1521
+rio,assignee,0,0,0,0,97
+rio,component,0,0,0,0,97
+rio,hardware,2,0,0,0,97
+rio,os,2,0,0,0,97
+rio,priority,0,0,0,0,97
+rio,product,0,0,0,0,97
+rio,severity,3,0,0,0,97
+rio,status,0,0,0,0,97
+rio,version,3,0,0,0,97
+rio 요약,,10,0,0,0,873
+rm,assignee,0,0,0,0,345
+rm,component,10,0,0,0,345
+rm,hardware,1,0,0,0,345
+rm,os,9,0,0,0,345
+rm,priority,5,1,0,0,345
+rm,product,0,0,0,0,345
+rm,severity,15,2,0,0,345
+rm,status,0,0,0,0,345
+rm,version,13,1,0,0,345
+rm 요약,,53,4,0,0,3105
+robotml,assignee,0,0,0,0,31
+robotml,component,1,0,0,0,31
+robotml,hardware,1,0,0,0,31
+robotml,os,1,0,0,0,31
+robotml,priority,0,0,0,0,31
+robotml,product,0,0,0,0,31
+robotml,severity,0,0,0,0,31
+robotml,status,0,0,0,0,31
+robotml,version,0,0,0,0,31
+robotml 요약,,3,0,0,0,279
+rse,assignee,0,0,0,0,4
+rse,component,0,0,0,0,4
+rse,hardware,0,0,0,0,4
+rse,os,0,0,0,0,4
+rse,priority,0,0,0,0,4
+rse,product,0,0,0,0,4
+rse,severity,0,0,0,0,4
+rse,status,0,0,0,0,4
+rse,version,0,0,0,0,4
+rse 요약,,0,0,0,0,36
+rta,assignee,0,0,0,0,8
+rta,component,0,0,0,0,8
+rta,hardware,0,0,0,0,8
+rta,os,0,0,0,0,8
+rta,priority,2,0,0,0,8
+rta,product,0,0,0,0,8
+rta,severity,1,0,0,0,8
+rta,status,0,0,0,0,8
+rta,version,0,0,0,0,8
+rta 요약,,3,0,0,0,72
+ruby,assignee,0,0,0,0,339
+ruby,component,1,0,0,0,339
+ruby,hardware,0,0,0,0,339
+ruby,os,5,0,0,0,339
+ruby,priority,2,0,0,0,339
+ruby,product,0,0,0,0,339
+ruby,severity,7,0,0,0,339
+ruby,status,0,0,0,0,339
+ruby,version,78,1,1,0,339
+ruby 요약,,93,1,1,0,3051
+runtime,assignee,0,0,0,0,5698
+runtime,component,73,3,1,0,5698
+runtime,hardware,37,0,1,0,5698
+runtime,os,68,2,0,0,5698
+runtime,priority,54,2,0,0,5698
+runtime,product,37,2,0,0,5698
+runtime,severity,175,16,0,0,5698
+runtime,status,0,0,0,0,5698
+runtime,version,147,8,1,0,5698
+runtime 요약,,591,33,3,0,51282
+rwt,assignee,0,0,0,0,5164
+rwt,component,113,0,0,0,5164
+rwt,hardware,241,2,1,0,5164
+rwt,os,311,2,1,0,5164
+rwt,priority,230,5,0,0,5164
+rwt,product,2,0,0,0,5164
+rwt,severity,291,9,0,0,5164
+rwt,status,0,0,0,0,5164
+rwt,version,294,0,1,0,5164
+rwt 요약,,1482,18,3,0,46476
+samples,assignee,0,0,0,0,43
+samples,component,2,0,0,0,43
+samples,hardware,0,0,0,0,43
+samples,os,0,0,0,0,43
+samples,priority,0,0,0,0,43
+samples,product,0,0,0,0,43
+samples,severity,2,1,0,0,43
+samples,status,0,0,0,0,43
+samples,version,6,1,0,0,43
+samples 요약,,10,2,0,0,387
+sandbox,assignee,0,0,0,0,7
+sandbox,component,0,0,0,0,7
+sandbox,hardware,1,0,0,0,7
+sandbox,os,1,0,0,0,7
+sandbox,priority,0,0,0,0,7
+sandbox,product,0,0,0,0,7
+sandbox,severity,1,0,0,0,7
+sandbox,status,0,0,0,0,7
+sandbox,version,0,0,0,0,7
+sandbox 요약,,3,0,0,0,63
+sbvr,assignee,0,0,0,0,4
+sbvr,component,0,0,0,0,4
+sbvr,hardware,0,0,0,0,4
+sbvr,os,0,0,0,0,4
+sbvr,priority,0,0,0,0,4
+sbvr,product,0,0,0,0,4
+sbvr,severity,1,0,0,0,4
+sbvr,status,0,0,0,0,4
+sbvr,version,0,0,0,0,4
+sbvr 요약,,1,0,0,0,36
+scandium,assignee,0,0,0,0,15
+scandium,component,0,0,0,0,15
+scandium,hardware,0,0,0,0,15
+scandium,os,0,0,0,0,15
+scandium,priority,0,0,0,0,15
+scandium,product,0,0,0,0,15
+scandium,severity,0,0,0,0,15
+scandium,status,0,0,0,0,15
+scandium,version,0,0,0,0,15
+scandium 요약,,0,0,0,0,135
+sci,assignee,0,0,0,0,10
+sci,component,0,0,0,0,10
+sci,hardware,0,0,0,0,10
+sci,os,0,0,0,0,10
+sci,priority,0,0,0,0,10
+sci,product,0,0,0,0,10
+sci,severity,0,0,0,0,10
+sci,status,0,0,0,0,10
+sci,version,0,0,0,0,10
+sci 요약,,0,0,0,0,90
+scout,assignee,0,0,0,0,1667
+scout,component,0,0,0,0,1667
+scout,hardware,11,0,0,0,1667
+scout,os,16,0,0,0,1667
+scout,priority,9,0,0,0,1667
+scout,product,0,0,0,0,1667
+scout,severity,74,3,0,0,1667
+scout,status,0,0,0,0,1667
+scout,version,48,1,0,0,1667
+scout 요약,,158,4,0,0,15003
+scoutdocs,assignee,0,0,0,0,28
+scoutdocs,component,0,0,0,0,28
+scoutdocs,hardware,1,0,0,0,28
+scoutdocs,os,1,0,0,0,28
+scoutdocs,priority,0,0,0,0,28
+scoutdocs,product,0,0,0,0,28
+scoutdocs,severity,0,0,0,0,28
+scoutdocs,status,0,0,0,0,28
+scoutdocs,version,1,0,0,0,28
+scoutdocs 요약,,3,0,0,0,252
+scoutsdk,assignee,0,0,0,0,405
+scoutsdk,component,4,0,0,0,405
+scoutsdk,hardware,14,0,0,0,405
+scoutsdk,os,15,0,0,0,405
+scoutsdk,priority,2,0,0,0,405
+scoutsdk,product,0,0,0,0,405
+scoutsdk,severity,19,0,0,0,405
+scoutsdk,status,0,0,0,0,405
+scoutsdk,version,16,0,0,0,405
+scoutsdk 요약,,70,0,0,0,3645
+scripting,assignee,0,0,0,0,146
+scripting,component,0,0,0,0,146
+scripting,hardware,0,0,0,0,146
+scripting,os,0,0,0,0,146
+scripting,priority,0,0,0,0,146
+scripting,product,0,0,0,0,146
+scripting,severity,3,0,0,0,146
+scripting,status,0,0,0,0,146
+scripting,version,3,0,0,0,146
+scripting 요약,,6,0,0,0,1314
+scriptingsupport,assignee,0,0,0,0,2
+scriptingsupport,component,0,0,0,0,2
+scriptingsupport,hardware,0,0,0,0,2
+scriptingsupport,os,0,0,0,0,2
+scriptingsupport,priority,0,0,0,0,2
+scriptingsupport,product,0,0,0,0,2
+scriptingsupport,severity,0,0,0,0,2
+scriptingsupport,status,0,0,0,0,2
+scriptingsupport,version,0,0,0,0,2
+scriptingsupport 요약,,0,0,0,0,18
+scripts,assignee,0,0,0,0,44
+scripts,component,0,3,0,0,44
+scripts,hardware,0,0,0,0,44
+scripts,os,1,0,0,0,44
+scripts,priority,0,0,0,0,44
+scripts,product,3,0,0,0,44
+scripts,severity,1,0,0,0,44
+scripts,status,0,0,0,0,44
+scripts,version,1,0,0,0,44
+scripts 요약,,6,3,0,0,396
+sdk,assignee,0,0,0,0,40
+sdk,component,7,0,0,0,40
+sdk,hardware,1,0,0,0,40
+sdk,os,1,0,0,0,40
+sdk,priority,0,0,0,0,40
+sdk,product,0,0,0,0,40
+sdk,severity,1,0,0,0,40
+sdk,status,0,0,0,0,40
+sdk,version,0,1,0,0,40
+sdk 요약,,10,1,0,0,360
+sdkmanagement,assignee,0,0,0,0,65
+sdkmanagement,component,13,0,0,0,65
+sdkmanagement,hardware,3,0,0,0,65
+sdkmanagement,os,3,0,0,0,65
+sdkmanagement,priority,4,1,0,0,65
+sdkmanagement,product,0,0,0,0,65
+sdkmanagement,severity,8,0,0,0,65
+sdkmanagement,status,0,0,0,0,65
+sdkmanagement,version,1,0,0,0,65
+sdkmanagement 요약,,32,1,0,0,585
+sdo,assignee,0,0,0,0,314
+sdo,component,2,0,0,0,314
+sdo,hardware,0,0,0,0,314
+sdo,os,0,0,0,0,314
+sdo,priority,9,1,0,0,314
+sdo,product,0,0,0,0,314
+sdo,severity,7,0,0,0,314
+sdo,status,0,0,0,0,314
+sdo,version,8,0,0,0,314
+sdo 요약,,26,1,0,0,2826
+search,assignee,0,0,0,0,1866
+search,component,27,2,0,0,1866
+search,hardware,54,0,0,0,1866
+search,os,58,0,0,0,1866
+search,priority,73,4,1,0,1866
+search,product,29,0,0,0,1866
+search,severity,57,1,0,0,1866
+search,status,0,0,0,0,1866
+search,version,46,1,0,0,1866
+search 요약,,344,8,1,0,16794
+searchframework,assignee,0,0,0,0,33
+searchframework,component,0,0,0,0,33
+searchframework,hardware,2,0,0,0,33
+searchframework,os,1,0,0,0,33
+searchframework,priority,2,0,0,0,33
+searchframework,product,0,0,0,0,33
+searchframework,severity,3,0,0,0,33
+searchframework,status,0,0,0,0,33
+searchframework,version,0,0,0,0,33
+searchframework 요약,,8,0,0,0,297
+security,assignee,0,0,0,0,279
+security,component,10,0,0,0,279
+security,hardware,3,0,0,0,279
+security,os,3,0,0,0,279
+security,priority,3,0,0,0,279
+security,product,3,0,0,0,279
+security,severity,14,0,0,0,279
+security,status,0,0,0,0,279
+security,version,6,2,0,0,279
+security 요약,,42,2,0,0,2511
+securitymanagement,assignee,0,0,0,0,3
+securitymanagement,component,0,0,0,0,3
+securitymanagement,hardware,0,0,0,0,3
+securitymanagement,os,0,0,0,0,3
+securitymanagement,priority,0,0,0,0,3
+securitymanagement,product,0,0,0,0,3
+securitymanagement,severity,0,0,0,0,3
+securitymanagement,status,0,0,0,0,3
+securitymanagement,version,0,0,0,0,3
+securitymanagement 요약,,0,0,0,0,27
+server,assignee,0,0,0,0,2535
+server,component,36,0,0,0,2535
+server,hardware,23,0,0,0,2535
+server,os,27,0,0,0,2535
+server,priority,22,1,0,0,2535
+server,product,15,0,0,0,2535
+server,severity,79,4,0,0,2535
+server,status,0,0,0,0,2535
+server,version,106,1,0,1,2535
+server 요약,,308,6,0,1,22815
+servercore,assignee,0,0,0,0,121
+servercore,component,1,0,0,0,121
+servercore,hardware,1,0,0,0,121
+servercore,os,6,0,0,0,121
+servercore,priority,10,1,0,0,121
+servercore,product,0,0,0,0,121
+servercore,severity,1,0,0,0,121
+servercore,status,0,0,0,0,121
+servercore,version,1,0,0,0,121
+servercore 요약,,20,1,0,0,1089
+service,assignee,0,0,0,0,21
+service,component,1,0,0,0,21
+service,hardware,0,0,0,0,21
+service,os,0,0,0,0,21
+service,priority,0,0,0,0,21
+service,product,0,0,0,0,21
+service,severity,3,0,0,0,21
+service,status,0,0,0,0,21
+service,version,0,0,0,0,21
+service 요약,,4,0,0,0,189
+servicemodel,assignee,0,0,0,0,14
+servicemodel,component,1,0,0,0,14
+servicemodel,hardware,0,0,0,0,14
+servicemodel,os,0,0,0,0,14
+servicemodel,priority,0,0,0,0,14
+servicemodel,product,0,0,0,0,14
+servicemodel,severity,0,0,0,0,14
+servicemodel,status,0,0,0,0,14
+servicemodel,version,0,0,0,0,14
+servicemodel 요약,,1,0,0,0,126
+services,assignee,0,0,0,0,7
+services,component,0,0,0,0,7
+services,hardware,0,0,0,0,7
+services,os,0,0,0,0,7
+services,priority,0,0,0,0,7
+services,product,0,0,0,0,7
+services,severity,1,0,0,0,7
+services,status,0,0,0,0,7
+services,version,0,0,0,0,7
+services 요약,,1,0,0,0,63
+setup,assignee,0,0,0,0,1336
+setup,component,74,2,0,0,1336
+setup,hardware,9,0,0,0,1336
+setup,os,6,0,0,0,1336
+setup,priority,5,1,0,0,1336
+setup,product,48,0,0,0,1336
+setup,severity,90,4,0,0,1336
+setup,status,0,0,0,0,1336
+setup,version,187,43,7,57,1336
+setup 요약,,419,50,7,57,12024
+shelled,assignee,0,0,0,0,4
+shelled,component,0,0,0,0,4
+shelled,hardware,0,0,0,0,4
+shelled,os,0,0,0,0,4
+shelled,priority,0,0,0,0,4
+shelled,product,0,0,0,0,4
+shelled,severity,0,0,0,0,4
+shelled,status,0,0,0,0,4
+shelled,version,0,0,0,0,4
+shelled 요약,,0,0,0,0,36
+side,assignee,0,0,0,0,113
+side,component,13,0,0,0,113
+side,hardware,3,0,0,0,113
+side,os,3,0,0,0,113
+side,priority,2,0,0,0,113
+side,product,1,0,0,0,113
+side,severity,5,0,0,0,113
+side,status,0,0,0,0,113
+side,version,7,1,0,0,113
+side 요약,,34,1,0,0,1017
+signing,assignee,0,0,0,0,136
+signing,component,1,1,0,0,136
+signing,hardware,1,0,0,0,136
+signing,os,1,0,0,0,136
+signing,priority,1,0,0,0,136
+signing,product,0,1,0,0,136
+signing,severity,5,0,0,0,136
+signing,status,0,0,0,0,136
+signing,version,9,0,0,0,136
+signing 요약,,18,2,0,0,1224
+simdebug,assignee,0,0,0,0,35
+simdebug,component,0,0,0,0,35
+simdebug,hardware,0,0,0,0,35
+simdebug,os,0,0,0,0,35
+simdebug,priority,0,0,0,0,35
+simdebug,product,0,0,0,0,35
+simdebug,severity,2,0,0,0,35
+simdebug,status,0,0,0,0,35
+simdebug,version,0,0,0,0,35
+simdebug 요약,,2,0,0,0,315
+simulation,assignee,0,0,0,0,20
+simulation,component,0,0,0,0,20
+simulation,hardware,0,0,0,0,20
+simulation,os,0,0,0,0,20
+simulation,priority,0,0,0,0,20
+simulation,product,0,0,0,0,20
+simulation,severity,0,0,0,0,20
+simulation,status,0,0,0,0,20
+simulation,version,0,0,0,0,20
+simulation 요약,,0,0,0,0,180
+site,assignee,0,0,0,0,20
+site,component,0,0,0,0,20
+site,hardware,1,0,0,0,20
+site,os,1,0,0,0,20
+site,priority,1,0,0,0,20
+site,product,0,0,0,0,20
+site,severity,3,0,0,0,20
+site,status,0,0,0,0,20
+site,version,3,0,0,0,20
+site 요약,,9,0,0,0,180
+smells,assignee,0,0,0,0,1
+smells,component,1,0,0,0,1
+smells,hardware,0,0,0,0,1
+smells,os,0,0,0,0,1
+smells,priority,0,0,0,0,1
+smells,product,0,0,0,0,1
+smells,severity,0,0,0,0,1
+smells,status,0,0,0,0,1
+smells,version,0,0,0,0,1
+smells 요약,,1,0,0,0,9
+snaps,assignee,0,0,0,0,21
+snaps,component,1,0,0,0,21
+snaps,hardware,0,0,0,0,21
+snaps,os,0,0,0,0,21
+snaps,priority,0,0,0,0,21
+snaps,product,0,0,0,0,21
+snaps,severity,2,0,0,0,21
+snaps,status,0,0,0,0,21
+snaps,version,2,0,0,0,21
+snaps 요약,,5,0,0,0,189
+snipmatch,assignee,0,0,0,0,273
+snipmatch,component,4,0,0,0,273
+snipmatch,hardware,1,0,0,0,273
+snipmatch,os,2,1,0,0,273
+snipmatch,priority,4,0,0,0,273
+snipmatch,product,0,0,0,0,273
+snipmatch,severity,14,2,0,0,273
+snipmatch,status,0,0,0,0,273
+snipmatch,version,13,1,0,0,273
+snipmatch 요약,,38,4,0,0,2457
+spdy,assignee,0,0,0,0,57
+spdy,component,0,0,0,0,57
+spdy,hardware,0,0,0,0,57
+spdy,os,0,0,0,0,57
+spdy,priority,0,0,0,0,57
+spdy,product,0,0,0,0,57
+spdy,severity,1,0,0,0,57
+spdy,status,0,0,0,0,57
+spdy,version,2,0,0,0,57
+spdy 요약,,3,0,0,0,513
+sshslaves,assignee,0,0,0,0,2
+sshslaves,component,0,0,0,0,2
+sshslaves,hardware,0,0,0,0,2
+sshslaves,os,0,0,0,0,2
+sshslaves,priority,0,0,0,0,2
+sshslaves,product,0,0,0,0,2
+sshslaves,severity,0,0,0,0,2
+sshslaves,status,0,0,0,0,2
+sshslaves,version,0,0,0,0,2
+sshslaves 요약,,0,0,0,0,18
+standalone,assignee,0,0,0,0,26
+standalone,component,0,0,0,0,26
+standalone,hardware,0,0,0,0,26
+standalone,os,0,0,0,0,26
+standalone,priority,0,0,0,0,26
+standalone,product,0,0,0,0,26
+standalone,severity,1,0,0,0,26
+standalone,status,0,0,0,0,26
+standalone,version,1,0,0,0,26
+standalone 요약,,2,0,0,0,234
+start,assignee,0,0,0,0,71
+start,component,1,0,0,0,71
+start,hardware,0,0,0,0,71
+start,os,0,0,0,0,71
+start,priority,0,0,0,0,71
+start,product,0,0,0,0,71
+start,severity,3,0,0,0,71
+start,status,0,0,0,0,71
+start,version,2,0,0,0,71
+start 요약,,6,0,0,0,639
+statesystem,assignee,0,0,0,0,8
+statesystem,component,0,0,0,0,8
+statesystem,hardware,0,0,0,0,8
+statesystem,os,0,0,0,0,8
+statesystem,priority,0,0,0,0,8
+statesystem,product,0,0,0,0,8
+statesystem,severity,0,0,0,0,8
+statesystem,status,0,0,0,0,8
+statesystem,version,0,0,0,0,8
+statesystem 요약,,0,0,0,0,72
+storage,assignee,0,0,0,0,34
+storage,component,1,0,0,0,34
+storage,hardware,0,0,0,0,34
+storage,os,2,0,0,0,34
+storage,priority,1,0,0,0,34
+storage,product,0,0,0,0,34
+storage,severity,2,0,0,0,34
+storage,status,0,0,0,0,34
+storage,version,0,0,0,0,34
+storage 요약,,6,0,0,0,306
+stw,assignee,0,0,0,0,2
+stw,component,0,0,0,0,2
+stw,hardware,0,0,0,0,2
+stw,os,0,0,0,0,2
+stw,priority,0,0,0,0,2
+stw,product,0,0,0,0,2
+stw,severity,1,0,0,0,2
+stw,status,0,0,0,0,2
+stw,version,1,0,0,0,2
+stw 요약,,2,0,0,0,18
+svn,assignee,0,0,0,0,14
+svn,component,1,0,0,0,14
+svn,hardware,0,0,0,0,14
+svn,os,2,0,0,0,14
+svn,priority,1,0,0,0,14
+svn,product,0,0,0,0,14
+svn,severity,2,0,0,0,14
+svn,status,0,0,0,0,14
+svn,version,0,0,0,0,14
+svn 요약,,6,0,0,0,126
+swing,assignee,0,0,0,0,241
+swing,component,2,0,0,0,241
+swing,hardware,5,0,0,0,241
+swing,os,6,0,0,0,241
+swing,priority,1,0,0,0,241
+swing,product,2,0,0,0,241
+swing,severity,20,3,0,0,241
+swing,status,0,0,0,0,241
+swing,version,3,0,0,0,241
+swing 요약,,39,3,0,0,2169
+swt,assignee,0,0,0,0,13914
+swt,component,284,25,3,0,13914
+swt,hardware,134,2,0,0,13914
+swt,os,673,16,0,0,13914
+swt,priority,236,16,2,0,13914
+swt,product,349,9,1,0,13914
+swt,severity,616,36,3,0,13914
+swt,status,0,0,0,0,13914
+swt,version,739,31,5,0,13914
+swt 요약,,3031,135,14,0,125226
+swt/jface,assignee,0,0,0,0,3
+swt/jface,component,0,0,0,0,3
+swt/jface,hardware,0,0,0,0,3
+swt/jface,os,0,0,0,0,3
+swt/jface,priority,0,0,0,0,3
+swt/jface,product,0,0,0,0,3
+swt/jface,severity,0,0,0,0,3
+swt/jface,status,0,0,0,0,3
+swt/jface,version,1,0,0,0,3
+swt/jface 요약,,1,0,0,0,27
+swtbot,assignee,0,0,0,0,657
+swtbot,component,3,0,0,0,657
+swtbot,hardware,66,0,0,0,657
+swtbot,os,63,1,0,0,657
+swtbot,priority,28,0,0,0,657
+swtbot,product,0,0,0,0,657
+swtbot,severity,13,0,0,0,657
+swtbot,status,0,0,0,0,657
+swtbot,version,48,0,0,0,657
+swtbot 요약,,221,1,0,0,5913
+sync,assignee,0,0,0,0,218
+sync,component,18,0,0,0,218
+sync,hardware,6,0,0,0,218
+sync,os,8,0,0,0,218
+sync,priority,2,0,0,0,218
+sync,product,0,0,0,0,218
+sync,severity,9,1,0,0,218
+sync,status,0,0,0,0,218
+sync,version,12,0,0,0,218
+sync 요약,,55,1,0,0,1962
+sys,assignee,0,0,0,0,7
+sys,component,1,0,0,0,7
+sys,hardware,0,0,0,0,7
+sys,os,0,0,0,0,7
+sys,priority,0,0,0,0,7
+sys,product,0,0,0,0,7
+sys,severity,0,0,0,0,7
+sys,status,0,0,0,0,7
+sys,version,0,0,0,0,7
+sys 요약,,1,0,0,0,63
+sysml,assignee,0,0,0,0,455
+sysml,component,31,0,0,0,455
+sysml,hardware,12,0,0,0,455
+sysml,os,12,0,0,0,455
+sysml,priority,1,0,0,0,455
+sysml,product,0,0,0,0,455
+sysml,severity,57,2,0,0,455
+sysml,status,0,0,0,0,455
+sysml,version,51,6,1,0,455
+sysml 요약,,164,8,1,0,4095
+table,assignee,0,0,0,0,364
+table,component,13,1,0,0,364
+table,hardware,21,0,0,0,364
+table,os,20,0,0,0,364
+table,priority,4,0,0,0,364
+table,product,0,0,0,0,364
+table,severity,24,0,1,0,364
+table,status,0,0,0,0,364
+table,version,15,0,0,0,364
+table 요약,,97,1,1,0,3276
+tablecombo,assignee,0,0,0,0,27
+tablecombo,component,0,0,0,0,27
+tablecombo,hardware,0,0,0,0,27
+tablecombo,os,0,0,0,0,27
+tablecombo,priority,0,0,0,0,27
+tablecombo,product,0,0,0,0,27
+tablecombo,severity,1,0,0,0,27
+tablecombo,status,0,0,0,0,27
+tablecombo,version,1,0,0,0,27
+tablecombo 요약,,2,0,0,0,243
+target,assignee,0,0,0,0,291
+target,component,2,0,0,0,291
+target,hardware,4,0,0,0,291
+target,os,7,0,0,0,291
+target,priority,12,1,0,0,291
+target,product,1,0,0,0,291
+target,severity,14,1,0,0,291
+target,status,0,0,0,0,291
+target,version,5,0,0,0,291
+target 요약,,45,2,0,0,2619
+targets,assignee,0,0,0,0,104
+targets,component,1,0,0,0,104
+targets,hardware,3,0,0,0,104
+targets,os,3,0,0,0,104
+targets,priority,5,0,0,0,104
+targets,product,0,0,0,0,104
+targets,severity,3,0,0,0,104
+targets,status,0,0,0,0,104
+targets,version,0,0,0,0,104
+targets 요약,,15,0,0,0,936
+targlets,assignee,0,0,0,0,94
+targlets,component,4,0,0,0,94
+targlets,hardware,0,0,0,0,94
+targlets,os,0,0,0,0,94
+targlets,priority,0,0,0,0,94
+targlets,product,3,0,0,0,94
+targlets,severity,3,0,0,0,94
+targlets,status,0,0,0,0,94
+targlets,version,12,1,3,3,94
+targlets 요약,,22,1,3,3,846
+tasks,assignee,0,0,0,0,2733
+tasks,component,74,4,0,0,2733
+tasks,hardware,9,0,0,0,2733
+tasks,os,22,1,0,0,2733
+tasks,priority,417,61,18,16,2733
+tasks,product,2,0,0,0,2733
+tasks,severity,224,7,1,1,2733
+tasks,status,0,0,0,0,2733
+tasks,version,32,0,0,0,2733
+tasks 요약,,780,73,19,17,24597
+tcl,assignee,0,0,0,0,93
+tcl,component,0,0,0,0,93
+tcl,hardware,0,0,0,0,93
+tcl,os,0,0,0,0,93
+tcl,priority,1,0,0,0,93
+tcl,product,0,0,0,0,93
+tcl,severity,1,0,0,0,93
+tcl,status,0,0,0,0,93
+tcl,version,27,1,0,0,93
+tcl 요약,,29,1,0,0,837
+team,assignee,0,0,0,0,7220
+team,component,59,6,0,0,7220
+team,hardware,20,0,0,0,7220
+team,os,35,0,0,0,7220
+team,priority,590,42,2,0,7220
+team,product,96,0,0,0,7220
+team,severity,250,2,0,1,7220
+team,status,0,0,0,0,7220
+team,version,84,3,0,0,7220
+team 요약,,1134,53,2,1,64980
+technologies,assignee,0,0,0,0,228
+technologies,component,9,0,0,0,228
+technologies,hardware,1,0,0,0,228
+technologies,os,1,0,0,0,228
+technologies,priority,70,26,1,0,228
+technologies,product,0,0,0,0,228
+technologies,severity,15,1,0,0,228
+technologies,status,0,0,0,0,228
+technologies,version,11,1,0,0,228
+technologies 요약,,107,28,1,0,2052
+templates,assignee,0,0,0,0,248
+templates,component,3,0,0,0,248
+templates,hardware,0,0,0,0,248
+templates,os,0,0,0,0,248
+templates,priority,7,0,0,0,248
+templates,product,1,0,0,0,248
+templates,severity,7,1,0,0,248
+templates,status,0,0,0,0,248
+templates,version,16,3,3,2,248
+templates 요약,,34,4,3,2,2232
+teneo,assignee,0,0,0,0,425
+teneo,component,7,0,0,0,425
+teneo,hardware,2,0,0,0,425
+teneo,os,1,0,0,0,425
+teneo,priority,7,0,0,0,425
+teneo,product,6,0,0,0,425
+teneo,severity,6,0,0,0,425
+teneo,status,0,0,0,0,425
+teneo,version,30,2,0,0,425
+teneo 요약,,59,2,0,0,3825
+test,assignee,0,0,0,0,94
+test,component,4,0,0,0,94
+test,hardware,1,0,0,0,94
+test,os,2,0,0,0,94
+test,priority,0,0,0,0,94
+test,product,0,0,0,0,94
+test,severity,8,0,0,0,94
+test,status,0,0,0,0,94
+test,version,0,0,0,0,94
+test 요약,,15,0,0,0,846
+testharness,assignee,0,0,0,0,9
+testharness,component,1,0,0,0,9
+testharness,hardware,0,0,0,0,9
+testharness,os,0,0,0,0,9
+testharness,priority,0,0,0,0,9
+testharness,product,0,0,0,0,9
+testharness,severity,0,0,0,0,9
+testharness,status,0,0,0,0,9
+testharness,version,0,0,0,0,9
+testharness 요약,,1,0,0,0,81
+testing,assignee,0,0,0,0,3
+testing,component,1,0,0,0,3
+testing,hardware,0,0,0,0,3
+testing,os,0,0,0,0,3
+testing,priority,0,0,0,0,3
+testing,product,0,0,0,0,3
+testing,severity,0,0,0,0,3
+testing,status,0,0,0,0,3
+testing,version,0,0,0,0,3
+testing 요약,,1,0,0,0,27
+tests,assignee,0,0,0,0,25
+tests,component,0,0,0,0,25
+tests,hardware,0,0,0,0,25
+tests,os,1,0,0,0,25
+tests,priority,0,0,0,0,25
+tests,product,0,0,0,0,25
+tests,severity,0,0,0,0,25
+tests,status,0,0,0,0,25
+tests,version,0,0,0,0,25
+tests 요약,,1,0,0,0,225
+testsuite,assignee,0,0,0,0,240
+testsuite,component,6,0,0,0,240
+testsuite,hardware,4,0,0,0,240
+testsuite,os,4,0,0,0,240
+testsuite,priority,1,1,0,0,240
+testsuite,product,0,0,0,0,240
+testsuite,severity,20,0,0,0,240
+testsuite,status,0,0,0,0,240
+testsuite,version,8,0,0,0,240
+testsuite 요약,,43,1,0,0,2160
+texo,assignee,0,0,0,0,311
+texo,component,1,0,0,0,311
+texo,hardware,0,0,0,0,311
+texo,os,0,0,0,0,311
+texo,priority,0,0,0,0,311
+texo,product,1,0,0,0,311
+texo,severity,4,1,0,0,311
+texo,status,0,0,0,0,311
+texo,version,1,0,0,0,311
+texo 요약,,7,1,0,0,2799
+text,assignee,0,0,0,0,11818
+text,component,247,13,1,0,11818
+text,hardware,290,0,0,0,11818
+text,os,366,4,0,0,11818
+text,priority,589,11,3,0,11818
+text,product,119,3,0,0,11818
+text,severity,801,17,3,1,11818
+text,status,0,0,0,0,11818
+text,version,230,10,0,1,11818
+text 요약,,2642,58,7,2,106362
+timeserieschart,assignee,0,0,0,0,4
+timeserieschart,component,0,0,0,0,4
+timeserieschart,hardware,0,0,0,0,4
+timeserieschart,os,0,0,0,0,4
+timeserieschart,priority,0,0,0,0,4
+timeserieschart,product,0,0,0,0,4
+timeserieschart,severity,0,0,0,0,4
+timeserieschart,status,0,0,0,0,4
+timeserieschart,version,1,0,0,0,4
+timeserieschart 요약,,1,0,0,0,36
+tmf,assignee,0,0,0,0,335
+tmf,component,57,0,0,0,335
+tmf,hardware,0,0,0,0,335
+tmf,os,1,0,0,0,335
+tmf,priority,0,0,0,0,335
+tmf,product,57,0,0,0,335
+tmf,severity,19,1,0,0,335
+tmf,status,0,0,0,0,335
+tmf,version,59,0,0,0,335
+tmf 요약,,193,1,0,0,3015
+tool,assignee,0,0,0,0,860
+tool,component,9,0,1,0,860
+tool,hardware,1,0,0,0,860
+tool,os,6,0,0,0,860
+tool,priority,88,3,0,0,860
+tool,product,1,0,0,0,860
+tool,severity,42,2,0,0,860
+tool,status,0,0,0,0,860
+tool,version,21,2,0,0,860
+tool 요약,,168,7,1,0,7740
+toolbox,assignee,0,0,0,0,8
+toolbox,component,0,0,0,0,8
+toolbox,hardware,0,0,0,0,8
+toolbox,os,0,0,0,0,8
+toolbox,priority,1,0,0,0,8
+toolbox,product,0,0,0,0,8
+toolbox,severity,1,0,0,0,8
+toolbox,status,0,0,0,0,8
+toolbox,version,0,0,0,0,8
+toolbox 요약,,2,0,0,0,72
+tooling,assignee,0,0,0,0,545
+tooling,component,29,1,0,0,545
+tooling,hardware,6,0,0,0,545
+tooling,os,11,0,0,0,545
+tooling,priority,2,0,0,0,545
+tooling,product,2,0,0,0,545
+tooling,severity,32,1,0,0,545
+tooling,status,0,0,0,0,545
+tooling,version,12,0,0,0,545
+tooling 요약,,94,2,0,0,4905
+tools,assignee,0,0,0,0,2435
+tools,component,47,1,0,0,2435
+tools,hardware,54,0,0,0,2435
+tools,os,62,0,0,0,2435
+tools,priority,117,9,8,1,2435
+tools,product,4,0,0,0,2435
+tools,severity,116,4,1,0,2435
+tools,status,0,0,0,0,2435
+tools,version,31,3,0,0,2435
+tools 요약,,431,17,9,1,21915
+toolset,assignee,0,0,0,0,79
+toolset,component,18,0,0,0,79
+toolset,hardware,0,0,0,0,79
+toolset,os,0,0,0,0,79
+toolset,priority,1,0,0,0,79
+toolset,product,0,0,0,0,79
+toolset,severity,2,0,0,0,79
+toolset,status,0,0,0,0,79
+toolset,version,2,0,0,0,79
+toolset 요약,,23,0,0,0,711
+toolsmiths,assignee,0,0,0,0,28
+toolsmiths,component,8,0,0,0,28
+toolsmiths,hardware,0,0,0,0,28
+toolsmiths,os,0,0,0,0,28
+toolsmiths,priority,0,0,0,0,28
+toolsmiths,product,0,0,0,0,28
+toolsmiths,severity,0,0,0,0,28
+toolsmiths,status,0,0,0,0,28
+toolsmiths,version,0,0,0,0,28
+toolsmiths 요약,,8,0,0,0,252
+trac,assignee,0,0,0,0,550
+trac,component,7,1,0,0,550
+trac,hardware,0,0,0,0,550
+trac,os,1,0,0,0,550
+trac,priority,52,4,1,0,550
+trac,product,0,1,0,0,550
+trac,severity,17,1,0,0,550
+trac,status,0,0,0,0,550
+trac,version,7,1,0,0,550
+trac 요약,,84,8,1,0,4950
+transaction,assignee,0,0,0,0,429
+transaction,component,65,0,0,0,429
+transaction,hardware,0,0,0,0,429
+transaction,os,0,0,0,0,429
+transaction,priority,17,1,0,0,429
+transaction,product,63,0,0,0,429
+transaction,severity,9,0,0,0,429
+transaction,status,0,0,0,0,429
+transaction,version,34,4,1,0,429
+transaction 요약,,188,5,1,0,3861
+transformation,assignee,0,0,0,0,77
+transformation,component,0,1,0,0,77
+transformation,hardware,0,0,0,0,77
+transformation,os,0,0,0,0,77
+transformation,priority,0,0,0,0,77
+transformation,product,1,0,0,0,77
+transformation,severity,0,0,0,0,77
+transformation,status,0,0,0,0,77
+transformation,version,2,0,0,0,77
+transformation 요약,,3,1,0,0,693
+transformations,assignee,0,0,0,0,53
+transformations,component,0,0,0,0,53
+transformations,hardware,0,0,0,0,53
+transformations,os,1,0,0,0,53
+transformations,priority,1,0,0,0,53
+transformations,product,0,0,0,0,53
+transformations,severity,1,0,0,0,53
+transformations,status,0,0,0,0,53
+transformations,version,4,4,1,0,53
+transformations 요약,,7,4,1,0,477
+translations,assignee,0,0,0,0,141
+translations,component,4,0,0,0,141
+translations,hardware,1,0,0,0,141
+translations,os,2,0,0,0,141
+translations,priority,2,0,0,0,141
+translations,product,2,0,0,0,141
+translations,severity,3,0,1,0,141
+translations,status,0,0,0,0,141
+translations,version,4,0,0,0,141
+translations 요약,,18,0,1,0,1269
+tree,assignee,0,0,0,0,37
+tree,component,0,0,0,0,37
+tree,hardware,0,0,0,0,37
+tree,os,0,0,0,0,37
+tree,priority,2,0,0,0,37
+tree,product,0,0,0,0,37
+tree,severity,1,0,0,0,37
+tree,status,0,0,0,0,37
+tree,version,0,0,0,0,37
+tree 요약,,3,0,0,0,333
+treemapper,assignee,0,0,0,0,8
+treemapper,component,0,0,0,0,8
+treemapper,hardware,0,0,0,0,8
+treemapper,os,1,0,0,0,8
+treemapper,priority,0,0,0,0,8
+treemapper,product,0,0,0,0,8
+treemapper,severity,1,0,0,0,8
+treemapper,status,0,0,0,0,8
+treemapper,version,0,0,0,0,8
+treemapper 요약,,2,0,0,0,72
+twitterhub,assignee,0,0,0,0,52
+twitterhub,component,0,0,0,0,52
+twitterhub,hardware,0,0,0,0,52
+twitterhub,os,0,0,0,0,52
+twitterhub,priority,0,0,0,0,52
+twitterhub,product,0,0,0,0,52
+twitterhub,severity,2,0,0,0,52
+twitterhub,status,0,0,0,0,52
+twitterhub,version,0,0,0,0,52
+twitterhub 요약,,2,0,0,0,468
+tycho,assignee,0,0,0,0,11
+tycho,component,1,0,0,0,11
+tycho,hardware,0,0,0,0,11
+tycho,os,0,0,0,0,11
+tycho,priority,0,0,0,0,11
+tycho,product,1,0,0,0,11
+tycho,severity,0,0,0,0,11
+tycho,status,0,0,0,0,11
+tycho,version,1,0,0,0,11
+tycho 요약,,3,0,0,0,99
+ua,assignee,0,0,0,0,103
+ua,component,0,0,0,0,103
+ua,hardware,1,0,0,0,103
+ua,os,2,0,0,0,103
+ua,priority,5,0,0,0,103
+ua,product,0,0,0,0,103
+ua,severity,6,0,0,0,103
+ua,status,0,0,0,0,103
+ua,version,1,0,0,0,103
+ua 요약,,15,0,0,0,927
+ucum,assignee,0,0,0,0,4
+ucum,component,0,0,0,0,4
+ucum,hardware,0,0,0,0,4
+ucum,os,0,0,0,0,4
+ucum,priority,1,0,0,0,4
+ucum,product,0,0,0,0,4
+ucum,severity,1,0,0,0,4
+ucum,status,0,0,0,0,4
+ucum,version,0,0,0,0,4
+ucum 요약,,2,0,0,0,36
+ui,assignee,0,0,0,0,69589
+ui,component,934,78,5,1,69589
+ui,hardware,959,6,0,0,69589
+ui,os,1298,13,0,0,69589
+ui,priority,2770,155,36,22,69589
+ui,product,485,22,2,1,69589
+ui,severity,3044,132,20,1,69589
+ui,status,0,0,0,0,69589
+ui,version,1661,60,4,8,69589
+ui 요약,,11151,466,67,33,626301
+units,assignee,0,0,0,0,35
+units,component,0,0,0,0,35
+units,hardware,4,0,0,0,35
+units,os,5,0,0,0,35
+units,priority,1,2,0,0,35
+units,product,0,0,0,0,35
+units,severity,4,0,0,0,35
+units,status,0,0,0,0,35
+units,version,2,0,0,0,35
+units 요약,,16,2,0,0,315
+unknown,assignee,0,0,0,0,850
+unknown,component,49,11,0,0,850
+unknown,hardware,4,0,0,0,850
+unknown,os,5,0,0,0,850
+unknown,priority,13,1,0,0,850
+unknown,product,46,11,0,0,850
+unknown,severity,49,0,0,0,850
+unknown,status,0,0,0,0,850
+unknown,version,35,0,0,0,850
+unknown 요약,,201,23,0,0,7650
+updater,assignee,0,0,0,0,154
+updater,component,1,0,0,0,154
+updater,hardware,0,0,0,0,154
+updater,os,0,0,0,0,154
+updater,priority,1,0,0,0,154
+updater,product,1,0,0,0,154
+updater,severity,1,1,0,0,154
+updater,status,0,0,0,0,154
+updater,version,2,0,0,0,154
+updater 요약,,6,1,0,0,1386
+updatesite,assignee,0,0,0,0,189
+updatesite,component,0,0,0,0,189
+updatesite,hardware,2,0,0,0,189
+updatesite,os,2,0,0,0,189
+updatesite,priority,0,0,0,0,189
+updatesite,product,0,0,0,0,189
+updatesite,severity,4,0,0,0,189
+updatesite,status,0,0,0,0,189
+updatesite,version,2,0,0,0,189
+updatesite 요약,,10,0,0,0,1701
+usagedatacollector,assignee,0,0,0,0,161
+usagedatacollector,component,7,0,0,0,161
+usagedatacollector,hardware,0,0,0,0,161
+usagedatacollector,os,1,0,0,0,161
+usagedatacollector,priority,13,0,0,0,161
+usagedatacollector,product,0,0,0,0,161
+usagedatacollector,severity,5,1,0,0,161
+usagedatacollector,status,0,0,0,0,161
+usagedatacollector,version,3,0,0,0,161
+usagedatacollector 요약,,29,1,0,0,1449
+usecases,assignee,0,0,0,0,19
+usecases,component,1,0,0,0,19
+usecases,hardware,0,0,0,0,19
+usecases,os,0,0,0,0,19
+usecases,priority,10,0,0,0,19
+usecases,product,0,0,0,0,19
+usecases,severity,2,0,0,0,19
+usecases,status,0,0,0,0,19
+usecases,version,1,0,0,0,19
+usecases 요약,,14,0,0,0,171
+user,assignee,0,0,0,0,14
+user,component,0,0,0,0,14
+user,hardware,0,0,0,0,14
+user,os,1,0,0,0,14
+user,priority,0,0,0,0,14
+user,product,0,0,0,0,14
+user,severity,0,0,0,0,14
+user,status,0,0,0,0,14
+user,version,0,0,0,0,14
+user 요약,,1,0,0,0,126
+userassistance,assignee,0,0,0,0,4987
+userassistance,component,100,7,0,0,4987
+userassistance,hardware,27,1,0,0,4987
+userassistance,os,54,3,0,0,4987
+userassistance,priority,168,8,1,0,4987
+userassistance,product,16,0,0,0,4987
+userassistance,severity,152,6,1,0,4987
+userassistance,status,0,0,0,0,4987
+userassistance,version,116,8,0,0,4987
+userassistance 요약,,633,33,2,0,44883
+userinterface,assignee,0,0,0,0,322
+userinterface,component,10,0,0,0,322
+userinterface,hardware,0,0,0,0,322
+userinterface,os,0,0,0,0,322
+userinterface,priority,1,0,0,0,322
+userinterface,product,10,0,0,0,322
+userinterface,severity,8,0,0,0,322
+userinterface,status,0,0,0,0,322
+userinterface,version,5,4,0,0,322
+userinterface 요약,,34,4,0,0,2898
+usert&gt;equinox&gt;p2),assignee,0,0,0,0,4952
+usert&gt;equinox&gt;p2),component,68,0,0,0,4952
+usert&gt;equinox&gt;p2),hardware,15,0,0,0,4952
+usert&gt;equinox&gt;p2),os,37,0,0,0,4952
+usert&gt;equinox&gt;p2),priority,173,23,3,1,4952
+usert&gt;equinox&gt;p2),product,44,1,0,0,4952
+usert&gt;equinox&gt;p2),severity,158,14,3,0,4952
+usert&gt;equinox&gt;p2),status,0,0,0,0,4952
+usert&gt;equinox&gt;p2),version,49,1,0,0,4952
+usert&gt;equinox&gt;p2) 요약,,544,39,6,1,44568
+util,assignee,0,0,0,0,27
+util,component,0,0,0,0,27
+util,hardware,0,0,0,0,27
+util,os,0,0,0,0,27
+util,priority,0,0,0,0,27
+util,product,0,0,0,0,27
+util,severity,1,0,0,0,27
+util,status,0,0,0,0,27
+util,version,0,0,0,0,27
+util 요약,,1,0,0,0,243
+utilities,assignee,0,0,0,0,90
+utilities,component,2,0,0,0,90
+utilities,hardware,0,0,0,0,90
+utilities,os,0,0,0,0,90
+utilities,priority,1,0,0,0,90
+utilities,product,0,0,0,0,90
+utilities,severity,8,0,0,0,90
+utilities,status,0,0,0,0,90
+utilities,version,14,1,2,3,90
+utilities 요약,,25,1,2,3,810
+utils,assignee,0,0,0,0,77
+utils,component,5,1,0,0,77
+utils,hardware,0,0,0,0,77
+utils,os,0,0,0,0,77
+utils,priority,5,0,0,0,77
+utils,product,1,1,0,0,77
+utils,severity,8,0,0,0,77
+utils,status,0,0,0,0,77
+utils,version,8,2,0,0,77
+utils 요약,,27,4,0,0,693
+validation,assignee,0,0,0,0,301
+validation,component,46,0,0,0,301
+validation,hardware,0,0,0,0,301
+validation,os,0,0,0,0,301
+validation,priority,11,1,1,0,301
+validation,product,45,0,0,0,301
+validation,severity,4,0,0,0,301
+validation,status,0,0,0,0,301
+validation,version,29,4,0,0,301
+validation 요약,,135,5,1,0,2709
+validationruntimeextensions,assignee,0,0,0,0,12
+validationruntimeextensions,component,0,0,0,0,12
+validationruntimeextensions,hardware,0,0,0,0,12
+validationruntimeextensions,os,0,0,0,0,12
+validationruntimeextensions,priority,2,0,0,0,12
+validationruntimeextensions,product,0,0,0,0,12
+validationruntimeextensions,severity,0,0,0,0,12
+validationruntimeextensions,status,0,0,0,0,12
+validationruntimeextensions,version,1,0,0,0,12
+validationruntimeextensions 요약,,3,0,0,0,108
+versionmanagement,assignee,0,0,0,0,19
+versionmanagement,component,0,0,0,0,19
+versionmanagement,hardware,0,0,0,0,19
+versionmanagement,os,0,0,0,0,19
+versionmanagement,priority,0,0,0,0,19
+versionmanagement,product,0,0,0,0,19
+versionmanagement,severity,0,0,0,0,19
+versionmanagement,status,0,0,0,0,19
+versionmanagement,version,1,1,1,1,19
+versionmanagement 요약,,1,1,1,1,171
+views,assignee,0,0,0,0,470
+views,component,61,0,0,0,470
+views,hardware,97,0,0,0,470
+views,os,95,0,0,0,470
+views,priority,1,0,0,0,470
+views,product,0,0,0,0,470
+views,severity,32,1,0,0,470
+views,status,0,0,0,0,470
+views,version,47,2,0,0,470
+views 요약,,333,3,0,0,4230
+visualization,assignee,0,0,0,0,293
+visualization,component,0,0,0,0,293
+visualization,hardware,1,0,0,0,293
+visualization,os,1,0,0,0,293
+visualization,priority,1,0,0,0,293
+visualization,product,0,0,0,0,293
+visualization,severity,5,0,0,0,293
+visualization,status,0,0,0,0,293
+visualization,version,2,1,0,0,293
+visualization 요약,,10,1,0,0,2637
+vortorepository,assignee,0,0,0,0,32
+vortorepository,component,2,0,0,0,32
+vortorepository,hardware,0,0,0,0,32
+vortorepository,os,0,0,0,0,32
+vortorepository,priority,0,0,0,0,32
+vortorepository,product,0,0,0,0,32
+vortorepository,severity,0,0,0,0,32
+vortorepository,status,0,0,0,0,32
+vortorepository,version,0,0,0,0,32
+vortorepository 요약,,2,0,0,0,288
+vpm(archive),assignee,0,0,0,0,82
+vpm(archive),component,20,0,0,0,82
+vpm(archive),hardware,0,0,0,0,82
+vpm(archive),os,0,0,0,0,82
+vpm(archive),priority,0,0,0,0,82
+vpm(archive),product,20,0,0,0,82
+vpm(archive),severity,0,0,0,0,82
+vpm(archive),status,0,0,0,0,82
+vpm(archive),version,2,0,0,0,82
+vpm(archive) 요약,,42,0,0,0,738
+wam,assignee,0,0,0,0,1
+wam,component,0,0,0,0,1
+wam,hardware,0,0,0,0,1
+wam,os,0,0,0,0,1
+wam,priority,0,0,0,0,1
+wam,product,0,0,0,0,1
+wam,severity,0,0,0,0,1
+wam,status,0,0,0,0,1
+wam,version,1,0,0,0,1
+wam 요약,,1,0,0,0,9
+warproducts,assignee,0,0,0,0,167
+warproducts,component,5,21,1,0,167
+warproducts,hardware,0,0,0,0,167
+warproducts,os,0,0,0,0,167
+warproducts,priority,0,0,0,0,167
+warproducts,product,22,0,0,0,167
+warproducts,severity,3,0,0,0,167
+warproducts,status,0,0,0,0,167
+warproducts,version,3,0,0,0,167
+warproducts 요약,,33,21,1,0,1503
+we,assignee,0,0,0,0,469
+we,component,1,0,0,0,469
+we,hardware,4,0,0,0,469
+we,os,11,0,0,0,469
+we,priority,7,2,0,0,469
+we,product,0,0,0,0,469
+we,severity,7,1,0,0,469
+we,status,0,0,0,0,469
+we,version,46,33,10,4,469
+we 요약,,76,36,10,4,4221
+weaving,assignee,0,0,0,0,38
+weaving,component,10,1,0,0,38
+weaving,hardware,1,0,0,0,38
+weaving,os,0,0,0,0,38
+weaving,priority,0,0,0,0,38
+weaving,product,0,0,0,0,38
+weaving,severity,0,0,0,0,38
+weaving,status,0,0,0,0,38
+weaving,version,2,0,0,0,38
+weaving 요약,,13,1,0,0,342
+web,assignee,0,0,0,0,234
+web,component,3,0,0,0,234
+web,hardware,1,0,0,0,234
+web,os,1,0,0,0,234
+web,priority,15,1,0,0,234
+web,product,1,0,0,0,234
+web,severity,17,2,0,0,234
+web,status,0,0,0,0,234
+web,version,1,1,0,0,234
+web 요약,,39,4,0,0,2106
+webclient,assignee,0,0,0,0,2
+webclient,component,0,0,0,0,2
+webclient,hardware,0,0,0,0,2
+webclient,os,0,0,0,0,2
+webclient,priority,0,0,0,0,2
+webclient,product,0,0,0,0,2
+webclient,severity,0,0,0,0,2
+webclient,status,0,0,0,0,2
+webclient,version,0,0,0,0,2
+webclient 요약,,0,0,0,0,18
+webdav,assignee,0,0,0,0,205
+webdav,component,4,0,0,0,205
+webdav,hardware,1,0,0,0,205
+webdav,os,1,0,0,0,205
+webdav,priority,4,0,0,0,205
+webdav,product,1,0,0,0,205
+webdav,severity,2,0,0,0,205
+webdav,status,0,0,0,0,205
+webdav,version,5,0,0,0,205
+webdav 요약,,18,0,0,0,1845
+webpage,assignee,0,0,0,0,7
+webpage,component,0,0,0,0,7
+webpage,hardware,0,0,0,0,7
+webpage,os,0,0,0,0,7
+webpage,priority,0,0,0,0,7
+webpage,product,0,0,0,0,7
+webpage,severity,0,0,0,0,7
+webpage,status,0,0,0,0,7
+webpage,version,0,0,0,0,7
+webpage 요약,,0,0,0,0,63
+webportal,assignee,0,0,0,0,165
+webportal,component,1,0,0,0,165
+webportal,hardware,1,0,0,0,165
+webportal,os,1,0,0,0,165
+webportal,priority,0,0,0,0,165
+webportal,product,0,0,0,0,165
+webportal,severity,1,0,0,0,165
+webportal,status,0,0,0,0,165
+webportal,version,6,0,0,0,165
+webportal 요약,,10,0,0,0,1485
+website,assignee,0,0,0,0,1698
+website,component,22,4,0,0,1698
+website,hardware,12,0,0,0,1698
+website,os,16,0,0,0,1698
+website,priority,68,0,0,0,1698
+website,product,9,3,0,0,1698
+website,severity,49,3,4,0,1698
+website,status,0,0,0,0,1698
+website,version,20,2,0,0,1698
+website 요약,,196,12,4,0,15282
+website/doc,assignee,0,0,0,0,1
+website/doc,component,0,0,0,0,1
+website/doc,hardware,0,0,0,0,1
+website/doc,os,0,0,0,0,1
+website/doc,priority,0,0,0,0,1
+website/doc,product,0,0,0,0,1
+website/doc,severity,1,0,0,0,1
+website/doc,status,0,0,0,0,1
+website/doc,version,0,0,0,0,1
+website/doc 요약,,1,0,0,0,9
+website/wiki,assignee,0,0,0,0,34
+website/wiki,component,2,0,0,0,34
+website/wiki,hardware,0,0,0,0,34
+website/wiki,os,0,0,0,0,34
+website/wiki,priority,1,0,0,0,34
+website/wiki,product,0,0,0,0,34
+website/wiki,severity,2,1,0,0,34
+website/wiki,status,0,0,0,0,34
+website/wiki,version,1,0,0,0,34
+website/wiki 요약,,6,1,0,0,306
+websocket,assignee,0,0,0,0,257
+websocket,component,2,0,0,0,257
+websocket,hardware,2,0,0,0,257
+websocket,os,3,0,0,0,257
+websocket,priority,0,0,0,0,257
+websocket,product,0,0,0,0,257
+websocket,severity,9,0,0,0,257
+websocket,status,0,0,0,0,257
+websocket,version,8,0,0,0,257
+websocket 요약,,24,0,0,0,2313
+wiki,assignee,0,0,0,0,26
+wiki,component,4,0,0,0,26
+wiki,hardware,0,0,0,0,26
+wiki,os,0,0,0,0,26
+wiki,priority,0,0,0,0,26
+wiki,product,0,0,0,0,26
+wiki,severity,0,0,0,0,26
+wiki,status,0,0,0,0,26
+wiki,version,0,0,0,0,26
+wiki 요약,,4,0,0,0,234
+windows,assignee,0,0,0,0,5
+windows,component,0,0,0,0,5
+windows,hardware,0,0,0,0,5
+windows,os,0,0,0,0,5
+windows,priority,0,0,0,0,5
+windows,product,0,0,0,0,5
+windows,severity,3,0,0,0,5
+windows,status,0,0,0,0,5
+windows,version,0,0,0,0,5
+windows 요약,,3,0,0,0,45
+wizard,assignee,0,0,0,0,553
+wizard,component,30,0,0,0,553
+wizard,hardware,1,0,0,0,553
+wizard,os,2,0,0,0,553
+wizard,priority,13,3,0,0,553
+wizard,product,28,0,0,0,553
+wizard,severity,9,0,0,0,553
+wizard,status,0,0,0,0,553
+wizard,version,8,0,0,0,553
+wizard 요약,,91,3,0,0,4977
+wizards,assignee,0,0,0,0,3
+wizards,component,0,0,0,0,3
+wizards,hardware,1,0,0,0,3
+wizards,os,1,0,0,0,3
+wizards,priority,0,0,0,0,3
+wizards,product,0,0,0,0,3
+wizards,severity,0,0,0,0,3
+wizards,status,0,0,0,0,3
+wizards,version,1,0,0,0,3
+wizards 요약,,3,0,0,0,27
+workbench,assignee,0,0,0,0,750
+workbench,component,20,0,0,0,750
+workbench,hardware,47,0,0,0,750
+workbench,os,54,0,0,0,750
+workbench,priority,29,1,0,0,750
+workbench,product,1,0,0,0,750
+workbench,severity,46,0,1,0,750
+workbench,status,0,0,0,0,750
+workbench,version,43,0,0,0,750
+workbench 요약,,240,1,1,0,6750
+workspace,assignee,0,0,0,0,15
+workspace,component,0,0,0,0,15
+workspace,hardware,0,0,0,0,15
+workspace,os,0,0,0,0,15
+workspace,priority,6,0,0,0,15
+workspace,product,0,0,0,0,15
+workspace,severity,4,0,0,0,15
+workspace,status,0,0,0,0,15
+workspace,version,1,0,0,0,15
+workspace 요약,,11,0,0,0,135
+wtp,assignee,0,0,0,0,35
+wtp,component,0,0,0,0,35
+wtp,hardware,0,0,0,0,35
+wtp,os,0,0,0,0,35
+wtp,priority,2,0,0,0,35
+wtp,product,0,0,0,0,35
+wtp,severity,1,0,0,0,35
+wtp,status,0,0,0,0,35
+wtp,version,0,0,0,0,35
+wtp 요약,,3,0,0,0,315
+www,assignee,0,0,0,0,22
+www,component,0,0,0,0,22
+www,hardware,0,0,0,0,22
+www,os,0,0,0,0,22
+www,priority,0,0,0,0,22
+www,product,0,0,0,0,22
+www,severity,0,0,0,0,22
+www,status,0,0,0,0,22
+www,version,0,0,0,0,22
+www 요약,,0,0,0,0,198
+xcore,assignee,0,0,0,0,574
+xcore,component,0,0,0,0,574
+xcore,hardware,1,0,0,0,574
+xcore,os,2,0,0,0,574
+xcore,priority,0,0,0,0,574
+xcore,product,0,0,0,0,574
+xcore,severity,13,0,0,0,574
+xcore,status,0,0,0,0,574
+xcore,version,8,0,0,0,574
+xcore 요약,,24,0,0,0,5166
+xml,assignee,0,0,0,0,96
+xml,component,2,0,0,0,96
+xml,hardware,2,0,0,0,96
+xml,os,1,0,0,0,96
+xml,priority,13,2,2,2,96
+xml,product,0,0,0,0,96
+xml,severity,5,0,0,0,96
+xml,status,0,0,0,0,96
+xml,version,3,0,0,0,96
+xml 요약,,26,2,2,2,864
+xml/xmi,assignee,0,0,0,0,466
+xml/xmi,component,2,1,0,0,466
+xml/xmi,hardware,1,0,0,0,466
+xml/xmi,os,5,0,0,0,466
+xml/xmi,priority,9,1,0,0,466
+xml/xmi,product,1,0,0,0,466
+xml/xmi,severity,20,2,0,0,466
+xml/xmi,status,0,0,0,0,466
+xml/xmi,version,9,0,0,0,466
+xml/xmi 요약,,47,4,0,0,4194
+xotcl,assignee,0,0,0,0,14
+xotcl,component,0,0,0,0,14
+xotcl,hardware,0,0,0,0,14
+xotcl,os,0,0,0,0,14
+xotcl,priority,0,0,0,0,14
+xotcl,product,0,0,0,0,14
+xotcl,severity,0,0,0,0,14
+xotcl,status,0,0,0,0,14
+xotcl,version,6,0,0,0,14
+xotcl 요약,,6,0,0,0,126
+xpand,assignee,0,0,0,0,619
+xpand,component,9,1,0,0,619
+xpand,hardware,3,0,0,0,619
+xpand,os,4,0,0,0,619
+xpand,priority,29,1,0,0,619
+xpand,product,8,1,0,0,619
+xpand,severity,40,0,0,0,619
+xpand,status,0,0,0,0,619
+xpand,version,24,2,0,0,619
+xpand 요약,,117,5,0,0,5571
+xplanner,assignee,0,0,0,0,75
+xplanner,component,0,0,0,0,75
+xplanner,hardware,0,0,0,0,75
+xplanner,os,0,0,0,0,75
+xplanner,priority,5,0,0,0,75
+xplanner,product,0,0,0,0,75
+xplanner,severity,6,0,0,0,75
+xplanner,status,0,0,0,0,75
+xplanner,version,2,0,0,0,75
+xplanner 요약,,13,0,0,0,675
+xsd,assignee,0,0,0,0,6
+xsd,component,0,0,0,0,6
+xsd,hardware,0,0,0,0,6
+xsd,os,0,0,0,0,6
+xsd,priority,0,0,0,0,6
+xsd,product,0,0,0,0,6
+xsd,severity,0,0,0,0,6
+xsd,status,0,0,0,0,6
+xsd,version,0,0,0,0,6
+xsd 요약,,0,0,0,0,54
+xtext,assignee,0,0,0,0,6682
+xtext,component,38,19,6,0,6682
+xtext,hardware,57,0,1,0,6682
+xtext,os,58,2,1,0,6682
+xtext,priority,45,1,0,0,6682
+xtext,product,8,0,0,0,6682
+xtext,severity,462,35,3,0,6682
+xtext,status,0,0,0,0,6682
+xtext,version,352,13,2,0,6682
+xtext 요약,,1020,70,13,0,60138
+xtextbacklog,assignee,0,0,0,0,174
+xtextbacklog,component,71,0,0,0,174
+xtextbacklog,hardware,0,0,0,0,174
+xtextbacklog,os,0,0,0,0,174
+xtextbacklog,priority,7,0,0,0,174
+xtextbacklog,product,0,0,0,0,174
+xtextbacklog,severity,24,2,0,0,174
+xtextbacklog,status,0,0,0,0,174
+xtextbacklog,version,9,0,0,0,174
+xtextbacklog 요약,,111,2,0,0,1566
+xtexterrors,assignee,0,0,0,0,213
+xtexterrors,component,1,0,0,0,213
+xtexterrors,hardware,0,0,0,0,213
+xtexterrors,os,0,0,0,0,213
+xtexterrors,priority,0,0,0,0,213
+xtexterrors,product,0,0,0,0,213
+xtexterrors,severity,0,0,0,0,213
+xtexterrors,status,0,0,0,0,213
+xtexterrors,version,13,0,0,0,213
+xtexterrors 요약,,14,0,0,0,1917
+xviewer,assignee,0,0,0,0,80
+xviewer,component,0,0,0,0,80
+xviewer,hardware,0,0,0,0,80
+xviewer,os,1,0,0,0,80
+xviewer,priority,0,0,0,0,80
+xviewer,product,0,0,0,0,80
+xviewer,severity,0,1,0,0,80
+xviewer,status,0,0,0,0,80
+xviewer,version,3,0,1,0,80
+xviewer 요약,,4,1,1,0,720
+xwt,assignee,0,0,0,0,28
+xwt,component,0,0,0,0,28
+xwt,hardware,0,0,0,0,28
+xwt,os,0,0,0,0,28
+xwt,priority,0,0,0,0,28
+xwt,product,0,0,0,0,28
+xwt,severity,1,0,0,0,28
+xwt,status,0,0,0,0,28
+xwt,version,0,0,0,0,28
+xwt 요약,,1,0,0,0,252
+yearlyrelease,assignee,0,0,0,0,114
+yearlyrelease,component,19,0,0,0,114
+yearlyrelease,hardware,0,0,0,0,114
+yearlyrelease,os,0,0,0,0,114
+yearlyrelease,priority,20,5,0,0,114
+yearlyrelease,product,0,0,0,0,114
+yearlyrelease,severity,2,0,0,0,114
+yearlyrelease,status,0,0,0,0,114
+yearlyrelease,version,1,0,0,0,114
+yearlyrelease 요약,,42,5,0,0,1026
+zest,assignee,0,0,0,0,311
+zest,component,5,0,0,0,311
+zest,hardware,2,0,0,0,311
+zest,os,6,0,0,0,311
+zest,priority,2,3,0,0,311
+zest,product,0,0,0,0,311
+zest,severity,11,0,0,0,311
+zest,status,0,0,0,0,311
+zest,version,0,0,0,0,311
+zest 요약,,26,3,0,0,2799
+총합계,,74240,3728,546,382,3731211
