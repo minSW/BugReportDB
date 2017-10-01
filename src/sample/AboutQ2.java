@@ -9,7 +9,7 @@ public class AboutQ2 {
 		System.out.println("================="+key+"Q2 success======================");
 		try
 		{
-			ResultSet rs1 = q.executeQuery("SELECT refieldnum, count(bug_id) as count FROM ( SELECT bug_id, case when fieldnum<4 then fieldnum else '4' end as refieldnum  FROM (SELECT bug_id, count(distinct field) as fieldnum FROM history WHERE field !='resolution' AND prev!='new' AND post!='resolved' AND post!='closed' and component='"+key+"' group by bug_id)) group by refieldnum");			
+			ResultSet rs1 = q.executeQuery("SELECT refieldnum, count(bug_id) as count FROM ( SELECT bug_id, case when fieldnum<4 then fieldnum else '4' end as refieldnum  FROM (SELECT bug_id, count(distinct field) as fieldnum FROM BEASS2 WHERE field !='resolution' AND prev!='new' AND post!='resolved' AND post!='closed' group by bug_id)) group by refieldnum");			
 			//ResultSet rs1 = q.executeQuery("SELECT refieldnum, count(bug_id) as count FROM ( SELECT bug_id, case when fieldnum<4 then fieldnum else '4' end as refieldnum  FROM (SELECT bug_id, count(distinct field) as fieldnum FROM (SELECT * FROM BEASS as b1 where PARSEDATETIME(date,'yyyy-MM-dd hh:mm:ss')  < all (select PARSEDATETIME(b2.date,'yyyy-MM-dd hh:mm:ss') from beass as b2 where b2.post='assigned' and b1.bug_id=b2.bug_id) order by date asc) WHERE field !='resolution' AND prev!='new' AND post!='resolved' AND post!='closed' group by bug_id)) group by refieldnum");			
 			
 			while(rs1.next()){

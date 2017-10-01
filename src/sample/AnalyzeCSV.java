@@ -3,8 +3,6 @@ package sample;
 import java.io.BufferedReader;
 import java.io.FileOutputStream;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Iterator;
 
 import org.apache.poi.hssf.usermodel.HSSFCell;
@@ -12,37 +10,20 @@ import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 
-public class AnalyzeQ3 {
-	//static public ArrayList<String> DomainList = new ArrayList<>();
-	static public HashMap<String, ArrayList<String>> DomainList = new HashMap<>();
-	
-	AnalyzeQ3() throws Exception
+public class AnalyzeCSV {
+
+	AnalyzeCSV() throws Exception
 	{
-		Iterator<String> iter = BugDBConnection.Domain.keySet().iterator();
-		try{
-			while(iter.hasNext()){
-				String key = iter.next();
-				String domain = key.split("-")[0];
-				String project = key.split("-")[1];
-				if (!DomainList.containsKey(domain)){
-					ArrayList<String> Projects=new ArrayList<>();
-					Projects.add(project);
-					DomainList.put(domain,Projects);
-				}else{
-					DomainList.get(domain).add(project);
-				}
-			}
-		}
-		finally{};
 	// domain-project hashmap 작성
 	}
+	
 	public static void PrintToExcel() throws Exception {
 		// TODO Auto-generated method stub
 		
 		HSSFWorkbook workbook=new HSSFWorkbook();
-		new AnalyzeQ3();
+		new AnalyzeCSV();
 		
-		Iterator<String> it = DomainList.keySet().iterator();
+		Iterator<String> it = BugDBConnection.DomainList.keySet().iterator();
 		try{
 			while(it.hasNext()){
 				String domain = it.next();
@@ -54,7 +35,7 @@ public class AnalyzeQ3 {
 				HSSFCell cell=null;
 				//임의의 DB데이터 조회 
 				
-				BufferedReader br = new BufferedReader(new FileReader("./data/output3.csv"));
+				BufferedReader br = new BufferedReader(new FileReader("./data/"+BugDBConnection.filename+".csv"));
 				int i=0;
 				String str=br.readLine(); //skip the first line
 				String[] line =str.split(",");	
@@ -88,7 +69,7 @@ public class AnalyzeQ3 {
 		}
 		finally{};
 
-		FileOutputStream fileoutputstream=new FileOutputStream("./data/analyzeQ3.xls");
+		FileOutputStream fileoutputstream=new FileOutputStream("./data/Analyze_"+BugDBConnection.filename+".xls");
 		workbook.write(fileoutputstream);
 		fileoutputstream.close();
 		

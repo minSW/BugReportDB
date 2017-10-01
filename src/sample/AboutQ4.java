@@ -8,7 +8,7 @@ public class AboutQ4 {
 		System.out.println("================="+key+"Q4 success======================");
 		try
 		{
-			ResultSet rs1 = q.executeQuery("SELECT field, avg(time), min(time),max(time) FROM (SELECT field, PARSEDATETIME(date,'yyyy-MM-dd hh:mm:ss')-PARSEDATETIME(open_date,'yyyy-MM-dd hh:mm:ss') as time FROM (SELECT h.bug_id, open_date, date, field FROM history as h, META_FIELD as m WHERE h.bug_id=m.bug_id)  group by field, time) group by field");
+			ResultSet rs1 = q.executeQuery("SELECT field, avg(time), min(time),max(time) FROM (SELECT field, PARSEDATETIME(date,'yyyy-MM-dd hh:mm:ss')-PARSEDATETIME(open_date,'yyyy-MM-dd hh:mm:ss') as time FROM (SELECT h.bug_id, open_date, date, field FROM BEASS2 as h, META_FIELD as m WHERE h.bug_id=m.bug_id)  group by field, time) group by field");
 			//ResultSet rs1 = q.executeQuery("SELECT field, avg(time), min(time),max(time) FROM (SELECT field, PARSEDATETIME(date,'yyyy-MM-dd hh:mm:ss')-PARSEDATETIME(open_date,'yyyy-MM-dd hh:mm:ss') as time FROM (SELECT h.bug_id, open_date, date, field FROM (SELECT * FROM BEASS as b1 where PARSEDATETIME(date,'yyyy-MM-dd hh:mm:ss')  < all (select PARSEDATETIME(b2.date,'yyyy-MM-dd hh:mm:ss') from beass as b2 where b2.post='assigned' and b1.bug_id=b2.bug_id) order by date asc) as h, META_FIELD as m WHERE h.bug_id=m.bug_id)  group by field, time) group by field");
 			
 			while(rs1.next()){

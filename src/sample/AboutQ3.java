@@ -10,7 +10,7 @@ public class AboutQ3 {
 		System.out.println("================="+key+"Q3 success======================");
 		try
 		{
-			ResultSet rs1 = q.executeQuery("SELECT field, recount, count(recount) FROM (SELECT field, case when re_count<4 then re_count else '4' end as recount FROM (SELECT bug_id, field, count(field) as re_count FROM history WHERE component='"+key+"' group by bug_id, field)) group by field,recount order by field,recount");
+			ResultSet rs1 = q.executeQuery("SELECT field, recount, count(recount) FROM (SELECT field, case when re_count<4 then re_count else '4' end as recount FROM (SELECT bug_id, field, count(field) as re_count FROM BEASS2 group by bug_id, field)) group by field,recount order by field,recount");
 			//ResultSet rs1 = q.executeQuery("SELECT field, recount, count(recount) FROM (SELECT field, case when re_count<4 then re_count else '4' end as recount FROM (SELECT bug_id, field, count(field) as re_count FROM (SELECT * FROM BEASS as b1 where PARSEDATETIME(date,'yyyy-MM-dd hh:mm:ss')  < all (select PARSEDATETIME(b2.date,'yyyy-MM-dd hh:mm:ss') from beass as b2 where b2.post='assigned' and b1.bug_id=b2.bug_id) order by date asc) group by bug_id, field)) group by field,recount order by field,recount");
 			
 			while(rs1.next()){
