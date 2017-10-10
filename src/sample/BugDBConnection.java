@@ -7,15 +7,17 @@ import java.io.FileWriter;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
+import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 
 import org.h2.jdbc.JdbcSQLException;
 
 public class BugDBConnection {
 	static public HashMap<String, Connection> connMap = new HashMap<String, Connection>();
 	static public HashMap<String, ArrayList<String>> DomainList = new HashMap<>();
-	static public String filename="assignee_project";
+	static public ArrayList<String> ProjectList = new ArrayList<>();
 	
 	//static public HashMap<String,FieldSet> Domain = new HashMap<String, FieldSet>();
 	//static public ArrayList<String> errorList = new ArrayList<String>();
@@ -44,11 +46,14 @@ public class BugDBConnection {
 			String[] line = str.split(",");
 			String domain = line[0];
 			String project = line[1];
-		
+		/*
 			Connection conn = DriverManager.getConnection("jdbc:h2:./DB/"+domain+"/"+project,"sa","");
 			System.out.println("-------- CONNECT WITH "+domain+" "+project+" DB ----------");
 
 			connMap.put(domain.toLowerCase()+"-"+project.toLowerCase(), conn); 
+		*/
+			ProjectList.add(project);
+			ProjectList.add(domain);
 			
 			if (!DomainList.containsKey(domain)){
 				ArrayList<String> Projects=new ArrayList<>();
@@ -58,25 +63,28 @@ public class BugDBConnection {
 				DomainList.get(domain).add(project);
 			} // list domain and projects by using hashmap
 		}
-		
 	}
-
+	static public String filename="assignee_cnt_rate";
+	
 	public static void main(String[] args) throws Exception {
 
 		new BugDBConnection();
 	
 		BufferedWriter bw = new BufferedWriter(new FileWriter("./data/"+filename+".csv"));
-		bw.write("domain,project,assignee\n");
+		bw.write("domain,assignee,number\n");
 		
-		Iterator<String> iter = connMap.keySet().iterator();
+		Connection conn = DriverManager.getConnection("jdbc:h2:./DB/assignee","sa","");
+		System.out.println("-------- CONNECT WITH ASS DB ----------");
+
+		Iterator<String> iter = DomainList.keySet().iterator();
 		try{
 			while(iter.hasNext()){
+				/*
 				String key = iter.next();
 				String domain = key.split("-")[0];
 				String project = key.split("-")[1];
-				
 				Connection conn = connMap.get(key);
-				Statement q = conn.createStatement();
+				
 				//num=the number of bug reports in META_FIELD Table
 				System.out.println(key);
 				int num=0;
@@ -91,25 +99,45 @@ public class BugDBConnection {
 					hnum=rs0.getInt("count");
 				}
 				
-				if (hnum!=0){ // if it's not empty project
-					try{
-						String ass;
-	
-						ResultSet rs1= q.executeQuery("SELECT distinct assignee FROM META_FIELD order by assignee asc");
-						while (rs1.next()){
-							ass=rs1.getString("assignee");
-							bw.write(domain+","+project+","+ass+"\n");
+				*/
+				String domain = iter.next();
+				ArrayList project = DomainList.get(domain);
+				
+				Statement q = conn.createStatement();
+				try{
+					String ass;
+					int cnt=0;
+					int num=0;
+					int multi=0;
+					
+					ResultSet rs0= q.executeQuery("SELECT count(distinct assignee) as num FROM "+domain);
+					rs0.next();
+					num=rs0.getInt("num");
+					
+					ResultSet rs1= q.executeQuery("SELECT assignee, count(distinct(project)) as cnt FROM "+domain+" group by assignee order by cnt desc");
+					while (rs1.next()){
+						ass=rs1.getString("assignee");
+						cnt=rs1.getInt("cnt");
+						
+						if (!ass.contains("inbox")&& cnt>1){
+							int i;
+							for(i=0; i<ProjectList.size(); i++){
+								String tmp=ProjectList.get(i);
+								if (ass.contains(tmp)) break;
+							}
+							if(i==ProjectList.size()) multi++;
 						}
-						System.out.println("-------Complete");
-					}catch(JdbcSQLException e){
-						e.printStackTrace();
-						System.out.println("---Exception");
 					}
+					bw.write(domain+","+multi+","+num+"\n");
+					System.out.println("-------Complete");
+				}catch(JdbcSQLException e){
+					e.printStackTrace();
+					System.out.println("---Exception");
 				}
-				conn.close();	
 			}
+			conn.close();	
 			bw.close();
-			AnalyzeCSV.PrintToExcel();
+			//AnalyzeCSV.PrintToExcel();
 		}
 		catch(Exception e1)
 		{	
