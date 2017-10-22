@@ -27,31 +27,52 @@ public class BugDBConnection {
 		Class.forName("org.h2.Driver");
 		String str;
 		/*
+		BufferedReader br0 = new BufferedReader(new FileReader("./data/domainDB.csv")); // whole data
+		
+		while((str=br0.readLine())!= null){
+			String[] line = str.split(",");
+			String domain = line[0];
+
+			Connection conn = DriverManager.getConnection("jdbc:h2:./domainDB/"+domain,"sa","");
+			System.out.println("-------- CONNECT WITH domain '"+domain+"' DB ----------");
+
+			connMap.put(domain.toLowerCase(), conn); 
+		}
+		*/
+
 		BufferedReader br = new BufferedReader(new FileReader("./data/domain.csv")); // whole data
 		
 		while((str=br.readLine())!= null){
 			String[] line = str.split(",");
-			String domain = line[0];
-			String project = line[1].replace("?", "");
+			String domain = line[0].toLowerCase();
+			String project = line[1].toLowerCase().replace("?", "");
 
 			Connection conn = DriverManager.getConnection("jdbc:h2:./DB/"+domain+"/"+project,"sa","");
 			System.out.println("-------- CONNECT WITH "+domain+" "+project+" DB ----------");
 
-			connMap.put(domain.toLowerCase()+"-"+project.toLowerCase(), conn); 
+			connMap.put(domain.toLowerCase()+"-"+project.toLowerCase(), conn);
+			
+			if (!DomainList.containsKey(domain)){
+				ArrayList<String> Projects=new ArrayList<>();
+				Projects.add(project);
+				DomainList.put(domain,Projects);
+			}else{
+				DomainList.get(domain).add(project);
+			} // list domain and projects by using hashmap
 		}
-		*/
 
+/*
 		BufferedReader br = new BufferedReader(new FileReader("./data/datamap.csv")); // Screened data
 		while((str=br.readLine())!= null){
 			String[] line = str.split(",");
 			String domain = line[0];
 			String project = line[1];
-		/*
+//
 			Connection conn = DriverManager.getConnection("jdbc:h2:./DB/"+domain+"/"+project,"sa","");
 			System.out.println("-------- CONNECT WITH "+domain+" "+project+" DB ----------");
 
 			connMap.put(domain.toLowerCase()+"-"+project.toLowerCase(), conn); 
-		*/
+		
 			ProjectList.add(project);
 			ProjectList.add(domain);
 			
@@ -63,79 +84,68 @@ public class BugDBConnection {
 				DomainList.get(domain).add(project);
 			} // list domain and projects by using hashmap
 		}
+		*/
+
 	}
-	static public String filename="assignee_cnt_rate";
+	static public String filename="project_cnt_rate";
 	
 	public static void main(String[] args) throws Exception {
 
 		new BugDBConnection();
 	
 		BufferedWriter bw = new BufferedWriter(new FileWriter("./data/"+filename+".csv"));
-		bw.write("domain,assignee,number\n");
-		
+		bw.write("domain,project,prev,cnt,bool,number\n");
+/*
 		Connection conn = DriverManager.getConnection("jdbc:h2:./DB/assignee","sa","");
 		System.out.println("-------- CONNECT WITH ASS DB ----------");
-
+		
 		Iterator<String> iter = DomainList.keySet().iterator();
+*/
+		Iterator<String> iter = connMap.keySet().iterator();
+
 		try{
 			while(iter.hasNext()){
-				/*
 				String key = iter.next();
 				String domain = key.split("-")[0];
 				String project = key.split("-")[1];
 				Connection conn = connMap.get(key);
 				
-				//num=the number of bug reports in META_FIELD Table
 				System.out.println(key);
-				int num=0;
-				ResultSet rs = q.executeQuery("SELECT count(*) as count FROM META_FIELD");		
-				while(rs.next()){
-					num=rs.getInt("count");
-				}
-				
-				int hnum=0;
-				ResultSet rs0=q.executeQuery("SELECT count(*) as count FROM HISTORY");
-				while (rs0.next()){
-					hnum=rs0.getInt("count");
-				}
-				
-				*/
-				String domain = iter.next();
-				ArrayList project = DomainList.get(domain);
-				
+
 				Statement q = conn.createStatement();
 				try{
-					String ass;
+					String prev="";
 					int cnt=0;
 					int num=0;
-					int multi=0;
+					int bool=0;
 					
-					ResultSet rs0= q.executeQuery("SELECT count(distinct assignee) as num FROM "+domain);
+					ResultSet rs0= q.executeQuery("SELECT count(bug_id) as num FROM META_FIELD");
 					rs0.next();
 					num=rs0.getInt("num");
 					
-					ResultSet rs1= q.executeQuery("SELECT assignee, count(distinct(project)) as cnt FROM "+domain+" group by assignee order by cnt desc");
+					ResultSet rs1= q.executeQuery("SELECT prev, count(prev) as cnt FROM history as h1 where field='product' and (date <= all (select date from history as h2 where h1.bug_id=h2.bug_id) ) group by prev order by cnt desc");
 					while (rs1.next()){
-						ass=rs1.getString("assignee");
+						prev=rs1.getString("prev");
 						cnt=rs1.getInt("cnt");
-						
-						if (!ass.contains("inbox")&& cnt>1){
-							int i;
-							for(i=0; i<ProjectList.size(); i++){
-								String tmp=ProjectList.get(i);
-								if (ass.contains(tmp)) break;
+						if(prev.contains("mdt.")) prev.replace("mdt.", "");
+						if(prev.contains(project)) prev=project;
+		
+						for(int i=0; i<DomainList.get(domain).size(); i++){
+							String tmp=DomainList.get(domain).get(i);
+							if (prev.equals(tmp)) {
+								bool=1;
+								break;
 							}
-							if(i==ProjectList.size()) multi++;
 						}
+						bw.write(domain+","+project+","+prev+","+cnt+","+bool+","+num+"\n");
 					}
-					bw.write(domain+","+multi+","+num+"\n");
 					System.out.println("-------Complete");
 				}catch(JdbcSQLException e){
 					e.printStackTrace();
 					System.out.println("---Exception");
 				}
+				conn.close();
 			}
-			conn.close();	
 			bw.close();
 			//AnalyzeCSV.PrintToExcel();
 		}
