@@ -40,7 +40,7 @@ public class BugDBConnection {
 		}
 		*/
 
-		BufferedReader br = new BufferedReader(new FileReader("./data/domain187.csv")); // whole data
+		BufferedReader br = new BufferedReader(new FileReader("./data/domain0.csv")); // whole data
 		
 		while((str=br.readLine())!= null){
 			String[] line = str.split(",");
@@ -87,14 +87,14 @@ public class BugDBConnection {
 		*/
 
 	}
-	static public String filename="assign_assignee_date";
+	static public String filename="domain_project_num";
 	
 	public static void main(String[] args) throws Exception {
 
 		new BugDBConnection();
 	
 		BufferedWriter bw = new BufferedWriter(new FileWriter("./data/"+filename+".csv"));
-		bw.write("domain,project,ID,type,time,num\n");
+		bw.write("domain,project,BEASS2_num,HISTORY_num,META_num\n");
 /*
 		Connection conn = DriverManager.getConnection("jdbc:h2:./DB/assignee","sa","");
 		System.out.println("-------- CONNECT WITH ASS DB ----------");
@@ -114,29 +114,32 @@ public class BugDBConnection {
 
 				Statement q = conn.createStatement();
 				try{
-
-					ResultSet rs0= q.executeQuery("select count(distinct bug_id) as count from history where field='assignee'");
+					int be=0;
+					int his=0;
+					int meta=0;
+					int num=0;
+					
+					ResultSet ori= q.executeQuery("SELECT count(distinct bug_id) as count FROM META_FIELD");
+					ori.next();
+					num=ori.getInt("count");
+					
+					ResultSet rs= q.executeQuery("SELECT count(distinct bug_id) as count FROM META_FIELD WHERE status like '%resolved%' or status like '%fixed%' or status like '%closed%'");
+					rs.next();
+					meta=rs.getInt("count");
+					
+					ResultSet rs0= q.executeQuery("SELECT count(distinct bug_id) as count FROM HISTORY");
 					rs0.next();
-					int num=rs0.getInt("count");
-
+					his=rs0.getInt("count");
 					try{
-						ResultSet rs= q.executeQuery("select H_ID, type, min(time) as min from (select H_ID, case when H_ID=b.bug_id then 'Y' else 'N' end as type, PARSEDATETIME(H_date,'yyyy-MM-dd hh:mm:ss')-PARSEDATETIME(open_date,'yyyy-MM-dd hh:mm:ss') as time FROM meta_field as m, beass2 as b, (select h.bug_id as H_ID, h.date as H_date from history as h where h.field='assignee') WHERE H_ID=m.bug_id) group by H_ID,type");
-						while (rs.next()){
-							String id=rs.getString("H_ID");
-							String type=rs.getString("type");
-							int min=rs.getInt("min");
-							bw.write(domain+","+project+","+id+","+type+","+min+","+num+"\n");
-						}
-					}catch(JdbcSQLException e){
-						System.out.println("//There is not BEASS2//");
-						ResultSet rs= q.executeQuery("select H_ID, min(time) as min from (select H_ID, PARSEDATETIME(H_date,'yyyy-MM-dd hh:mm:ss')-PARSEDATETIME(open_date,'yyyy-MM-dd hh:mm:ss') as time FROM meta_field as m, (select h.bug_id as H_ID, h.date as H_date from history as h where h.field='assignee') WHERE H_ID=m.bug_id) group by H_ID");
-						while (rs.next()){
-							String id=rs.getString("H_ID");
-							String type="N";
-							int min=rs.getInt("min");
-							bw.write(domain+","+project+","+id+","+type+","+min+","+num+"\n");
-						}
+						boolean rs1= q.execute("DELETE FROM BEASS2 WHERE field='status' or field='resolution'");
+						ResultSet rs2= q.executeQuery("SELECT count(distinct bug_id) as count FROM BEASS2");
+						rs2.next();
+						be=rs2.getInt("count");
 					}
+					finally{
+						bw.write(domain+","+project+","+be+","+his+","+meta+","+num+"\n");
+					}
+
 /*
 					while (rs1.next()){
 						prev=rs1.getString("prev");
